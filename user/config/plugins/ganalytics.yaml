@@ -1,0 +1,13 @@
+enabled: true
+trackingId: UA-120714826-1
+position: head
+objectName: ga
+forceSsl: true
+async: false
+anonymizeIp: false
+cookieConfig: false
+cookieName: _ga
+cookieDomain: medlicense.com
+cookieExpires: 63072000
+debugStatus: false
+debugTrace: false

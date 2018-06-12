@@ -2,12 +2,32 @@
 title: 'Puerto Rico'
 licenserequirements: "<ul>\r\n<li>Medical School Transcripts</li>\r\n<li>Internship/Residency/Fellowships</li>\r\n<li>All State Medical Licenses (past/present)</li>\r\n<li>Examination Scores</li>\r\n<li>2 Puerto Rico Licensed Physician References</li>\r\n<li>Undergraduate University Transcripts</li>\r\n<li>Medical School Verification Form</li>\r\n<li>Medical School Dean's Letter</li>\r\n<li>Puerto Rico Criminal Clearance Check</li>\r\n<li>Numerous Notarized Attestations</li>\r\n<li>Board Certification</li>\r\n</ul>"
 examrequirements: "<ul>\r\n<li>Examinations 75% +</li>\r\n<li>No attempt limit per Step - USMLE</li>\r\n<li>7 year limit-USMLE</li>\r\n<li>1 year PGY for USA Grads</li>\r\n<li>1 year PGY for Non-USA Grads</li>\r\n<li>State Exam Accepted</li>\r\n<li>No 10 year Rule - No SPEX Requirement</li>\r\n<li>No ECFMG Requirement</li>\r\n</ul>"
+contactinformation: "<p style=\"padding: 0px 0px 0em; margin: 0px; color: #777777; font-family: Arial, Helvetica, Verdana, san-serif; font-size: 13px;\">Ponce De Le&oacute;n Street 1590<br style=\"padding: 0px; margin: 0px;\" />GM Group Building 3rd Floor<br style=\"padding: 0px; margin: 0px;\" />Rio Piedras, PR&nbsp; 00920<br style=\"padding: 0px; margin: 0px;\" />P.O. Box 13969 (Mailing Address)<br style=\"padding: 0px; margin: 0px;\" />San Juan, PR&nbsp; 00908</p>\r\n<p style=\"padding: 0px 0px 0em; margin: 0px; color: #777777; font-family: Arial, Helvetica, Verdana, san-serif; font-size: 13px;\">Phone: (787) 999-8989<br style=\"padding: 0px; margin: 0px;\" />Fax: (787) 782-8733<br style=\"padding: 0px; margin: 0px;\" /><br /></p>\r\n<p style=\"padding: 0px 0px 0em; margin: 0px; color: #777777; font-family: Arial, Helvetica, Verdana, san-serif; font-size: 13px;\"><a href=\"http://www.salud.gov.pr\">http://www.salud.gov.pr</a></p>\r\n<p style=\"padding: 0px 0px 0em; margin: 0px; color: #777777; font-family: Arial, Helvetica, Verdana, san-serif; font-size: 13px;\">&nbsp;</p>"
 pgtdg: '1 year'
 pgtig: '1 year'
 abms: 'No'
 step3: None
 usmle: '7'
 visible: false
+twitterenable: true
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
 ---
 
 <p>With MedLicense.com Physician License Service there are no worries or headaches. The online form will take 15 minutes to fill out and then you will receive the signature forms within 5 business days. Return the signature forms to MedLicense.com along with any other items required in our simple check list. MedLicense.com will file the applications with the Puerto Rico State Medical Board directly. Puerto Rico requires two separate applications. One for the General License and another in order to practice in a Specialty. After the required medical board applications are filed, all third party primary source confirmations will be requested. MedLicense.com will follow up with each verifying source until the Puerto Rico Medical Board confirms that your license is complete and ready to be issued. MedLicense.com handles all the administrative leg work and proofing of the licensure application process. You can concentrate on your patients while MedLicense.com handles all the small, timely details.</p>

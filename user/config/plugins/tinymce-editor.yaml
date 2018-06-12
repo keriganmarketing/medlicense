@@ -30,6 +30,24 @@ menu:
   -
     title: Tools
     items: code
+  -
+    title: Edit
+    items: 'undo redo | cut copy paste pastetext | selectall | searchreplace'
+  -
+    title: Insert
+    items: 'media link image | pagebreak charmap anchor hr insertdatetime nonbreaking toc'
+  -
+    title: View
+    items: 'visualchars visualaid | fullscreen'
+  -
+    title: Format
+    items: 'bold italic underline strikethrough superscript subscript | formats | removeformat'
+  -
+    title: Table
+    items: 'inserttable tableprops deletetable | cell row column'
+  -
+    title: Tools
+    items: code
 toolbar:
   -
     row: 'cut copy paste | undo redo | searchreplace visualchars | table image toc | insertdatetime pagebreak charmap | link unlink anchor | blockquote nonbreaking hr | code'
