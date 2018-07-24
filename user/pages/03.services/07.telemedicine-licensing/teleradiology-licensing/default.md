@@ -11,6 +11,32 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 visible: true
+googletitle: 'Teleradiology Licensing'
+googledesc: 'Our experience is unmatched in the field of Teleradiology and Telemedicine. Radiologist, Consulting Physicians, and Locum Tenens Specialist have utilized our services to obtain licenses in all 50 States. '
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Teleradiology Licensing | MedLicense.com'
+twitterdescription: 'Our experience is unmatched in the field of Teleradiology and Telemedicine. Radiologist, Consulting Physicians, and Locum Tenens Specialist have utilized our services to obtain licenses in all 50 States. '
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Teleradiology Licensing'
+facebookdesc: 'Our experience is unmatched in the field of Teleradiology and Telemedicine. Radiologist, Consulting Physicians, and Locum Tenens Specialist have utilized our services to obtain licenses in all 50 States. '
 ---
 
 <p>Our experience is unmatched in the field of Teleradiology and Telemedicine. Radiologist, Consulting Physicians, and Locum Tenens Specialist have utilized our services to obtain licenses in all 50 States. It is not uncommon for MedLicense.com to provide nationwide Teleradiology License Service to Telemedicine setting up Teleradiology practices to service all 50 States. Unfortunately there is not a National Teleradiology License. Most States require that the physician have a license in each State where the patients/physical care is being given. Some States are now offering special Teleradiology Licenses. Teleradiology is a new field which the Medical Boards are now addressing. This combined with the governmental and legal liability of treating patients whom are not physically present in your State has opened the door for considerable problems if a Board Complaint or Malpractice Suit is filed against the Physician.</p>

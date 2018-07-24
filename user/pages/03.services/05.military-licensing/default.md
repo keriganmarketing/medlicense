@@ -7,6 +7,32 @@ sidebar:
         route: /_partials/_state-licensure-requirements
 enablefeatureboxes: false
 visible: true
+googletitle: 'Military Licensing'
+googledesc: 'MedLicense.com provides special pricing for Active Military Physicians. Our normal rate is $569.00 for the First State. Our rate for Active Military Physicians is only $429.00 per state.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Military Licensing | MedLicense.com'
+twitterdescription: 'MedLicense.com provides special pricing for Active Military Physicians. Our normal rate is $569.00 for the First State. Our rate for Active Military Physicians is only $429.00 per state.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Military Licensing | MedLicense.com'
+facebookdesc: 'MedLicense.com provides special pricing for Active Military Physicians. Our normal rate is $569.00 for the First State. Our rate for Active Military Physicians is only $429.00 per state.'
 ---
 
 <p>MedLicense.com provides special pricing for Active Military Physicians. Our normal rate is $569.00 for the First State. Our rate for Active Military Physicians is only $429.00 per State! MedLicense.com offers three methods of payment. For those who do not want to enter their credit card information over the internet we offer the option to pay by check or money order. If you prefer to pay instantly online, then we can accept Credit Cards through our secure server. You can also pay via PayPal. Once payment is received, work will begin immediately on your packet. Our fee covers the cost of MedLicense.com administrating, processing, and proofing your Medical License Applications and related documents. Our fee does not include the various fees charged by the state boards, national boards, PGT Facilities, Medical Schools, and other entities which charge physicians for primary source documentation. These fees are not related to MedLicense.com's administration fee.</p>

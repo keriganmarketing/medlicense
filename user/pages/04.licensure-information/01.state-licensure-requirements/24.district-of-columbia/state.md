@@ -9,6 +9,32 @@ abms: 'No'
 step3: 3+
 usmle: '7'
 visible: false
+googletitle: 'District of Columbia Licensure Requirements'
+googledesc: 'With the DC Med Board we are experiencing licensing times 90 to 160 days depending on whether a Physician is a Domestic or Foreign Medical School Graduate. The time it takes to obtain a DC Medical License will be determined by who is assigned to your file by the DC Medical Board.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'District of Columbia Licensure Requirements'
+twitterdescription: 'With the DC Med Board we are experiencing licensing times 90 to 160 days depending on whether a Physician is a Domestic or Foreign Medical School Graduate. The time it takes to obtain a DC Medical License will be determined by who is assigned to your file by the DC Medical Board.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'District of Columbia Licensure Requirements'
+facebookdesc: 'With the DC Med Board we are experiencing licensing times 90 to 160 days depending on whether a Physician is a Domestic or Foreign Medical School Graduate. The time it takes to obtain a DC Medical License will be determined by who is assigned to your file by the DC Medical Board.'
 ---
 
 <p>With the DC Med Board we are experiencing licensing times 90 to 160 days depending on whether a Physician is a Domestic or Foreign Medical School Graduate. The time it takes to obtain a DC Medical License will be determined by who is assigned to your file by the DC Medical Board. Some analyst at DC are more efficient and responsive than others. The Board requires that all educational, training, and work history since High School be verified directly with DC. DC typically does not issue exemptions to their requirements.</p>

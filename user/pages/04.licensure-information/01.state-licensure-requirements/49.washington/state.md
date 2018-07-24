@@ -9,6 +9,33 @@ abms: 'No'
 step3: '3'
 usmle: 7+
 visible: false
+googletitle: 'Washington Medical Board License Requirements'
+googledesc: 'The Washington Medical Board has a typical process. Most of the physician''s timeline is verified by the Washington Medical Board and it takes them 3 to 6 weeks to process applications after receipt. Licensure usually takes 2 1/2 to 3 1/2 months for most Physicians.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Washington Medical Board License Requirements'
+twitterdescription: 'The Washington Medical Board has a typical process. Most of the physician''s timeline is verified by the Washington Medical Board and it takes them 3 to 6 weeks to process applications after receipt. Licensure usually takes 2 1/2 to 3 1/2 months for most Physicians.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Washington Medical Board License Requirements'
+facebookdesc: 'The Washington Medical Board has a typical process. Most of the physician''s timeline is verified by the Washington Medical Board and it takes them 3 to 6 weeks to process applications after receipt. Licensure usually takes 2 1/2 to 3 1/2 months for most Physicians.'
+facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <p>The Washington Medical Board has a typical process. Most of the physician's timeline is verified by the Washington Medical Board. It takes the Washington Medical Board 3 to 6 weeks to process applications after receipt. After submitting the Washington Medical License Application, the Washington Medical Board will process and notify the physician of the deficiencies necessary to complete the application within a couple of weeks. The Washington Medical Board provides some access to the licensure analysts. There are two licensure analyst which handle all physicians. This limited number of analyst can create some communication delays for the verifying of receipt of the required verifications which must be received by the Washington Medical Board. The staff is helpful and pleasant to work with. Mail loss is usually not a problem with the Washington Medical Board. This also assists in providing for an expedited process.</p>

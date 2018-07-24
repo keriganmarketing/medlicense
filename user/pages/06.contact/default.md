@@ -6,6 +6,33 @@ sidebar:
     -
         route: /_partials/_state-licensure-requirements
 enablefeatureboxes: false
+googletitle: 'Contact | MedLicense.com | Professional Medical Licensure'
+googledesc: 'MedLicense.com provides Medical Licensing services for Doctors and most Health Care Professionals with all 50 State Medical Boards. Simply complete our online information request and we will handle the rest.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Contact | MedLicense.com | Professional Medical Licensure'
+twitterdescription: 'MedLicense.com provides Medical Licensing services for Doctors and most Health Care Professionals with all 50 State Medical Boards. Simply complete our online information request and we will handle the rest.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Contact | MedLicense.com | Professional Medical Licensure'
+facebookdesc: 'MedLicense.com provides Medical Licensing services for Doctors and most Health Care Professionals with all 50 State Medical Boards. Simply complete our online information request and we will handle the rest.'
+facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <p>653 West 23rd Street, Suite 189<br />Panama City, FL 32405</p>

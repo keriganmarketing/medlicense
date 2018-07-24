@@ -9,6 +9,32 @@ abms: 'No'
 step3: '3 attempts per step'
 usmle: '7'
 visible: false
+googletitle: 'North Dakota Licensure Requirements'
+googledesc: 'The North Dakota Medical Board is one of three States that recognizes United Kingdom. The average licensure time in North Dakota is 45 to 90 days for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician North Dakota Medical Board.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'North Dakota Licensure Requirements'
+twitterdescription: 'The North Dakota Medical Board is one of three States that recognizes United Kingdom. The average licensure time in North Dakota is 45 to 90 days for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician North Dakota Medical Board.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'North Dakota Licensure Requirements'
+facebookdesc: 'The North Dakota Medical Board is one of three States that recognizes United Kingdom. The average licensure time in North Dakota is 45 to 90 days for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician North Dakota Medical Board.'
 ---
 
 <p>With the North Dakota Medical Board, MedLicense.com is averaging 45 to 90 days for the issuance of a North Dakota Medical License for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician North Dakota Medical Board. Our firm has licensed Physicians in North Dakota since April 2000. In an average year, MedLicense.com will handle between 20 to 30 North Dakota Medica License Applications. We understand the process and what needs to be completed to have your application finalized. Once the files are deemed complete by the North Dakota Medical Board the North Dakota Medical License is issued. The North Dakota Medical Board does not require a Physical Interview.</p>

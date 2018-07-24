@@ -9,6 +9,32 @@ abms: 'Yes'
 step3: '3 (10 total attempts)'
 usmle: '7'
 visible: false
+googletitle: 'Alabama Licensure Requirements'
+googledesc: 'MedLicense.com''s Alabama Medical License Service is averaging 2 1/2 to 4 1/2 months. The ALBME is one of a handful of State Boards which offers a Telemedicine License. The purpose of the Telemedicine License is really to allow older, more experienced Physicians avoid the SPEX examination.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Alabama Licensure Requirements'
+twitterdescription: 'MedLicense.com''s Alabama Medical License Service is averaging 2 1/2 to 4 1/2 months. The ALBME is one of a handful of State Boards which offers a Telemedicine License. The purpose of the Telemedicine License is really to allow older, more experienced Physicians avoid the SPEX examination.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Alabama Licensure Requirements'
+facebookdesc: 'MedLicense.com''s Alabama Medical License Service is averaging 2 1/2 to 4 1/2 months. The ALBME is one of a handful of State Boards which offers a Telemedicine License. The purpose of the Telemedicine License is really to allow older, more experienced Physicians avoid the SPEX examination.'
 ---
 
 <p>MedLicense.com's Alabama Medical License Service is averaging 2 1/2 to 4 1/2 months. Our firm has licensed Physicians with ALBME since April 2000. In an average year, MedLicense.com will handle on average 50 AL Med License Applications. Whether you are a USA Graduate or a Graduate of a Foreign Physician School, our process can move this arduous process through within a time period that will meet you needs. Your involvement in the process is kept to a minimum. The fee for our Alabama Medical License Service is a one time payment of $599 (if you are practicing) or $489 (if you are in training) per State Process. Our packet is shipped to you after a 5-10 min consultation. Sign, notarize, and proof your application packet and then return it to MedLicense.com with the requested copies, photos, and addendums. Then MedLicense.com will forward the completed packet to the ALBME. Then the certification process begins along with the required follow up with the third parties and the Board. After the submission the license will be available within 2 1/2 to 4 1/2 months. The Alabama Physician License is typically delayed by the inner workings of the Alabama Med Board - not the verification process. All that you have to do is start the process with MedLicense.com."</p>

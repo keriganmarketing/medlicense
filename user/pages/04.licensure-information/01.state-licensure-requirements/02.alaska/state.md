@@ -9,6 +9,32 @@ abms: 'No'
 step3: '2 attempts per step'
 usmle: '7 or 10 (MD/PhD'
 visible: false
+googletitle: 'Alaska Licensure Requirements'
+googledesc: 'The Alaska Medical License Service averages 3 to 6 months for a Medical License and offers a temporary physician license, made available upon the acknowledgement that the application is complete, which will allow the Physician to practice until the Full Board meets to issue the AK License.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Alaska Licensure Requirements'
+twitterdescription: 'The Alaska Medical License Service averages 3 to 6 months for a Medical License and offers a temporary physician license, made available upon the acknowledgement that the application is complete, which will allow the Physician to practice until the Full Board meets to issue the AK License.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Alaska Licensure Requirements'
+facebookdesc: 'The Alaska Medical License Service averages 3 to 6 months for a Medical License and offers a temporary physician license, made available upon the acknowledgement that the application is complete, which will allow the Physician to practice until the Full Board meets to issue the AK License.'
 ---
 
 <p>With the Alaska Medical Board, MedLicense.com's Alaska Medical License Service is averaging 3 to 6 months for an Medical License. The AK Medical Board does offer a temporary physician license which is made available upon the acknowledgement that the application is complete. The temporary Physician license will allow the Physician to practice until the Full Board meets at its' quarterly meeting to issue the AK License. Our firm has licensed Physicians with the AK Med Board since April 2000. In an average year, MedLicense.com will handle on average 40 Applications. Whether you are a USA Graduate or a Graduate of a Foreign Medical School, our Alaska Medical License Service process can move this arduous process through within a time period that will meet you needs. Your involvement is kept to a minimum. The fee for our services is a one time payment of $599 (practicing) or $489 (in training) per State Process. Our packet is shipped to you after a 5-10 min consultation. Sign, notarize, and proof your application packet and then return it to MedLicense.com. Include all the requested copies, photos, and addendums. Then MedLicense.com will forward the completed packet to the Board. Then the verification process begins. All required follow up with the third parties and Alaska Physician Board will move forward. Within 2 to 3 1/2 months the temporary Alaska Physician license will typically be issued. All that you have to do is start the process with MedLicense.com.</p>

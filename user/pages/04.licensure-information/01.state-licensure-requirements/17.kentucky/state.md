@@ -9,6 +9,32 @@ abms: 'No'
 step3: '4 per step'
 usmle: None
 visible: false
+googletitle: 'Kentucky Licensure Requirements'
+googledesc: 'MedLicense.com is averaging 3-5 months with the Kentucky Medical Board for the issuance of a Kentucky Medical License. Kentucky is one of the more lengthy medical licensure processes in the US and our experience is such that we can push the process through and see licensure at the 60 - 150 day mark.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Kentucky Licensure Requirements'
+twitterdescription: 'MedLicense.com is averaging 3-5 months with the Kentucky Medical Board for the issuance of a Kentucky Medical License. Kentucky is one of the more lengthy medical licensure processes in the US and our experience is such that we can push the process through and see licensure at the 60 - 150 day mark.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Kentucky Licensure Requirements'
+facebookdesc: 'MedLicense.com is averaging 3-5 months with the Kentucky Medical Board for the issuance of a Kentucky Medical License. Kentucky is one of the more lengthy medical licensure processes in the US and our experience is such that we can push the process through and see licensure at the 60 - 150 day mark.'
 ---
 
 <p>With the Kentucky Medical Board, MedLicense.com is averaging 2 to 5 months for the issuance of a Kentucky Medical License from the submission of the application to the Medical Board to the issuance of the Physician Kentucky Medical License. Our firm has licensed Physicians in Kentucky since April 2000. In an average year, MedLicense.com will handle between 20 to 30 Kentucky License Applications. We understand the process and what needs to be completed to have your application finalized. MedLicense.com knows when and how to submit the Applications and in what order to help insure that the Kentucky Medical Board doesn't lose verifications. Our experience with Kentucky is such that we can push the process through and even see licensure at the 60 - 150 day mark. Once the files are deemed complete by the Kentucky Medical Board the Kentucky Medical License is typically issued within a week. The Kentucky Medical Board is not a difficult board to deal with if problems exist with the application. When the Kentucky Medical License is complete, a Board Appearance is usually not required.</p>

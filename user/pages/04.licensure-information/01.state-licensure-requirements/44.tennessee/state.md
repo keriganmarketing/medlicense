@@ -9,6 +9,33 @@ abms: 'No'
 step3: '3'
 usmle: '7 (waived if licensed in 3 States)'
 visible: false
+googletitle: 'Tennessee Licensure Requirements'
+googledesc: 'Tennessee licensure is averaging 2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Tennessee Medical Board. The Tennessee Medical Board requires fingerprints, which can lengthen the licensure process.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Tennessee Licensure Requirements'
+twitterdescription: 'Tennessee licensure is averaging 2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Tennessee Medical Board. The Tennessee Medical Board requires fingerprints, which can lengthen the licensure process.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Tennessee Licensure Requirements'
+facebookdesc: 'Tennessee licensure is averaging 2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Tennessee Medical Board. The Tennessee Medical Board requires fingerprints, which can lengthen the licensure process.'
+facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <p>With the Tennessee Medical Board, MedLicense.com is averaging 2 to 3 1/2 months for the issuance of a Tennessee Medical License for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Tennessee Medical Board. Our firm has licensed Physicians in Tennessee since April 2000. In an average year, MedLicense.com will handle between 30 to 35 Tennessee Medical License Applications. We understand the process and what needs to be completed to have your application finalized. Once the files are deemed complete by the Tennessee Medical Board the Medical License is issued. The Tennessee Medical Board will not require a Physical Interview.</p>

@@ -9,6 +9,32 @@ abms: 'No'
 step3: None
 usmle: '7 or 10 (MD/PhD)'
 visible: false
+googletitle: 'Colorado Licensure Requirements'
+googledesc: 'The Colorado Medical License Service averages 2 to 4 months for the issuance of the License and can be expedited if a physician qualifies for the Expedited License. The CO Medical Board utilizes the California Black List concerning approved/unapproved Scho'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Colorado Licensure Requirements'
+twitterdescription: 'The Colorado Medical License Service averages 2 to 4 months for the issuance of the License and can be expedited if a physician qualifies for the Expedited License. The CO Medical Board utilizes the California Black List concerning approved/unapproved Scho'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Colorado Licensure Requirements'
+facebookdesc: 'The Colorado Medical License Service averages 2 to 4 months for the issuance of the License and can be expedited if a physician qualifies for the Expedited License. The CO Medical Board utilizes the California Black List concerning approved/unapproved Scho'
 ---
 
 <p>Our Colorado Medical License Service can be quite expeditd if a physician qualifies for the Expedited License. If the applicant does not, then licensure process will be typical of most States. The Colorado Medical Board processes application quickly. After submitting the Colorado Medical License Application, the Colorado Medical Board will process and notify the physician about the deficiencies necessary to complete the application within a couple of weeks. The process with Colorado is typical. Colorado provides access to the licensure analysts. This allows quick confirmations of receipt of the required CO Med Board verifications. The staff is helpful and pleasant to work with. Mail loss typically is not a problem with the CO Medical Board. This also assists in providing for an expedited process.</p>

@@ -11,6 +11,32 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 date: '10/22/2017 11:55 am'
+googletitle: 'Top Ten List'
+googledesc: 'A David Letterman style top ten list for the Easiest Medical Boards, Most Difficult Medical Boards, Physician Friendly Medical Boards, and AntiPhysician Medical Boards.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Top Ten List | MedLicense.com'
+twitterdescription: 'A David Letterman style top ten list for the Easiest Medical Boards, Most Difficult Medical Boards, Physician Friendly Medical Boards, and AntiPhysician Medical Boards.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Top Ten List'
+facebookdesc: 'A David Letterman style top ten list for the Easiest Medical Boards, Most Difficult Medical Boards, Physician Friendly Medical Boards, and AntiPhysician Medical Boards.'
 ---
 
 <p id="mcetoc_1cdnlrfkb0">A David Letterman style top ten list for the Easiest Medical Boards, Most Difficult Medical Boards, Physician Friendly Medical Boards, and Anti-Physician Medical Boards.</p>
@@ -25,10 +51,10 @@ date: '10/22/2017 11:55 am'
 <li>Maryland State Medical Board</li>
 <li>Tennessee State Medical Board</li>
 <li>Nebraska State Medical Board</li>
-<li>Florida State Medical Board<br /></li>
+<li>Florida State Medical Board</li>
 </ol>
 <p><br /><br /></p>
-<h3 id="mcetoc_1cdncqch11"><span class="c8">Top Ten List - Most Difficult State Medical Boards to Apply to:</h3>
+<h3 id="mcetoc_1cdncqch11"><span class="c8">Top Ten List - Most Difficult State Medical Boards to Apply to:</span></h3>
 <ol>
 <li>Mississippi State Medical Board</li>
 <li>Arkansas State Medical Board</li>

@@ -9,6 +9,32 @@ abms: 'No'
 step3: '4 (each step)'
 usmle: '10'
 visible: false
+googletitle: 'Nebraska Licensure Requirements'
+googledesc: 'MedLicense.com is averaging 2 - 3.5 months for the issuance of a Nebraska Medical License from submission of application. Our firm has licensed Physicians in Nebraska,  since 2000, and the fee for our services is a one time payment of $569 (if you are practicing) or $469 (if you are in training) per State Process. '
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Nebraska Licensure Requirements'
+twitterdescription: 'MedLicense.com is averaging 2 - 3.5 months for the issuance of a Nebraska Medical License from submission of application. Our firm has licensed Physicians in Nebraska,  since 2000, and the fee for our services is a one time payment of $569 (if you are practicing) or $469 (if you are in training) per State Process. '
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Nebraska Licensure Requirements'
+facebookdesc: 'MedLicense.com is averaging 2 - 3.5 months for the issuance of a Nebraska Medical License from submission of application. Our firm has licensed Physicians in Nebraska,  since 2000, and the fee for our services is a one time payment of $569 (if you are practicing) or $469 (if you are in training) per State Process. '
 ---
 
 <p>With the Nebraska Medical Board, MedLicense.com is averaging 2 to 3 1/2 months for the issuance of a Nebraska Medical License from the submission of the application to the Medical Board to the issuance of the Physician Nebraska Medical Board. Our firm has licensed Physicians in Nebraska since April 2000. In an average year, MedLicense.com will handle between 15 to 25 Nebraska License Applications. We understand the process and what needs to be completed to have your application finalized. Once the files are deemed complete by the Nebraska Medical Board the Nebraska Medical License is issued. The Nebraska Medical Board does not require a Physical Interview.</p>

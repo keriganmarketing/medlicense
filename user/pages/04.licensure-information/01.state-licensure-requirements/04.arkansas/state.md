@@ -9,6 +9,32 @@ abms: 'No'
 step3: '3 attempts per step'
 usmle: '7 or 10 (MD/PhD)'
 visible: false
+googletitle: 'Arkansas Licensure Requirements'
+googledesc: 'The Arkansas Medical License Service averages 3 to 6 months for the issuance of the License. Under some circumstances the AR Medical Board may issue a temporary license. The AR Medical Board has an extensive verification process but can issue licenses without requiring the application to go before a meeting.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Arkansas Licensure Requirements'
+twitterdescription: 'The Arkansas Medical License Service averages 3 to 6 months for the issuance of the License. Under some circumstances the AR Medical Board may issue a temporary license. The AR Medical Board has an extensive verification process but can issue licenses without requiring the application to go before a meeting.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Arkansas Licensure Requirements'
+facebookdesc: 'The Arkansas Medical License Service averages 3 to 6 months for the issuance of the License. Under some circumstances the AR Medical Board may issue a temporary license. The AR Medical Board has an extensive verification process but can issue licenses without requiring the application to go before a meeting.'
 ---
 
 <p>MedLicense.com's Arkansas Medical License Service is averaging 3 to 6 months from the submission of an application to the AR Medical Board to the issuance of the License. Under some circumstances, at the Director's discretion, the AR Medical Board can issue a temporary license. The AR Medical Board has an extensive verification processes in the USA. The AR Med Board can issue licenses without requiring the application to go before a Meeting. Our firm has licensed Physicians in AR since April 2000. In an average year, MedLicense.com will handle on average 20 Arkansas License Applications. Whether you are a USA Graduate or a Graduate of a Foreign School, our process can move this arduous process through within a time period that will meet you needs. Your involvement is kept to a minimum, with MedLicense.com handling the majority. Our packet is shipped to you after a 5-10 min consultation. Sign, notarize, and proof your application packet and then return it to MedLicense.com with the requested copies, photos, and addendums. Then MedLicense.com will forward the completed packet to the State. Then the certification process begins along with the required follow up with the third parties and the Arkansas Medical Board. Within 3 to 6 months of the submission, the license will typically be issued. All that you have to do is start the process with MedLicense.com.</p>

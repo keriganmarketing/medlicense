@@ -9,6 +9,32 @@ abms: 'Yes - Exempt if Board Certified'
 step3: None
 usmle: '7 if first license  None if licensed'
 visible: false
+googletitle: 'Arizona Licensure Requirements'
+googledesc: 'The Arizona Medical Board has an intensive process averaging 1 1/2 to 3 months for the issuance of a Arizona Med License. The Board verifies the 5 years of privilege and employment, School, Training, Exam Scores, Licenses, FBI Background Checks, NPDB-HIPDB, FSMB Board Action, and AMA Profile directly.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Arizona Licensure Requirements'
+twitterdescription: 'The Arizona Medical Board has an intensive process averaging 1 1/2 to 3 months for the issuance of a Arizona Med License. The Board verifies the 5 years of privilege and employment, School, Training, Exam Scores, Licenses, FBI Background Checks, NPDB-HIPDB, FSMB Board Action, and AMA Profile directly.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Arizona Licensure Requirements'
+facebookdesc: 'The Arizona Medical Board has an intensive process averaging 1 1/2 to 3 months for the issuance of a Arizona Med License. The Board verifies the 5 years of privilege and employment, School, Training, Exam Scores, Licenses, FBI Background Checks, NPDB-HIPDB, FSMB Board Action, and AMA Profile directly.'
 ---
 
 <p>With the Arizona Medical Board, MedLicense.com is averaging 40 to 90 days for the issuance of a Arizona Med License. (application submission to the AZ Medical Board to issuance of the Physician AZ Medical License). Our firm has licensed Physicians in Arizona since April 2000. In an average year, MedLicense.com will handle on average 50 Arizona Med License Applications. We understand the process and what needs to be completed to have your application finalized. MedLicense.com knows when to submit the Applications and in what order to help insure an expedited process. Whether you are a USA Graduate or a Graduate of a Foreign School, our process can move this arduous process through within a time period that will meet you needs. Your involvement in the process is kept to a minimum, with MedLicense.com handling the process. The fee for our AZ Med License Service is a one time payment of $599 ( practicing) or $489 (in training). Our packet is shipped to you after a 5-10 min consultation. Sign, notarize, and proof your application packet and then return it to MedLicense.com. Then MedLicense.com will submit the completed packet. Then the verification and follow up process begins Within 2 to 4 months after the submission, the license will typically be issued. All that you have to do is start the process with MedLicense.com.</p>

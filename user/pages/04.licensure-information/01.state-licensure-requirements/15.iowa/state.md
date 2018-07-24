@@ -9,6 +9,32 @@ abms: 'No'
 step3: '6-step 1&2  3-step 3  *3 yrs of approved PGT required if outside of attempt limits'
 usmle: '10 (no year limit if Board Certified)'
 visible: false
+googletitle: 'Iowa Licensure Requirements'
+googledesc: 'The Iowa Medical Board is averaging 2 to 3 1/2 months for the issuance of an Iowa Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the Iowa Medical Board.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Iowa Licensure Requirements'
+twitterdescription: 'The Iowa Medical Board is averaging 2 to 3 1/2 months for the issuance of an Iowa Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the Iowa Medical Board.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Iowa Licensure Requirements'
+facebookdesc: 'The Iowa Medical Board is averaging 2 to 3 1/2 months for the issuance of an Iowa Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the Iowa Medical Board.'
 ---
 
 <p>With the Iowa Medical Board, MedLicense.com is averaging 2 to 3 1/2 months for the issuance of a Iowa Medical License from the submission of the application to the Medical Board to the issuance of the Physician Iowa Medical License. Our firm has licensed Physicians in Iowa since April 2000. In an average year, MedLicense.com will handle between 30 to 40 Iowa License Applications. We understand the process and what needs to be completed to have your application finalized. MedLicense.com knows when and how to submit the Applications and in what order to help insure that the Iowa Medical Board doesn't lose verifications. Our experience with Iowa is such that we can push the process through and even see licensure at the 60-115 day mark Once the files are deemed complete by the Iowa Medical Board, the Iowa Medical License is typically issued within 10 to 20 days. The Iowa Medical Board is a difficult board to deal with if problems exist with the application. If Medical Board does not require a Board Appearance by the Physician.</p>

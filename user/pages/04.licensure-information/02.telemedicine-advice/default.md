@@ -11,6 +11,32 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 visible: true
+googletitle: 'Telemedicine Advice'
+googledesc: 'Learn about the process of applying for a telemedicine license and find out how medlicense.com can assist you in completing your Telemedicine Licensing process.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Telemedicine Advice | MedLicense.com'
+twitterdescription: 'Learn about the process of applying for a telemedicine license and find out how medlicense.com can assist you in completing your Telemedicine Licensing process.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Telemedicine Advice | MedLicense.com'
+facebookdesc: 'Learn about the process of applying for a telemedicine license and find out how medlicense.com can assist you in completing your Telemedicine Licensing process.'
 ---
 
 <p>The contents of this article are based on general observations of the State Medical Board's reaction to Physicians seeking to license in the various States for the purpose of Telemedicine. We are limiting this article to Telemedicine / Telepsychiatry. We are not including Teleradiology, Telepathology, or Tele-Intraoperative Neuromonitoring because Telemedicine and Telepsychiatry can involve prescribing drugs whereas the others do not.</p>

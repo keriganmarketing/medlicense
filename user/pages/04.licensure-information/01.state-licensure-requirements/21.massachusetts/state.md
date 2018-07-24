@@ -9,6 +9,32 @@ abms: 'Yes'
 step3: '6'
 usmle: 7+
 visible: false
+googletitle: 'Massachusetts Licensure Requirements'
+googledesc: 'MedLicense.com has licensed physicians in Massachusetts, since 2000, and handles 25-35 Massachusetts Medical License Applications each year. We understand the process of what needs to be completed. MedLicense.com is averaging 3.5-12 months for the issuance of a Massachusetts Medical License.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Massachusetts Licensure Requirements'
+twitterdescription: 'MedLicense.com has licensed physicians in Massachusetts, since 2000, and handles 25-35 Massachusetts Medical License Applications each year. We understand the process of what needs to be completed. MedLicense.com is averaging 3.5-12 months for the issuance of a Massachusetts Medical License.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Massachusetts Licensure Requirements'
+facebookdesc: 'MedLicense.com has licensed physicians in Massachusetts, since 2000, and handles 25-35 Massachusetts Medical License Applications each year. We understand the process of what needs to be completed. MedLicense.com is averaging 3.5-12 months for the issuance of a Massachusetts Medical License.'
 ---
 
 <p>With the Massachusetts Medical Board, MedLicense.com is averaging 3.5 to 12 months for the issuance of a Massachusetts Medical License from the submission of the application to the Medical Board to the issuance of the Physician Massachusetts Medical License. Our firm has licensed Physicians in Massachusetts since April 2000. In an average year, MedLicense.com will handle between 25 to 35 Massachusetts License Applications. We understand the process and what needs to be completed to have your application finalized. MedLicense.com knows when and how to submit the Applications and in what order to help insure that the Massachusetts Medical Board does not lose verifications. Once the files are deemed complete by the Massachusetts Medical Board the Massachusetts Medical License is issued. The Massachusetts Medical Board does not require a Physical Interview.</p>

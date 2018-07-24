@@ -11,31 +11,57 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 date: '10/04/2017 11:55 am'
+googletitle: 'Adverse Medical Boards'
+googledesc: 'We have obtained statistics from 2002 which provides the number of Medical Board Disciplinary Actions taken against their Physicians by State. The tables are meant to provide a general overview of how AntiDoctor each State Medical Board may or may not be.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Adverse Medical Boards'
+twitterdescription: 'We have obtained statistics from 2002 which provides the number of Medical Board Disciplinary Actions taken against their Physicians by State. The tables are meant to provide a general overview of how AntiDoctor each State Medical Board may or may not be.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Adverse Medical Boards'
+facebookdesc: 'We have obtained statistics from 2002 which provides the number of Medical Board Disciplinary Actions taken against their Physicians by State. The tables are meant to provide a general overview of how AntiDoctor each State Medical Board may or may not be.'
 ---
 
 <p id="mcetoc_1cdnlsc1i0">We have obtained statistics from 2002 which provides the number of Medical Board Disciplinary Actions taken against their Physicians by State. The tables are meant to provide a general overview of how Anti-Doctor each State Medical Board may or may not be.</p>
 <h3 id="mcetoc_1cdnd7e8c0">Ranking of Serious Doctor Disciplinary Actions By State Medical Licensing Boards &ndash; 2007</h3>
-<p>Rank 2004-2006 State # of Serious Actions 2006 Number of Physicians 2005 Serious Actions per 1,000 Physicians, 2004-2006 </p>
+<p>Rank 2004-2006 State # of Serious Actions 2006 Number of Physicians 2005 Serious Actions per 1,000 Physicians, 2004-2006</p>
 <p>1. Alaska 6 1777 7.30</p>
 <p>2. Kentucky 62 11039 7.10</p>
-<p>3. Wyoming 7 1170 6.37 </p>
-<p>4. Ohio 195 37247 6.01 </p>
-<p>5. Oklahoma 41 6950 5.54 </p>
-<p>6. Missouri 62 17126 5.43 </p>
-<p>7. Iowa 42 7374 5.32 </p>
-<p>8. Colorado 57 14666 5.24 </p>
-<p>9. Arizona 73 14699 5.12 </p>
-<p>10. Nebraska 24 4866 4.91 </p>
-<p>11. Louisiana 68 12758 4.87 </p>
-<p>12. Illinois 172 40801 4.64 </p>
-<p>13. Vermont 14 2624 4.62 </p>
-<p>14. West Virginia 18 4681 4.47 </p>
-<p>15. Utah 19 5857 4.30 </p>
-<p>16. North Carolina 112 25.321 4.24 </p>
-<p>17. New York 323 85842 4.15 </p>
-<p>18. Montana 9 2607 4.05 </p>
-<p>19. North Dakota 7 1768 3.98 </p>
-<p>20. Oregon 43 11807 3.80 </p>
+<p>3. Wyoming 7 1170 6.37</p>
+<p>4. Ohio 195 37247 6.01</p>
+<p>5. Oklahoma 41 6950 5.54</p>
+<p>6. Missouri 62 17126 5.43</p>
+<p>7. Iowa 42 7374 5.32</p>
+<p>8. Colorado 57 14666 5.24</p>
+<p>9. Arizona 73 14699 5.12</p>
+<p>10. Nebraska 24 4866 4.91</p>
+<p>11. Louisiana 68 12758 4.87</p>
+<p>12. Illinois 172 40801 4.64</p>
+<p>13. Vermont 14 2624 4.62</p>
+<p>14. West Virginia 18 4681 4.47</p>
+<p>15. Utah 19 5857 4.30</p>
+<p>16. North Carolina 112 25.321 4.24</p>
+<p>17. New York 323 85842 4.15</p>
+<p>18. Montana 9 2607 4.05</p>
+<p>19. North Dakota 7 1768 3.98</p>
+<p>20. Oregon 43 11807 3.80</p>
 <p>21. New Hampshire 12 4194 3.67</p>
 <p>22. New Mexico 21 5292 3.62</p>
 <p>23. Arkansas 35 6545 3.61</p>

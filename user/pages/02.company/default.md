@@ -6,6 +6,32 @@ sidebar:
     -
         route: /_partials/_state-licensure-requirements
 enablefeatureboxes: false
+googletitle: Company
+googledesc: 'Expedited Medical Licensing Since 2000. We are a United States based company which serves clients in the United States and International Clients World Wide. Our firm was founded in 2000. Over 400 Physicians visit MedLicense.com each day. In 2015 MedLicense.com licensed over 3100 Physicians.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Company | MedLicense.com | Expedited Medical Licensing Since 2000'
+twitterdescription: 'Expedited Medical Licensing Since 2000. We are a United States based company which serves clients in the United States and International Clients World Wide. Our firm was founded in 2000. Over 400 Physicians visit MedLicense.com each day. In 2015 MedLicense.com licensed over 3100 Physicians.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Company | MedLicense.com | Expedited Medical Licensing Since 2000'
+facebookdesc: 'Expedited Medical Licensing Since 2000. We are a United States based company which serves clients in the United States and International Clients World Wide. Our firm was founded in 2000. Over 400 Physicians visit MedLicense.com each day. In 2015 MedLicense.com licensed over 3100 Physicians.'
 ---
 
 <h2 id="mcetoc_1cdnmfrlo0">Expedited Medical Licensing Since 2000</h2>

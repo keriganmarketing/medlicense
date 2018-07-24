@@ -9,6 +9,32 @@ abms: 'No'
 step3: '6'
 usmle: '7 or 10 (MD/PhD)'
 visible: false
+googletitle: 'New Mexico Licensure Requirements'
+googledesc: 'The New Mexico Medical Board is averaging 2 to 3 1/2 months for the issuance of a New Mexico Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the New Mexico Medical Board.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'New Mexico Licensure Requirements'
+twitterdescription: 'The New Mexico Medical Board is averaging 2 to 3 1/2 months for the issuance of a New Mexico Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the New Mexico Medical Board.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'New Mexico Licensure Requirements'
+facebookdesc: 'The New Mexico Medical Board is averaging 2 to 3 1/2 months for the issuance of a New Mexico Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the New Mexico Medical Board.'
 ---
 
 <p>With the New Mexico Medical Board, MedLicense.com is averaging 2 to 3 1/2 months for the issuance of a New Mexico Medical License from the submission of the application to the Medical Board to the issuance of the Physician New Mexico Medical Board. Our firm has licensed Physicians in New Mexico since April 2000. In an average year, MedLicense.com will handle between 20 to 35 New Mexico License Applications. We understand the process and what needs to be completed to have your application finalized. Once the files are deemed complete by the New Mexico Medical Board the New Mexico Medica License is issued. The New Mexico Medical Board does not require a Physical Interview.</p>

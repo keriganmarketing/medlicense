@@ -9,6 +9,33 @@ abms: 'No'
 step3: '6'
 usmle: '10'
 visible: false
+googletitle: 'West Virginia Medical Board License Requirements'
+googledesc: 'The West Virginia Medical Board has a typical process. The West Virginia Medical Board does NOT verify employment or privileges and it takes them 2 to 3 weeks to process applications after receipt. Licensure usually takes 2 1/2 to 3 1/2 months for most Physicians.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'West Virginia Medical Board License Requirements'
+twitterdescription: 'The West Virginia Medical Board has a typical process. The West Virginia Medical Board does NOT verify employment or privileges and it takes them 2 to 3 weeks to process applications after receipt. Licensure usually takes 2 1/2 to 3 1/2 months for most Physicians.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'West Virginia Medical Board License Requirements'
+facebookdesc: 'The West Virginia Medical Board has a typical process. The West Virginia Medical Board does NOT verify employment or privileges and it takes them 2 to 3 weeks to process applications after receipt. Licensure usually takes 2 1/2 to 3 1/2 months for most Physicians.'
+facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <p>The West Virginia Medical Board has a typical process. The West Virginia Medical Board does NOT verify employment or privileges. It takes the West Virginia Medical Board 2 to 3 weeks to process applications after receipt. After submitting the West Virginia Medical License Application, the West Virginia Medical Board will process and notify the physician of the deficiencies necessary to complete the application within a couple of weeks. The West Virginia Medical Board provides excellent access to the licensure analysts.The staff is helpful and pleasant to work with. Mail loss is usually not a problem with the West Virginia Medical Board. This also assists in providing for an expedited process.</p>

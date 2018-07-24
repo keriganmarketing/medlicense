@@ -11,6 +11,32 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 visible: true
+googletitle: 'Telemedicine Licensing'
+googledesc: 'We make the path to receiving your Telemedicine license straightforward and reduce the time it takes to complete your Telemedicine License Process. To start, simply complete our form, forward to MedLicense.com your CV, and then await for your licensure packet to arrive in 3-5 business days.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Telemedicine Licensing | MedLicense.com'
+twitterdescription: 'We make the path to receiving your Telemedicine license straightforward and reduce the time it takes to complete your Telemedicine License Process. To start, simply complete our form, forward to MedLicense.com your CV, and then await for your licensure packet to arrive in 3-5 business days.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Telemedicine Licensing | MedLicense.com'
+facebookdesc: 'We make the path to receiving your Telemedicine license straightforward and reduce the time it takes to complete your Telemedicine License Process. To start, simply complete our form, forward to MedLicense.com your CV, and then await for your licensure packet to arrive in 3-5 business days.'
 ---
 
 <p>The Telemedcine License process is time consuming and arduous. Your time is too valuable to be spent on completing forms, licking envelopes, sending emails, and making phones calls over and over again. That is why MedLicense.com's Telemedicine License Service exists. We can make the paths straight and reduce the time it takes to complete your Medical License Application. To initiate the process, simply complete our form, forward to MedLicense.com your CV', and then await for your licensure packet to arrive in 3 to 5 business days. Once you return the packet, then MedLicense.com will handle everything. It is that easy.</p>

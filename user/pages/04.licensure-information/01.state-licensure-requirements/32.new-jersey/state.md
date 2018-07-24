@@ -9,6 +9,32 @@ abms: 'No'
 step3: '5'
 usmle: '7'
 visible: false
+googletitle: 'New Jersey Licensure Requirements'
+googledesc: 'The New Jersey Medical Board is averaging 2.5 - 3.5 months for the issuance of a New Jersey Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the New Jersey Medical Board.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'New Jersey Licensure Requirements'
+twitterdescription: 'The New Jersey Medical Board is averaging 2.5 - 3.5 months for the issuance of a New Jersey Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the New Jersey Medical Board.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'New Jersey Licensure Requirements'
+facebookdesc: 'The New Jersey Medical Board is averaging 2.5 - 3.5 months for the issuance of a New Jersey Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the New Jersey Medical Board.'
 ---
 
 <p>With the New Jersey Medical Board, MedLicense.com is averaging 2 1/2 to 3 1/2 months for the issuance of a New Jersey Medical License from the submission of the application to the Medical Board to the issuance of the Physician New Jersey Medical Board. Our firm has licensed Physicians in New Jersey since April 2000. In an average year, MedLicense.com will handle between 40 to 55 New Jersey License Applications. We understand the process and what needs to be completed to have your application finalized. Once the files are deemed complete by the New Jersey Medical Board the New Jersey Medical License is issued. The New Jersey Medical Board does not require a Physical Interview.</p>

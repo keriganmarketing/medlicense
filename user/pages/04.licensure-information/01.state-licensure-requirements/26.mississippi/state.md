@@ -9,8 +9,13 @@ abms: 'Yes'
 step3: '3'
 usmle: '7'
 visible: false
+googletitle: 'Mississippi Licensure Requirements'
+googledesc: 'With the Mississippi Medical Board, MedLicense.com is averaging 2 to 5 months for the issuance of a Mississippi Medical License from the submission of the application to the Medical Board to the issuance of the Physician Mississippi Medical Board. Our firm has licensed Physicians in Mississippi since April 2000.'
 twitterenable: true
 twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Mississippi Licensure Requirements'
+twitterdescription: 'With the Mississippi Medical Board, MedLicense.com is averaging 2 to 5 months for the issuance of a Mississippi Medical License from the submission of the application to the Medical Board to the issuance of the Physician Mississippi Medical Board. Our firm has licensed Physicians in Mississippi since April 2000.'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -28,6 +33,8 @@ restaurant:
     acceptsReservations: 'yes'
     priceRange: $
 facebookenable: true
+facebooktitle: 'Mississippi Licensure Requirements'
+facebookdesc: 'With the Mississippi Medical Board, MedLicense.com is averaging 2 to 5 months for the issuance of a Mississippi Medical License from the submission of the application to the Medical Board to the issuance of the Physician Mississippi Medical Board. Our firm has licensed Physicians in Mississippi since April 2000.'
 ---
 
 <p>With the Mississippi Medical Board, MedLicense.com is averaging 2 to 5 months for the issuance of a Mississippi Medical License from the submission of the application to the Medical Board to the issuance of the Physician Mississippi Medical Board. Our firm has licensed Physicians in Mississippi since April 2000. In an average year, MedLicense.com will handle between 25 to 35 Mississippi License Applications. We understand the process and what needs to be completed to have your application finalized. MedLicense.com knows when and how to submit the Applications and in what order to help insure that the Mississippi Medical Board doesn't lose verifications. Once the files are deemed complete by the Mississippi Medical Board the Mississippi Medical License is issued after your mandatory Board Interview.</p>

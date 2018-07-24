@@ -11,6 +11,32 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 visible: true
+googletitle: 'Physician Credentialing'
+googledesc: 'Do you have physicians which need to be credentialed efficiently and quickly? Our program is proven. We can make an over whelming obstacle into an opporturnity for your company.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Physician Credentialing | MedLicense.com'
+twitterdescription: 'Do you have physicians which need to be credentialed efficiently and quickly? Our program is proven. We can make an over whelming obstacle into an opporturnity for your company.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Physician Credentialing | MedLicense.com'
+facebookdesc: 'Do you have physicians which need to be credentialed efficiently and quickly? Our program is proven. We can make an over whelming obstacle into an opporturnity for your company.'
 ---
 
 <p>Your practice has hired a physician. However the real work has just begun. You now have to Credential the Physician in order to be in compliance with the Joint Commission (formerly the Joint Commission on Accreditation of Healthcare Organizations (JCAHO) accreditation. What do you do? You can assume the task yourself and bog down your credentialing office with hours and hours of requests, emails, phone calls, and research OR you can allow MedLicense.com to handle it for you. Allowing MedLicense.com to credential your Physicians and then maintain their credentialing is a much smarter, efficient decision.</p>

@@ -9,6 +9,31 @@ abms: 'No'
 step3: '3'
 usmle: '7'
 visible: false
+googletitle: 'Montana Licensure Requirements'
+googledesc: 'With the Montana Medical Board, MedLicense.com is averaging 2 to 3.5 months for the issuance of a Montana Medical License. We''ve licensed Physicians in Montana, since April 2000, and can help you through the process whether you are a USA Graduate or a Graduate of a Foreign Medical School.'
+twitterenable: true
+twittercardoptions: summary
+twittertitle: 'Montana Licensure Requirements'
+twitterdescription: 'With the Montana Medical Board, MedLicense.com is averaging 2 to 3.5 months for the issuance of a Montana Medical License. We''ve licensed Physicians in Montana, since April 2000, and can help you through the process whether you are a USA Graduate or a Graduate of a Foreign Medical School.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Montana Licensure Requirements'
+facebookdesc: 'With the Montana Medical Board, MedLicense.com is averaging 2 to 3.5 months for the issuance of a Montana Medical License. We''ve licensed Physicians in Montana, since April 2000, and can help you through the process whether you are a USA Graduate or a Graduate of a Foreign Medical School.'
 ---
 
 <p>With the Montana Medical Board, MedLicense.com is averaging 2 to 3 1/2 months for the issuance of a Montana Medical License from the submission of the application to the Medical Board to the issuance of the Physician Montana Medical Board. Our firm has licensed Physicians in Montana since April 2000. In an average year, MedLicense.com will handle between 15 to 25 Montana License Applications. We understand the process and what needs to be completed to have your application finalized. MedLicense.com knows when and how to submit the Applications and in what order to help insure that the Montana Medical Board doesn't lose verifications. Once the files are deemed complete by the Montana Medical Board the Montana Medical License is issued. The Montana Medical Board does not require a Physical Interview.</p>

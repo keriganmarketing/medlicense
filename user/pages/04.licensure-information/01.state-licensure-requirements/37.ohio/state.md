@@ -9,6 +9,32 @@ abms: 'No'
 step3: '5 attempts per step'
 usmle: '10'
 visible: false
+googletitle: 'Ohio Licensure Requirements'
+googledesc: 'Ohio Medical Licenses for Domestic Graduates are averaging 2 1/2 to 5 months from the submission of the application to the Medical Board to the issuance of the Physician Ohio Medical Board. Our firm has licensed Physicians in Ohio since April 2000.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Ohio Licensure Requirements'
+twitterdescription: 'Ohio Medical Licenses for Domestic Graduates are averaging 2 1/2 to 5 months from the submission of the application to the Medical Board to the issuance of the Physician Ohio Medical Board. Our firm has licensed Physicians in Ohio since April 2000. '
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Ohio Licensure Requirements'
+facebookdesc: 'Ohio Medical Licenses for Domestic Graduates are averaging 2 1/2 to 5 months from the submission of the application to the Medical Board to the issuance of the Physician Ohio Medical Board. Our firm has licensed Physicians in Ohio since April 2000. '
 ---
 
 <p>With the Ohio Medical Board, MedLicense.com is averaging 2 1/2 to 5 months for the issuance of a Ohio Medical License for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Ohio Medical Board. Our firm has licensed Physicians in Ohio since April 2000. In an average year, MedLicense.com will handle between 50 to 65 Ohio Medical License Applications. We understand the process and what needs to be completed to have your application finalized. Once the files are deemed complete by the Ohio Medical Board the Ohio Medical License is issued. The Ohio Medical Board does not require a Physical Interview.</p>

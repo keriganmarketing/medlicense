@@ -9,6 +9,32 @@ abms: 'No'
 step3: None
 usmle: None
 visible: false
+googletitle: 'New York Licensure Requirements'
+googledesc: 'The New York Medical Board License Service is averaging 45 to 90 days for the issuance of a New York Medical License for Domestic Graduates. The busiest time of the year for New York and other Medical Boards is from May to August. The New York Medical Board does not require a Physical Interview.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'New York Licensure Requirements'
+twitterdescription: 'The New York Medical Board License Service is averaging 45 to 90 days for the issuance of a New York Medical License for Domestic Graduates. The busiest time of the year for New York and other Medical Boards is from May to August. The New York Medical Board does not require a Physical Interview.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'New York Licensure Requirements'
+facebookdesc: 'The New York Medical Board License Service is averaging 45 to 90 days for the issuance of a New York Medical License for Domestic Graduates. The busiest time of the year for New York and other Medical Boards is from May to August. The New York Medical Board does not require a Physical Interview.'
 ---
 
 <p>With the New York Medical Board, MedLicense.com is averaging 45 to 90 days for the issuance of a New York Medical License for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician New York Medical Board. International Graduates will take from 2 to 9 months depending on the Status of the FCVS Packet. Our firm has licensed Physicians in New York since April 2000. In an average year, MedLicense.com will handle between 100 to 135 New York Medical License Applications. We understand the process and what needs to be completed to have your application finalized. Once the files are deemed complete by the New York Medical Board the New York Medical License is issued. The New York Medical Board does not require a Physical Interview.</p>

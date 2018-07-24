@@ -9,6 +9,33 @@ abms: 'No'
 step3: '3'
 usmle: '7'
 visible: false
+googletitle: 'Vermont Licensure Requirements'
+googledesc: 'The Vermont Medical Board has a typical process. Most of the physician''s timeline is verified by the Vermont Medical Board and they processes applications quickly. Licensure usually takes 2 1/2 to 3 1/2 months for most Physicians.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Vermont Licensure Requirements'
+twitterdescription: 'The Vermont Medical Board has a typical process. Most of the physician''s timeline is verified by the Vermont Medical Board and they processes applications quickly. Licensure usually takes 2 1/2 to 3 1/2 months for most Physicians.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Vermont Licensure Requirements'
+facebookdesc: 'The Vermont Medical Board has a typical process. Most of the physician''s timeline is verified by the Vermont Medical Board and they processes applications quickly. Licensure usually takes 2 1/2 to 3 1/2 months for most Physicians.'
+facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <p>The Vermont Medical Board has a typical process. Most of the physician's timeline is verified by the Vermont Medical Board. The Board processes application quickly. After submitting the Vermont Medical License Application, the Vermont Medical Board will process and notify the physician of the deficiencies necessary to complete the application within a couple of weeks. The Vermont Medical Board provides access to the licensure analysts. This allows for the verifying of receipt of the required verifications which must be received by the Vermont Medical Board. The staff is helpful and pleasant to work with. Mail loss typically is not a problem with the Vermont Medical Board. This also assists in providing for an expedited process.</p>

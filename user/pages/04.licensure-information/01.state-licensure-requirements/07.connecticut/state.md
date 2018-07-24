@@ -9,8 +9,13 @@ abms: 'No'
 step3: None
 usmle: '7'
 visible: false
+googletitle: 'Connecticut Licensure Requirements'
+googledesc: 'Connecticut''s process is efficient with licensing times varying between 60 to 90 days depending on whether a Physician is a Domestic or Foreign Med School Graduate.The Staff is extremely helpful and Physicians who have negative issues are given a fair review and hearing of the facts.'
 twitterenable: true
 twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Connecticut Licensure Requirements'
+twitterdescription: 'Connecticut''s process is efficient with licensing times varying between 60 to 90 days depending on whether a Physician is a Domestic or Foreign Med School Graduate.The Staff is extremely helpful and Physicians who have negative issues are given a fair review and hearing of the facts.'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -28,6 +33,8 @@ restaurant:
     acceptsReservations: 'yes'
     priceRange: $
 facebookenable: true
+facebooktitle: 'Connecticut Licensure Requirements'
+facebookdesc: 'Connecticut''s process is efficient with licensing times varying between 60 to 90 days depending on whether a Physician is a Domestic or Foreign Med School Graduate.The Staff is extremely helpful and Physicians who have negative issues are given a fair review and hearing of the facts.'
 ---
 
 <p>Connecticut's process is an efficient processes in the USA. The Staff is extremely helpful and tends to not take an adversarial role with the Physician applicants. They experience very little certification loss in their mail room. Physicians who have negative issues are given a fair review and hearing of the facts. The licensing times experienced with Connecticut vary between 60 to 90 days depending on whether a Physician is a Domestic or Foreign Med School Graduate. The biggest issue with the Connecticut Physician Board is the availability of an licensure analaysts. In order to determine what is missing from a physicians application we have to be able to periodically contact the Board to determine what is still needed. The Connecticut Med Board typically is slow to respond to emails, most calls go to voice mail, and call backs are infrequent. Most of our time with the State is involved in getting them on the line to obtain updates. Outside of this, they has a very streamlined process.</p>

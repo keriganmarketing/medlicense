@@ -9,6 +9,32 @@ abms: 'Yes - Waiver if ABMS and 150 CME Hrs in 3 years'
 step3: '3 or 4 w/Board Certification'
 usmle: '7'
 visible: false
+googletitle: 'Oregon Licensure Requirements'
+googledesc: 'Oregon Medical licensure is averaging 2 1/2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Oregon Medical Board.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Oregon Licensure Requirements'
+twitterdescription: 'Oregon Medical licensure is averaging 2 1/2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Oregon Medical Board. '
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Oregon Licensure Requirements'
+facebookdesc: 'Oregon Medical licensure is averaging 2 1/2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Oregon Medical Board. '
 ---
 
 <p>With the Oregon Medical Board, MedLicense.com is averaging 2 1/2 to 3 1/2 months for the issuance of a Oregon Medical License for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Oregon Medical Board. Our firm has licensed Physicians in Oregon since April 2000. In an average year, MedLicense.com will handle between 35 to 45 Oregon Medical License Applications. We understand the process and what needs to be completed to have your application finalized. Once the files are deemed complete by the Oregon Medical Board the Oregon Medical License is issued. The Oregon Medical Board does not require a Physical Interview.</p>

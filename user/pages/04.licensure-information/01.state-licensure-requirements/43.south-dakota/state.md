@@ -8,6 +8,34 @@ pgtig: 'Complete a Residency'
 abms: 'No'
 step3: '3'
 usmle: '7'
+visible: false
+googletitle: 'South Dakota Licensure Requirements'
+googledesc: 'South Dakota licensure is averaging 2 1/2 to 4 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician South Dakota Medical Board. The South Dakota Medical Board, unlike most Medical Boards, directly verifies all verifications.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'South Dakota Licensure Requirements'
+twitterdescription: 'South Dakota licensure is averaging 2 1/2 to 4 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician South Dakota Medical Board. The South Dakota Medical Board, unlike most Medical Boards, directly verifies all verifications.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'South Dakota Licensure Requirements'
+facebookdesc: 'South Dakota licensure is averaging 2 1/2 to 4 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician South Dakota Medical Board. The South Dakota Medical Board, unlike most Medical Boards, directly verifies all verifications.'
+facebookimg: /home/medlicense-social-card.jpg
 sidebar:
     -
         route: /_partials/_three-easy-steps
@@ -24,7 +52,6 @@ name2: ''
 url2: ''
 name3: ''
 url3: ''
-visible: false
 ---
 
 <p>With the South Dakota Medical Board, MedLicense.com is averaging 2 1/2 to 4 months for the issuance of a South Dakota Medical License for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician South Dakota Medical Board. Our firm has licensed Physicians in South Dakota since April 2000. In an average year, MedLicense.com will handle between 30 to 35 The South Dakota Medical License Applications. We understand the process and what needs to be completed to have your application finalized. Once the files are deemed complete by the South Dakota Medical Board the South Dakota Medical License is issued.</p>

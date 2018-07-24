@@ -11,6 +11,32 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 date: '03/12/2018 11:52 am'
+googletitle: 'Telemedicine Licensing Advice'
+googledesc: 'State Medical Boards have taken a strong stance in monitoring Telemedicine Physicians due to the abuse of this medium. Follow these 6 general guidelines to help keep your Telemedicine License out of the Boards Microscope.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Telemedicine Licensing Advice'
+twitterdescription: 'State Medical Boards have taken a strong stance in monitoring Telemedicine Physicians due to the abuse of this medium. Follow these 6 general guidelines to help keep your Telemedicine License out of the Boards Microscope.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Telemedicine Licensing Advice'
+facebookdesc: 'State Medical Boards have taken a strong stance in monitoring Telemedicine Physicians due to the abuse of this medium. Follow these 6 general guidelines to help keep your Telemedicine License out of the Boards Microscope.'
 ---
 
 <p class="c2">The contents of this article are based on general observations of the State Medical Board's reaction to Physicians seeking to license in the various States for the purpose of Telemedicine. We are limiting this article to Telemedicine and not including Teleradiology, Telepathology, or Tele-Intraoperative Neuromonitoring because Telemedicine can involve prescribing drugs whereas the others do not.</p>

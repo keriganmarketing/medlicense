@@ -9,6 +9,33 @@ abms: 'No'
 step3: '5 attempts allowed on all steps combined - total'
 usmle: '7'
 visible: false
+googletitle: 'Illinois Licensure Requirements'
+googledesc: 'Illinois Medical Board licensing applications can be expected to take 90 to 120 days. We recommend using Fedex to insure accountability by the Illinois Medical Board. Any mail loss by the Board will cause significant delays. The CDS (Controlled Dangerous Substance) Application can be submitted at same time. '
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Illinois Licensure Requirements'
+twitterdescription: 'Illinois Medical Board licensing applications can be expected to take 90 to 120 days. We recommend using Fedex to insure accountability by the Illinois Medical Board. Any mail loss by the Board will cause significant delays. The CDS (Controlled Dangerous Substance) Application can be submitted at same time. '
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Illinois Licensure Requirements'
+facebookdesc: 'Illinois Medical Board licensing applications can be expected to take 90 to 120 days. We recommend using Fedex to insure accountability by the Illinois Medical Board. Any mail loss by the Board will cause significant delays. The CDS (Controlled Dangerous Substance) Application can be submitted at same time. '
+facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <p>The Illinois Medical Board recently resolved its' budget crisis. They are back in business. However, because of the budget issue, the mail is approximately 4-6 weeks in arrears. This will translate into delays in processing the application and the verifications which will arrive after the application. Licensure time frames can be expected to take 90 to 120 days for most Illinois Medical License applications.</p>

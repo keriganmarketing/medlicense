@@ -9,8 +9,13 @@ abms: Np
 step3: '3'
 usmle: none
 visible: false
+googletitle: 'New Hampshire Licensure Requirements'
+googledesc: 'With the New Hampshire Medical Board, MedLicense.com is averaging 2 - 5 1/2 months for the issuance of a New Hampshire Medical License from submission of application to the Medical Board to the issuance of the Physician New Hampshire Medical Board. Our firm has licensed Physicians in New Hampshire since April 2000.  '
 twitterenable: true
 twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'New Hampshire Licensure Requirements'
+twitterdescription: 'With the New Hampshire Medical Board, MedLicense.com is averaging 2 - 5 1/2 months for the issuance of a New Hampshire Medical License from submission of application to the Medical Board to the issuance of the Physician New Hampshire Medical Board. Our firm has licensed Physicians in New Hampshire since April 2000.  '
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -28,6 +33,8 @@ restaurant:
     acceptsReservations: 'yes'
     priceRange: $
 facebookenable: true
+facebooktitle: 'New Hampshire Licensure Requirements'
+facebookdesc: 'With the New Hampshire Medical Board, MedLicense.com is averaging 2 - 5 1/2 months for the issuance of a New Hampshire Medical License from submission of application to the Medical Board to the issuance of the Physician New Hampshire Medical Board. Our firm has licensed Physicians in New Hampshire since April 2000.  '
 ---
 
 <p>With the New Hampshire Medical Board, MedLicense.com is averaging 2 to 5 1/2 months for the issuance of a New Hampshire Medical License from the submission of the application to the Medical Board to the issuance of the Physician New Hampshire Medical Board. Our firm has licensed Physicians in New Hampshire since April 2000. In an average year, MedLicense.com will handle between 15 to 25 New Hampshire License Applications. We understand the process and what needs to be completed to have your application finalized. Once the files are deemed complete by the New Hampshire Medical Board the New Hampshire Medical License is issued. The New Hampshire Medical Board does not require a Physical Interview.</p>

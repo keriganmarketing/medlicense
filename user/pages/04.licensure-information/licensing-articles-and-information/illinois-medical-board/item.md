@@ -7,6 +7,32 @@ sidebar:
         route: /_partials/_state-licensure-requirements
 enablefeatureboxes: false
 date: '02/08/2018 11:52 am'
+googletitle: 'Illinois Medical Board'
+googledesc: 'The Illinois Medical Board''s licensing process is typical of the process for the majority of other medical boards. The Illinois Medical License process has a few unique requirements which separate this medical board from the others.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Illinois Medical Board'
+twitterdescription: 'The Illinois Medical Board''s licensing process is typical of the process for the majority of other medical boards. The Illinois Medical License process has a few unique requirements which separate this medical board from the others.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Illinois Medical Board'
+facebookdesc: 'The Illinois Medical Board''s licensing process is typical of the process for the majority of other medical boards. The Illinois Medical License process has a few unique requirements which separate this medical board from the others.'
 ---
 
 <p class="c3">The Illinois Medical Board's licensing process is typical of the process for the majority of other medical boards. The Illinois Medical License process has a few unique requirements which separate this medical board from the others.</p>

@@ -11,6 +11,32 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 visible: true
+googletitle: 'Telepathology Licensing'
+googledesc: 'Our experience is unmatched in the field of Telepathology. Pathologist, Consulting Physicians, and Locum Tenens Specialist have utilized our services to obtain licenses in all 50 States. MedLicense.com provides Telepathology License Services to Telepathology practices who seek to service multiple States.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Telepathology Licensing | MedLicense.com'
+twitterdescription: 'Our experience is unmatched in the field of Telepathology. Pathologist, Consulting Physicians, and Locum Tenens Specialist have utilized our services to obtain licenses in all 50 States. MedLicense.com provides Telepathology License Services to Telepathology practices who seek to service multiple States.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Telepathology Licensing'
+facebookdesc: 'Our experience is unmatched in the field of Telepathology. Pathologist, Consulting Physicians, and Locum Tenens Specialist have utilized our services to obtain licenses in all 50 States. MedLicense.com provides Telepathology License Services to Telepathology practices who seek to service multiple States.'
 ---
 
 <p>Our experience is unmatched in the field of Telepathology. Pathologist, Consulting Physicians, and Locum Tenens Specialist have utilized our services to obtain licenses in all 50 States. MedLicense.com provides Telepathology License Services to Telepathology practices who seek to service multiple States. Unfortunately there is not a National Telepathology License. Most States require that the Pathologist to have a license in each State where the patients/physical care is being given. Some States are now offering special Telepathology Licenses. Telepathology is a new field which the Medical Boards are now addressing. This combined with the governmental and legal liability of treating patients whom are not physically present in your State has opened the door for considerable problems if a Board Complaint or Malpractice Suit is filed against the Physician.</p>

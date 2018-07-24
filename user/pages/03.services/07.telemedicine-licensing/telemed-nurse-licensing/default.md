@@ -11,6 +11,32 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 visible: true
+googletitle: 'Telemed Nurse Licensing'
+googledesc: 'Once our short order form is completed and a copy of each Nurse''s CV is provided, MedLicense.com will orginiate a licensure packet for each Nurse / each State. The packet will then be forwarded to the Nurse in question or the enrollment will be arranged by a visit from a MedLicense.com Licensure Professional.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Telemed Nurse Licensing | MedLicense.com'
+twitterdescription: 'Once our short order form is completed and a copy of each Nurse''s CV is provided, MedLicense.com will orginiate a licensure packet for each Nurse / each State. The packet will then be forwarded to the Nurse in question or the enrollment will be arranged by a visit from a MedLicense.com Licensure Professional.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Telemed Nurse Licensing'
+facebookdesc: 'Once our short order form is completed and a copy of each Nurse''s CV is provided, MedLicense.com will orginiate a licensure packet for each Nurse / each State. The packet will then be forwarded to the Nurse in question or the enrollment will be arranged by a visit from a MedLicense.com Licensure Professional.'
 ---
 
 <p>About half of the States are Non-Compact States. As you probably already know, the licensure process with Compact States is simple, direct, and efficient. However, this is not the case with Non-Compact States. Applying to one or two Non-Compact States is a simple process. However, managing the process for 10+ Licensing processes concurrently can be overwhelming and daunting. That is why MedLicense.com is now offering its' Physician Licensing Service to Nurses who desire to practice telemedicine. We can "Project Manage" the process for you so that you can concentrate on helping patients.</p>

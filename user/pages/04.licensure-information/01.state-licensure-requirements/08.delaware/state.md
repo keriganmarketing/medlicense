@@ -9,6 +9,32 @@ abms: 'No'
 step3: '6'
 usmle: 7+
 visible: false
+googletitle: 'Delaware Licensure Requirements'
+googledesc: 'The Delaware Medical Board processes application quickly, averaging between 2 1/2 and 4 months. Within a couple weeks of submitting, they will notify the physician about the deficiencies necessary to complete the application. Our Medical License Service can make the process streamlined and hassle free.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Delaware Licensure Requirements'
+twitterdescription: 'The Delaware Medical Board processes application quickly, averaging between 2 1/2 and 4 months. Within a couple weeks of submitting, they will notify the physician about the deficiencies necessary to complete the application. Our Medical License Service can make the process streamlined and hassle free.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Delaware Licensure Requirements'
+facebookdesc: 'The Delaware Medical Board processes application quickly, averaging between 2 1/2 and 4 months. Within a couple weeks of submitting, they will notify the physician about the deficiencies necessary to complete the application. Our Medical License Service can make the process streamlined and hassle free.'
 ---
 
 <p>The Delaware Medical Board has a typical process. Most of the physician's timeline is verified by Delaware. Delaware processes application quickly. After submitting the Medical License Application, they will notify the physician about the deficiencies necessary to complete the application within a couple of weeks. The Delware Medical Board provides access to the licensure analysts. This allows for the verifying of receipt of the required verifications which must be received by the State. The staff is helpful and pleasant to work with. Mail loss typically is not a problem with Delaware. This also assists in providing for an expedited process.</p>

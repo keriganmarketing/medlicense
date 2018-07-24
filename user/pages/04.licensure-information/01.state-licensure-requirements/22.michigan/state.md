@@ -9,8 +9,12 @@ abms: 'No'
 step3: None
 usmle: 'None - 5 years to pass Step 3'
 visible: false
+googletitle: 'Michigan Licensure Requirements'
+googledesc: 'With the Michigan Medical Board, MedLicense.com is averaging 45-90 days for the issuance of a Michigan Medical License from the submission of the application to the issuance of the Physician Michigan Medical License for Domestic Graduates. Michigan is the only Medical Board in the USA which offers "True Reciprocity".'
 twitterenable: true
 twittercardoptions: summary
+twittertitle: 'Michigan Licensure Requirements'
+twitterdescription: 'With the Michigan Medical Board, MedLicense.com is averaging 45-90 days for the issuance of a Michigan Medical License from the submission of the application to the issuance of the Physician Michigan Medical License for Domestic Graduates. Michigan is the only Medical Board in the USA which offers "True Reciprocity".'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -28,6 +32,8 @@ restaurant:
     acceptsReservations: 'yes'
     priceRange: $
 facebookenable: true
+facebooktitle: 'Michigan Licensure Requirements'
+facebookdesc: 'With the Michigan Medical Board, MedLicense.com is averaging 45-90 days for the issuance of a Michigan Medical License from the submission of the application to the issuance of the Physician Michigan Medical License for Domestic Graduates. Michigan is the only Medical Board in the USA which offers "True Reciprocity".'
 ---
 
 <p>With the Michigan Medical Board, MedLicense.com is averaging 45 to 90 days for the issuance of a Michigan Medical License from the submission of the application to the Medical Board to the issuance of the Physician Michigan Medical License for Domestic Graduates. International Graduates who cannot apply via Reciprocity might take longer due to the direct certification of the International Medical School.</p>

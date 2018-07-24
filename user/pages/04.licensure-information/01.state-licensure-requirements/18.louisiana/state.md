@@ -9,6 +9,32 @@ abms: 'Yes'
 step3: '4-step 2 & 3'
 usmle: '10'
 visible: false
+googletitle: 'Louisiana Licensure Requirements'
+googledesc: 'MedLicense.com is averaging 3-5 months with the Louisiana Medical Board for the issuance of a Louisiana Medical License. Whether you are a USA graduate or a graduate of a Foreign Medical School, our process can move this arduous process through within a time period that will meet your needs.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'Louisiana Licensure Requirements'
+twitterdescription: 'MedLicense.com is averaging 3-5 months with the Louisiana Medical Board for the issuance of a Louisiana Medical License. Whether you are a USA graduate or a graduate of a Foreign Medical School, our process can move this arduous process through within a time period that will meet your needs.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Louisiana Licensure Requirements'
+facebookdesc: 'MedLicense.com is averaging 3-5 months with the Louisiana Medical Board for the issuance of a Louisiana Medical License. Whether you are a USA graduate or a graduate of a Foreign Medical School, our process can move this arduous process through within a time period that will meet your needs.'
 ---
 
 <p>With the Louisiana Medical Board, MedLicense.com is averaging 3 to 5 months for the issuance of a Louisiana Medical License from the submission of the application to the Medical Board to the issuance of the Physician Louisiana Medical License. Our firm has licensed Physicians in Louisiana since April 2000. In an average year, MedLicense.com will handle between 20 to 30 Louisiana License Applications. We understand the process and what needs to be completed to have your application finalized. MedLicense.com knows when and how to submit the Applications and in what order to help insure that the Louisiana Medical Board doesn't lose verifications. Our experience with Louisiana is such that we can push the process through and even see licensure at the 90 - 150 day mark. Once the files are deemed complete by the Louisiana Medical Board the Louisiana Medical License is issued after the mandatory Physical Interview.</p>

@@ -13,6 +13,31 @@ enablefeatureboxes: false
 date: '05/17/2018 11:50 am'
 summary:
     size: 252
+googletitle: 'Which States are the Fastest?'
+googledesc: 'Through our experience in licensing thousands of physicians we have outlined the top 3 fastest states to issues licenses. These States should be considered in the Hall of Fame for Efficiency, Expediency, and Customer Service.'
+twitterenable: true
+twittercardoptions: summary
+twittertitle: 'Which States are the Fastest?'
+twitterdescription: 'Through our experience in licensing thousands of physicians we have outlined the top 3 fastest states to issues licenses. These States should be considered in the Hall of Fame for Efficiency, Expediency, and Customer Service.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Which States are the Fastest?'
+facebookdesc: 'Through our experience in licensing thousands of physicians we have outlined the top 3 fastest states to issues licenses. These States should be considered in the Hall of Fame for Efficiency, Expediency, and Customer Service.'
 ---
 
 <p>Through our experience in licensing thousands of physicians we have compiled a short article on which States have the fastest process in the Nation. These States should be considered in the Hall of Fame for Efficiency, Expediency, and Customer Service.</p>
