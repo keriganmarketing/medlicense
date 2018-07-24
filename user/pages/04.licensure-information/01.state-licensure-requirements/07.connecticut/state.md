@@ -2,13 +2,32 @@
 title: Connecticut
 licenserequirements: "<ul>\r\n<li>Med School Transcripts</li>\r\n<li>Med School Form (if IMG)</li>\r\n<li>All USA/Canadian PGT's</li>\r\n<li>All past/present Licenses</li>\r\n<li>All Exams</li>\r\n<li>ECFMG (if IMG)</li>\r\n</ul>"
 examrequirements: "<ul>\r\n<li>Examinations 75% +</li>\r\n<li>No attempt limits- USMLE Step 3</li>\r\n<li>7 year limit- USMLE</li>\r\n<li>2 years PGY for USA Grads</li>\r\n<li>2 years PGY for Non-USA Grads</li>\r\n<li>State Exam Accepted if Pre-1975</li>\r\n<li>No SPEX Exam Requirement&nbsp;</li>\r\n</ul>"
-contactinformation: "<p>P.O. Box 340308<br />Hartford, CT 06134<br />Phone (860) 509-8374<br />Fax(860) 509-7553</p>\r\n<p><a href=\"http://www.dph.state.ct.us/\">www.dph.state.ct.us</a></p>"
+contactinformation: "<p>P.O. Box 340308<br />Hartford, CT 06134<br />Phone (860) 509-8374<br />Fax (860) 509-7553</p>\r\n<p><a href=\"http://www.portal.ct.gov/DPH/Public-Health-Hearing-Office/Connecticut-Medical-Examining-Board/Connecticut-Medical-Examining-Board\">http://www.portal.ct.gov/</a></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>"
 pgtdg: '2 years'
 pgtig: '2 years'
 abms: 'No'
 step3: None
 usmle: '7'
 visible: false
+twitterenable: true
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
 ---
 
 <p>Connecticut's process is an efficient processes in the USA. The Staff is extremely helpful and tends to not take an adversarial role with the Physician applicants. They experience very little certification loss in their mail room. Physicians who have negative issues are given a fair review and hearing of the facts. The licensing times experienced with Connecticut vary between 60 to 90 days depending on whether a Physician is a Domestic or Foreign Med School Graduate. The biggest issue with the Connecticut Physician Board is the availability of an licensure analaysts. In order to determine what is missing from a physicians application we have to be able to periodically contact the Board to determine what is still needed. The Connecticut Med Board typically is slow to respond to emails, most calls go to voice mail, and call backs are infrequent. Most of our time with the State is involved in getting them on the line to obtain updates. Outside of this, they has a very streamlined process.</p>

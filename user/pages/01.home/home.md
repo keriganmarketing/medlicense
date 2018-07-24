@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'Sample PR certification of registry.pdf'
+media_order: medlicense-social-card.jpg
 sidebar:
     -
         route: /_partials/_three-easy-steps
@@ -25,6 +25,34 @@ belowsidebar:
 process:
     twig: true
     markdown: false
+googletitle: 'MedLicense.com | Medical Licensure in all 50 states'
+googledesc: 'We''re the nation''s premier Physician Licensing Company. Over 39,000 Physicians have utilized MedLicense.com''s Medical License Service to obtain their State Medical Board Licenses since 2001.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /home/medlicense-social-card.jpg
+twittertitle: 'MedLicense.com | Expedited Medical License Service'
+twitterdescription: 'We''re the nation''s premier Physician Licensing Company. Over 39,000 Physicians have utilized MedLicense.com''s Medical License Service to obtain their State Medical Board Licenses since 2001.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'MedLicense.com | Expedited Medical License Service'
+facebookdesc: 'We''re the nation''s premier Physician Licensing Company. Over 39,000 Physicians have utilized MedLicense.com''s Medical License Service to obtain their State Medical Board Licenses since 2001.'
+facebookauthor: 'https://www.facebook.com/MedLicense/'
+facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <h1 id="mcetoc_1cec8a5l50">Expedited Medical License Service</h1>
