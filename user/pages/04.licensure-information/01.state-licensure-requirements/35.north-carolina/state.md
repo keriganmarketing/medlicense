@@ -9,7 +9,8 @@ abms: 'Yes - Exempt-150 CME Hrs 3yrs'
 step3: '3 attempts per step'
 usmle: '7 or 10 (MD/PhD)'
 visible: false
-googletitle: 'North Carolina Medical Board licensing information'
+googletitle: 'North Carolina Medical Board License Requirements'
+googledesc: 'North Carolina ranks as one of the more difficult State Medical Boards. However, MedLicense is averaging 45 to 90 days for the issuance of a North Carolina Medical License for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician North Carolina Medical Board.'
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false
