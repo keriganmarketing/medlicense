@@ -285,6 +285,13 @@ Redirect 301 /wyoming_medical_license.html https://medlicense.com/licensure-info
 Redirect 301 /wyoming-medical-board.html https://medlicense.com/licensure-information/state-licensure-requirements/wyoming
 Redirect 301 /wyoming-medical-license.html https://medlicense.com/licensure-information/state-licensure-requirements/wyoming
 
+Redirect 301 /services.html https://medlicense.com/services
+Redirect 301 /pricing.html https://medlicense.com/pricing
+Redirect 301 /purchase.html https://medlicense.com/pricing
+Redirect 301 /contact.html https://medlicense.com/contact
+Redirect 301 /company.html https://medlicense.com/company
+Redirect 301 /index.html https://medlicense.com/
+
 Redirect 301 /sitemap /sitemap.xml
 
 <IfModule mod_rewrite.c>
