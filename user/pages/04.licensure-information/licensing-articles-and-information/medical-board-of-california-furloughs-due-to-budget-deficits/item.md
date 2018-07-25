@@ -7,13 +7,13 @@ sidebar:
         route: /_partials/_state-licensure-requirements
 enablefeatureboxes: false
 date: '08/10/2009 11:43 am'
-googletitle: 'Medical Board of California - Furloughs Due to Budget Deficits'
-googledesc: 'Physicians now have a 4 months wait for the Medical Board of California to review applications once submitted to the Board. This means that the licensure process for California will now run 4 to 8 months depending on the physician, yes answers to the application, and the educational back ground of the physician. '
+googletitle: 'California - Furloughs Due to Budget Deficits'
+googledesc: "Physicians now have a 4 months wait for the Medical Board of California to review applications once submitted. This means that the licensure process for California will now run 4 to 8 months depending on the physician, answers to the application, and the educational back ground of the physician. \r\n"
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
-twittertitle: 'Medical Board of California - Furloughs Due to Budget Deficits'
-twitterdescription: 'Physicians now have a 4 months wait for the Medical Board of California to review applications once submitted to the Board. This means that the licensure process for California will now run 4 to 8 months depending on the physician, yes answers to the application, and the educational back ground of the physician. '
+twittertitle: 'California - Furloughs Due to Budget Deficits'
+twitterdescription: "Physicians now have a 4 months wait for the Medical Board of California to review applications once submitted. This means that the licensure process for California will now run 4 to 8 months depending on the physician, answers to the application, and the educational back ground of the physician. \r\n"
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -31,8 +31,9 @@ restaurant:
     acceptsReservations: 'yes'
     priceRange: $
 facebookenable: true
-facebooktitle: 'Medical Board of California - Furloughs Due to Budget Deficits'
-facebookdesc: 'Physicians now have a 4 months wait for the Medical Board of California to review applications once submitted to the Board. This means that the licensure process for California will now run 4 to 8 months depending on the physician, yes answers to the application, and the educational back ground of the physician. '
+facebooktitle: 'California - Furloughs Due to Budget Deficits'
+facebookdesc: "Physicians now have a 4 months wait for the Medical Board of California to review applications once submitted. This means that the licensure process for California will now run 4 to 8 months depending on the physician, answers to the application, and the educational back ground of the physician. \r\n"
+facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <p>Physicians now have a 4 months wait for the Medical Board of California to review applications once submitted to the Board. This means that the licensure process for California will now run 4 to 8 months depending on the physician, yes answers to the application, and the educational back ground of the physician. There is nothing that can be done to expedite the process for California. When the Medical Board is the issue all you can do is work within the constraints presented. The key to California is to make sure that everything is delivered a month or less before the Board reviews the application. Verifications sent too far in advance of the application being reviewed can be lost by the Medical Board of California which results in delays. It is all about timing.</p>

@@ -10,12 +10,12 @@ step3: None
 usmle: 10+
 visible: false
 googletitle: 'Virginia Licensure Requirements'
-googledesc: 'The Virginia Medical Board processes application quickly and is very efficient, experiencing licensure times of 1 1/2 to 3 months. The Virginia Medical Board provides access to the licensure analysts which allows for the verifying of receipt of the required verifications of the Virginia Medical Board. '
+googledesc: "The Virginia Medical Board processes application quickly and is very efficient, experiencing licensure times of 1 1/2 to 3 months. The Virginia Medical Board provides access to the licensure analysts which allows for the verifying of receipt of required verifications of the Virginia Medical Board. \r\n"
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Virginia Licensure Requirements'
-twitterdescription: 'The Virginia Medical Board processes application quickly and is very efficient, experiencing licensure times of 1 1/2 to 3 months. The Virginia Medical Board provides access to the licensure analysts which allows for the verifying of receipt of the required verifications of the Virginia Medical Board. '
+twitterdescription: "The Virginia Medical Board processes application quickly and is very efficient, experiencing licensure times of 1 1/2 to 3 months. The Virginia Medical Board provides access to the licensure analysts which allows for the verifying of receipt of required verifications of the Virginia Medical Board. \r\n"
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -34,7 +34,8 @@ restaurant:
     priceRange: $
 facebookenable: true
 facebooktitle: 'Virginia Licensure Requirements'
-facebookdesc: 'The Virginia Medical Board processes application quickly and is very efficient, experiencing licensure times of 1 1/2 to 3 months. The Virginia Medical Board provides access to the licensure analysts which allows for the verifying of receipt of the required verifications of the Virginia Medical Board. '
+facebookdesc: "The Virginia Medical Board processes application quickly and is very efficient, experiencing licensure times of 1 1/2 to 3 months. The Virginia Medical Board provides access to the licensure analysts which allows for the verifying of receipt of required verifications of the Virginia Medical Board. \r\n"
+facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <p>The Virginia Medical Board has a typical process. Most of the physician's timeline is verified by the Virginia Medical Board. The Virginia Medical Board processes application quickly. After submitting the Virginia Medical License Application, the Virginia Medical Board will process and notify the physician of the deficiencies necessary to complete the application within a couple of weeks. The Virginia Medical Board provides access to the licensure analysts. This allows for the verifying of receipt of the required verifications which must be received by the Virginia Medical Board. The staff is helpful and pleasant to work with. Mail loss typically is not a problem with the Virginia Medical Board. This also assists in providing for an expedited process.</p>

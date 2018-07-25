@@ -10,12 +10,12 @@ step3: '9 total attempts for all steps combined  Step 3 in 3 attempts'
 usmle: '7 or 10 (MD/PhD)'
 visible: false
 googletitle: 'Nevada Licensure Requirements'
-googledesc: 'MedLicense.com is averaging 2 to 3.5 months for the issuance of a Nevada Medical License from submission of application. Our firm has licensed Physicians in Nevada,  since 2000, and the fee for our services is a one time payment of $569 (if you are practicing) or $469 (if you are in training) per State Process.'
+googledesc: "MedLicense.com is averaging 2 to 3.5 months for the issuance of a Nevada Medical License from submission of application. Our firm has licensed Physicians in Nevada,  since 2000, and the fee for our services is a one time payment of $569 (if practicing) or $469 (if in training) per State Process.\r\n"
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Nevada Licensure Requirements'
-twitterdescription: 'MedLicense.com is averaging 2 to 3.5 months for the issuance of a Nevada Medical License from submission of application. Our firm has licensed Physicians in Nevada,  since 2000, and the fee for our services is a one time payment of $569 (if you are practicing) or $469 (if you are in training) per State Process.'
+twitterdescription: "MedLicense.com is averaging 2 to 3.5 months for the issuance of a Nevada Medical License from submission of application. Our firm has licensed Physicians in Nevada,  since 2000, and the fee for our services is a one time payment of $569 (if practicing) or $469 (if in training) per State Process.\r\n"
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -34,7 +34,8 @@ restaurant:
     priceRange: $
 facebookenable: true
 facebooktitle: 'Nevada Licensure Requirements'
-facebookdesc: 'MedLicense.com is averaging 2 to 3.5 months for the issuance of a Nevada Medical License from submission of application. Our firm has licensed Physicians in Nevada,  since 2000, and the fee for our services is a one time payment of $569 (if you are practicing) or $469 (if you are in training) per State Process.'
+facebookdesc: "MedLicense.com is averaging 2 to 3.5 months for the issuance of a Nevada Medical License from submission of application. Our firm has licensed Physicians in Nevada,  since 2000, and the fee for our services is a one time payment of $569 (if practicing) or $469 (if in training) per State Process.\r\n"
+facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <p>With the Nevada Medical Board, MedLicense.com is averaging 2 to 3 1/2 months for the issuance of a Nevada Medical License from the submission of the application to the Medical Board to the issuance of the Physician Nevada Medical Board. Our firm has licensed Physicians in Nevada since April 2000. In an average year, MedLicense.com will handle between 30 to 45 Nevada License Applications. We understand the process and what needs to be completed to have your application finalized. Once the files are deemed complete by the Nevada Medical Board the Nevada Medical License is issued. The Nevada Medical Board does not require a Physical Interview.</p>

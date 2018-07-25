@@ -6,7 +6,7 @@ sidebar:
     -
         route: /_partials/_state-licensure-requirements
 enablefeatureboxes: false
-googletitle: 'Contact | MedLicense.com | Professional Medical Licensure'
+googletitle: 'Contact | Professional Medical Licensure'
 googledesc: 'MedLicense.com provides Medical Licensing services for Doctors and most Health Care Professionals with all 50 State Medical Boards. Simply complete our online information request and we will handle the rest.'
 twitterenable: true
 twittercardoptions: summary

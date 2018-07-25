@@ -7,12 +7,12 @@ sidebar:
         route: /_partials/_state-licensure-requirements
 enablefeatureboxes: false
 date: '07/03/2017 11:56 am'
-googletitle: 'MedLicense.com - International Physician Licensing Services'
+googletitle: 'International Physician Licensing Services'
 googledesc: 'MedLicense.com has provided a brief list of the required Steps for an International Medical Graduate to take in order to obtain a Medical License in the USA.'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
-twittertitle: 'MedLicense.com - International Physician Licensing Services'
+twittertitle: 'International Physician Licensing Services'
 twitterdescription: 'MedLicense.com has provided a brief list of the required Steps for an International Medical Graduate to take in order to obtain a Medical License in the USA.'
 articleenabled: false
 musiceventenabled: false
@@ -31,8 +31,9 @@ restaurant:
     acceptsReservations: 'yes'
     priceRange: $
 facebookenable: true
-facebooktitle: 'MedLicense.com - International Physician Licensing Services'
+facebooktitle: 'International Physician Licensing Services'
 facebookdesc: 'MedLicense.com has provided a brief list of the required Steps for an International Medical Graduate to take in order to obtain a Medical License in the USA.'
+facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <p id="mcetoc_1cdnltv9f0">MedLicense.com has provided a brief list of the required Steps for an International Medical Graduate to take in order to obtain a Medical License in the USA.</p>

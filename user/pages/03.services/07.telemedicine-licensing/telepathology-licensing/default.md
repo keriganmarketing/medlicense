@@ -12,7 +12,7 @@ sidebar:
 enablefeatureboxes: false
 visible: true
 googletitle: 'Telepathology Licensing'
-googledesc: 'Our experience is unmatched in the field of Telepathology. Pathologist, Consulting Physicians, and Locum Tenens Specialist have utilized our services to obtain licenses in all 50 States. MedLicense.com provides Telepathology License Services to Telepathology practices who seek to service multiple States.'
+googledesc: 'Our experience is unmatched in the field of Telepathology. Pathologist, Consulting Physicians, and Locum Tenens Specialist have utilized our services to obtain licenses in all 50 States. MedLicense.com provides Telepathology License Services to practices who seek to service multiple States.'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg

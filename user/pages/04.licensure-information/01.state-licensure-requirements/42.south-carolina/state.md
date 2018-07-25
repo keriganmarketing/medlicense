@@ -10,11 +10,11 @@ step3: '4 attempts per step'
 usmle: '10'
 visible: false
 googletitle: 'South Carolina Licensure Requirements'
-googledesc: 'South Carolina licensure is averaging 3 to 5 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician South Carolina Medical Board. The South Carolina Medical Board has mandated the use of FCVS, which can add time to the licensure process.'
+googledesc: 'South Carolina licensure is averaging 3 to 5 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to issuance by the Physician South Carolina Medical Board. The South Carolina Medical Board has mandated use of FCVS, which can add time to the process.'
 twitterenable: true
 twittercardoptions: summary
 twittertitle: 'South Carolina Licensure Requirements'
-twitterdescription: 'South Carolina licensure is averaging 3 to 5 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician South Carolina Medical Board. The South Carolina Medical Board has mandated the use of FCVS, which can add time to the licensure process.'
+twitterdescription: 'South Carolina licensure is averaging 3 to 5 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to issuance by the Physician South Carolina Medical Board. The South Carolina Medical Board has mandated use of FCVS, which can add time to the process.'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -33,7 +33,8 @@ restaurant:
     priceRange: $
 facebookenable: true
 facebooktitle: 'South Carolina Licensure Requirements'
-facebookdesc: 'South Carolina licensure is averaging 3 to 5 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician South Carolina Medical Board. The South Carolina Medical Board has mandated the use of FCVS, which can add time to the licensure process.'
+facebookdesc: 'South Carolina licensure is averaging 3 to 5 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to issuance by the Physician South Carolina Medical Board. The South Carolina Medical Board has mandated use of FCVS, which can add time to the process.'
+facebookimg: /home/medlicense-social-card.jpg
 sidebar:
     -
         route: /_partials/_three-easy-steps

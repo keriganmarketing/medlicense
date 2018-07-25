@@ -10,12 +10,12 @@ step3: '5 attempts allowed on all steps combined - total'
 usmle: '7'
 visible: false
 googletitle: 'Illinois Licensure Requirements'
-googledesc: 'Illinois Medical Board licensing applications can be expected to take 90 to 120 days. We recommend using Fedex to insure accountability by the Illinois Medical Board. Any mail loss by the Board will cause significant delays. The CDS (Controlled Dangerous Substance) Application can be submitted at same time. '
+googledesc: "Illinois Medical Board licensing applications can be expected to take 90 to 120 days. We recommend using Fedex to insure accountability by the Illinois Medical Board. Any mail loss will cause significant delays. The CDS (Controlled Dangerous Substance) Application can be submitted at same time. \r\n"
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Illinois Licensure Requirements'
-twitterdescription: 'Illinois Medical Board licensing applications can be expected to take 90 to 120 days. We recommend using Fedex to insure accountability by the Illinois Medical Board. Any mail loss by the Board will cause significant delays. The CDS (Controlled Dangerous Substance) Application can be submitted at same time. '
+twitterdescription: "Illinois Medical Board licensing applications can be expected to take 90 to 120 days. We recommend using Fedex to insure accountability by the Illinois Medical Board. Any mail loss will cause significant delays. The CDS (Controlled Dangerous Substance) Application can be submitted at same time. \r\n"
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -34,7 +34,7 @@ restaurant:
     priceRange: $
 facebookenable: true
 facebooktitle: 'Illinois Licensure Requirements'
-facebookdesc: 'Illinois Medical Board licensing applications can be expected to take 90 to 120 days. We recommend using Fedex to insure accountability by the Illinois Medical Board. Any mail loss by the Board will cause significant delays. The CDS (Controlled Dangerous Substance) Application can be submitted at same time. '
+facebookdesc: "Illinois Medical Board licensing applications can be expected to take 90 to 120 days. We recommend using Fedex to insure accountability by the Illinois Medical Board. Any mail loss will cause significant delays. The CDS (Controlled Dangerous Substance) Application can be submitted at same time. \r\n"
 facebookimg: /home/medlicense-social-card.jpg
 ---
 

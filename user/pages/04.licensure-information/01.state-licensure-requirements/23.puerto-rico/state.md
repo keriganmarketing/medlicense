@@ -10,12 +10,12 @@ step3: None
 usmle: '7'
 visible: false
 googletitle: 'Puerto Rico Licensure Requirements'
-googledesc: 'We have the people on the ground in Puerto Rico who can make this process work for you. No one else does. Puerto Rico licensure is averaging a period of 3 to 4 months from the time Domestic Graduates sign and notarize the completed packet to the date that the license is issued by the Puerto Rico Medical Board.'
+googledesc: 'We have the people on the ground in Puerto Rico who can make this process work for you. No one else does. Puerto Rico licensure is averaging 3 to 4 months from the time Domestic Graduates sign and notarize the completed packet to the date that the license is issued by the Puerto Rico Medical Board.'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Puerto Rico Licensure Requirements'
-twitterdescription: 'We have the people on the ground in Puerto Rico who can make this process work for you. No one else does. Puerto Rico licensure is averaging a period of 3 to 4 months from the time Domestic Graduates sign and notarize the completed packet to the date that the license is issued by the Puerto Rico Medical Board.'
+twitterdescription: 'We have the people on the ground in Puerto Rico who can make this process work for you. No one else does. Puerto Rico licensure is averaging 3 to 4 months from the time Domestic Graduates sign and notarize the completed packet to the date that the license is issued by the Puerto Rico Medical Board.'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -34,7 +34,8 @@ restaurant:
     priceRange: $
 facebookenable: true
 facebooktitle: 'Puerto Rico Licensure Requirements'
-facebookdesc: 'We have the people on the ground in Puerto Rico who can make this process work for you. No one else does. Puerto Rico licensure is averaging a period of 3 to 4 months from the time Domestic Graduates sign and notarize the completed packet to the date that the license is issued by the Puerto Rico Medical Board.'
+facebookdesc: 'We have the people on the ground in Puerto Rico who can make this process work for you. No one else does. Puerto Rico licensure is averaging 3 to 4 months from the time Domestic Graduates sign and notarize the completed packet to the date that the license is issued by the Puerto Rico Medical Board.'
+facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <p>With MedLicense.com Physician License Service there are no worries or headaches. The online form will take 15 minutes to fill out and then you will receive the signature forms within 5 business days. Return the signature forms to MedLicense.com along with any other items required in our simple check list. MedLicense.com will file the applications with the Puerto Rico State Medical Board directly. Puerto Rico requires two separate applications. One for the General License and another in order to practice in a Specialty. After the required medical board applications are filed, all third party primary source confirmations will be requested. MedLicense.com will follow up with each verifying source until the Puerto Rico Medical Board confirms that your license is complete and ready to be issued. MedLicense.com handles all the administrative leg work and proofing of the licensure application process. You can concentrate on your patients while MedLicense.com handles all the small, timely details.</p>

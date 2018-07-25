@@ -10,12 +10,12 @@ step3: '3'
 usmle: '7'
 visible: false
 googletitle: 'Missouri Licensure Requirements'
-googledesc: 'MedLicense.com is averaging 2-4 months with the Missouri Medical Board for the issuance of a Missouri Medical License from the submission of the application. Our firm has licensed 45-65 physicians in Missouri since April 2000 and we understand the process of what needs to be completed to have your application finalized.'
+googledesc: "MedLicense.com is averaging 2-4 months for the issuance of a Missouri Medical License from the submission of the application. Our firm has licensed 45-65 physicians in Missouri since April 2000 and we understand the process of what needs to be completed to have your application finalized.\r\n"
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Missouri Licensure Requirements'
-twitterdescription: 'MedLicense.com is averaging 2-4 months with the Missouri Medical Board for the issuance of a Missouri Medical License from the submission of the application. Our firm has licensed 45-65 physicians in Missouri since April 2000 and we understand the process of what needs to be completed to have your application finalized.'
+twitterdescription: "MedLicense.com is averaging 2-4 months for the issuance of a Missouri Medical License from the submission of the application. Our firm has licensed 45-65 physicians in Missouri since April 2000 and we understand the process of what needs to be completed to have your application finalized.\r\n"
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -34,7 +34,8 @@ restaurant:
     priceRange: $
 facebookenable: true
 facebooktitle: 'Missouri Licensure Requirements'
-facebookdesc: 'MedLicense.com is averaging 2-4 months with the Missouri Medical Board for the issuance of a Missouri Medical License from the submission of the application. Our firm has licensed 45-65 physicians in Missouri since April 2000 and we understand the process of what needs to be completed to have your application finalized.'
+facebookdesc: "MedLicense.com is averaging 2-4 months for the issuance of a Missouri Medical License from the submission of the application. Our firm has licensed 45-65 physicians in Missouri since April 2000 and we understand the process of what needs to be completed to have your application finalized.\r\n"
+facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <p>With the Missouri Medical Board, MedLicense.com is averaging 2 to 4 months for the issuance of a Missouri Medical License from the submission of the application to the Medical Board to the issuance of the Missouri Medical License. Our firm has licensed Physicians in Missouri since April 2000. In an average year, MedLicense.com will handle between 45 to 65 Missouri License Applications. We understand the process and what needs to be completed to have your application finalized. MedLicense.com knows when and how to submit the Applications and in what order to help insure that the Missouri Medical Board doesn't lose verifications. Once the files are deemed complete by the Missouri Medical Board the Missouri Medical License is issued typically 1 to 3 weeks later.</p>

@@ -10,11 +10,11 @@ step3: '3 attempts per step'
 usmle: '7'
 visible: false
 googletitle: 'Rhode Licensure Requirements'
-googledesc: 'Rhode Island medical licensure is averaging 2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Rhode Island Medical Board. The Rhode Island Medical Board has mandated the use of FCVS, which can add time to the licensure process.'
+googledesc: "Rhode Island medical licensure is averaging 2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Rhode Island Medical Board. The Rhode Island Medical Board has mandated use of FCVS, which can add time to the process.\r\n"
 twitterenable: true
 twittercardoptions: summary
 twittertitle: 'Rhode Island Licensure Requirements'
-twitterdescription: 'Rhode Island medical licensure is averaging 2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Rhode Island Medical Board. The Rhode Island Medical Board has mandated the use of FCVS, which can add time to the licensure process.'
+twitterdescription: "Rhode Island medical licensure is averaging 2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Rhode Island Medical Board. The Rhode Island Medical Board has mandated use of FCVS, which can add time to the process.\r\n"
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -33,7 +33,8 @@ restaurant:
     priceRange: $
 facebookenable: true
 facebooktitle: 'Rhode Island Licensure Requirements'
-facebookdesc: 'Rhode Island medical licensure is averaging 2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Rhode Island Medical Board. The Rhode Island Medical Board has mandated the use of FCVS, which can add time to the licensure process.'
+facebookdesc: "Rhode Island medical licensure is averaging 2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Rhode Island Medical Board. The Rhode Island Medical Board has mandated use of FCVS, which can add time to the process.\r\n"
+facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <p>With the Rhode Island Medical Board , MedLicense.com is averaging 2 to 3 1/2 months for the issuance of a Rhode Island Medical License for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Rhode Island Medical Board. Our firm has licensed Physicians in Rhode Island since April 2000. In an average year, MedLicense.com will handle between 20 to 30 Rhode Island Medical License Applications. We understand the process and what needs to be completed to have your application finalized. Once the files are deemed complete by the Rhode Island Medical Board the Rhode Island Medical License is issued. The Rhode Island Medical Board does not require a Physical Interview.</p>

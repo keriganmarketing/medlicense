@@ -10,12 +10,12 @@ step3: '2 per step'
 usmle: '7 or 10 (MD/PhD)'
 visible: false
 googletitle: 'Idaho Licensure Requirements'
-googledesc: 'Idaho Medical Board licensing requirements, training exam requirements and information. The Board processes applications in 60 to 120 days from the date that the application is filed with no mandatory board appearance. The ID Med Board does not grant waivers to their posted Examination and educational requirements.'
+googledesc: "The Idaho Medical Board processes applications in 60 to 120 days from the date that the application is filed with no mandatory board appearance. The ID Med Board does not grant waivers to their posted Examination and educational requirements.\r\n"
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Idaho Licensure Requirements'
-twitterdescription: 'Idaho Medical Board licensing requirements, training exam requirements and information. The Board processes applications in 60 to 120 days from the date that the application is filed with no mandatory board appearance. The ID Med Board does not grant waivers to their posted Examination and educational requirements.'
+twitterdescription: "The Idaho Medical Board processes applications in 60 to 120 days from the date that the application is filed with no mandatory board appearance. The ID Med Board does not grant waivers to their posted Examination and educational requirements.\r\n"
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -34,7 +34,8 @@ restaurant:
     priceRange: $
 facebookenable: true
 facebooktitle: 'Idaho Licensure Requirements'
-facebookdesc: 'Idaho Medical Board licensing requirements, training exam requirements and information. The Board processes applications in 60 to 120 days from the date that the application is filed with no mandatory board appearance. The ID Med Board does not grant waivers to their posted Examination and educational requirements.'
+facebookdesc: "The Idaho Medical Board processes applications in 60 to 120 days from the date that the application is filed with no mandatory board appearance. The ID Med Board does not grant waivers to their posted Examination and educational requirements.\r\n"
+facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <p>Idaho typically takes 60 to 120 days to issue a license from the date that the application is filed with the Board. All work history and employment for the past 5 years is required to be verified.</p>
