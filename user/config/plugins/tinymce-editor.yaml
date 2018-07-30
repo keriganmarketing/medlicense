@@ -28,6 +28,9 @@ parameters:
   -
     name: height
     value: '420'
+  -
+    name: language_url
+    value: /user/plugins/tinymce-editor/js/tinymce/langs/en_CA.js
 menubar: false
 menu:
   -
