@@ -7,29 +7,18 @@ aoapgt: '1 year AOA PGT'
 required: 'AOA PGT Required'
 enabled: true
 visible: false
-googletitle: 'Florida Osteopathic Licensure Requirements'
-googledesc: "Florida Osteopathic Medical Board Licensure typically runs 2 1/2 to 3 1/2 months for most Osteopathic Physicians. This estimated time will increase if the physician has adverse issue in his or her background or if he or she did not complete an AOA Approved Internship.\r\n"
+googletitle: 'Florida Osteopathic Medical License Service'
+googledesc: 'Florida Osteopathic Medical License Service for Physicians seeking to expedite the Licensure process who will be applying to the FL Osteopathic Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Florida Osteopathic Licensure Requirements'
 twitterdescription: 'Florida Osteopathic Medical Board Licensure typically runs 2 1/2 to 3 1/2 months for most Osteopathic Physicians. This estimated time will increase if the physician has adverse issue in his or her background or if he or she did not complete an AOA Approved Internship.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Florida Osteopathic Licensure Requirements'
 facebookdesc: 'Florida Osteopathic Medical Board Licensure typically runs 2 1/2 to 3 1/2 months for most Osteopathic Physicians. This estimated time will increase if the physician has adverse issue in his or her background or if he or she did not complete an AOA Approved Internship.'

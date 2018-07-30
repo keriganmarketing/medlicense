@@ -6,29 +6,18 @@ sidebar:
     -
         route: /_partials/_state-licensure-requirements
 enablefeatureboxes: false
-googletitle: 'Contact | Professional Medical Licensure'
-googledesc: 'MedLicense.com provides Medical Licensing services for Doctors and most Health Care Professionals with all 50 State Medical Boards. Simply complete our online information request and we will handle the rest.'
+googletitle: 'Contact Information'
+googledesc: 'Contact information for MedLicense.com the recognized National Leader in Expedited State Medical Board Licensing for Physicians seeking a Medical License'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Contact | MedLicense.com | Professional Medical Licensure'
 twitterdescription: 'MedLicense.com provides Medical Licensing services for Doctors and most Health Care Professionals with all 50 State Medical Boards. Simply complete our online information request and we will handle the rest.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Contact | MedLicense.com | Professional Medical Licensure'
 facebookdesc: 'MedLicense.com provides Medical Licensing services for Doctors and most Health Care Professionals with all 50 State Medical Boards. Simply complete our online information request and we will handle the rest.'

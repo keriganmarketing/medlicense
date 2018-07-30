@@ -9,29 +9,18 @@ abms: 'No'
 step3: '5'
 usmle: '7'
 visible: false
-googletitle: 'New Jersey Licensure Requirements'
-googledesc: 'The New Jersey Medical Board is averaging 2.5 - 3.5 months for the issuance of a New Jersey Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the New Jersey Medical Board.'
+googletitle: 'New Jersey Medical Board License Service'
+googledesc: 'New Jersey Medical License Services for Physicians who are seeking to expedite and file a Medical License Application with the New Jersey Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'New Jersey Licensure Requirements'
 twitterdescription: 'The New Jersey Medical Board is averaging 2.5 - 3.5 months for the issuance of a New Jersey Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the New Jersey Medical Board.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'New Jersey Licensure Requirements'
 facebookdesc: 'The New Jersey Medical Board is averaging 2.5 - 3.5 months for the issuance of a New Jersey Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the New Jersey Medical Board.'

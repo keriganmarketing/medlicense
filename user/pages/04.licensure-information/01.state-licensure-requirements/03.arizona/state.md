@@ -9,29 +9,18 @@ abms: 'Yes - Exempt if Board Certified'
 step3: None
 usmle: '7 if first license  None if licensed'
 visible: false
-googletitle: 'Arizona Licensure Requirements'
-googledesc: 'The Arizona Medical Board has an intensive process averaging 1 1/2 to 3 months for the issuance of a Arizona Med License. The Board verifies  5 years of privilege and employment, School, Training, Exam Scores, Licenses, FBI Background Checks, NPDB-HIPDB, FSMB Board Action, and AMA Profile directly.'
+googletitle: 'Arizona Medical Board License Service'
+googledesc: 'Arizona Medical License Service for Medical and Osteopathic Physicians seeking a Medical or Osteopathic License with the Arizona State Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Arizona Licensure Requirements'
 twitterdescription: 'The Arizona Medical Board has an intensive process averaging 1 1/2 to 3 months for the issuance of a Arizona Med License. The Board verifies  5 years of privilege and employment, School, Training, Exam Scores, Licenses, FBI Background Checks, NPDB-HIPDB, FSMB Board Action, and AMA Profile directly.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Arizona Licensure Requirements'
 facebookdesc: 'The Arizona Medical Board has an intensive process averaging 1 1/2 to 3 months for the issuance of a Arizona Med License. The Board verifies  5 years of privilege and employment, School, Training, Exam Scores, Licenses, FBI Background Checks, NPDB-HIPDB, FSMB Board Action, and AMA Profile directly.'

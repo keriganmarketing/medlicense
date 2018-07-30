@@ -9,29 +9,18 @@ sidebar:
         route: /_partials/_state-medical-board-links
 enablefeatureboxes: false
 visible: true
-googletitle: 'Physician Licensing'
-googledesc: 'We make the path to receiving your Physician License straightforward and reduce the time it takes to complete your Physician License Process. To start, simply complete our form, forward to MedLicense.com your CV, and then await for your licensure packet to arrive in 3-5 business days.'
+googletitle: 'Expedited Physician Licensing Service'
+googledesc: 'We streamline the the Physician Licensing process. To start, complete our order form, forward your CV, and then your licensure packet will arrive in 3-5 business days.'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Physician Licensing | MedLicense.com'
 twitterdescription: 'We make the path to receiving your Physician License straightforward and reduce the time it takes to complete your Physician License Process. To start, simply complete our form, forward to MedLicense.com your CV, and then await for your licensure packet to arrive in 3-5 business days.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Physician Licensing | MedLicense.com'
 facebookdesc: 'We make the path to receiving your Physician License straightforward and reduce the time it takes to complete your Physician License Process. To start, simply complete our form, forward to MedLicense.com your CV, and then await for your licensure packet to arrive in 3-5 business days.'

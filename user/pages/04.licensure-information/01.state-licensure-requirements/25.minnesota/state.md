@@ -9,32 +9,21 @@ abms: 'Yes'
 step3: '3 (if not licensed)  4 (if licensed and board certified)'
 usmle: 'Step 3 must be passed within 5 years of Step 2 or before the end of the residency training'
 visible: false
-googletitle: 'Minnesota Licensure Requirements'
-googledesc: 'The Minnesota Medical Board is averaging 60-120 days for licensure from the submission date of application to the Medical Board to the issuance of the Minnesota Medical License for Domestic Graduates. International graduates might take longer due to additional licensing requirements.'
+googletitle: 'Minnesota Medical Board License Service'
+googledesc: 'Minnesota Medical Licensing Services for Physicians seeking to expedite the State Licensure process who will be applying to the Minnesota Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Minnesota Licensure Requirements'
-twitterdescription: "The Minnesota Medical Board is averaging 60-120 days for licensure from the submission date of application to the Medical Board to the issuance of the Minnesota Medical License for Domestic Graduates. International graduates might take longer due to additional licensing requirements.\r\n"
+twitterdescription: 'The Minnesota Medical Board is averaging 60-120 days for licensure from the submission date of application to the Medical Board to the issuance of the Minnesota Medical License for Domestic Graduates. International graduates might take longer due to additional licensing requirements.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Minnesota Licensure Requirements'
-facebookdesc: "The Minnesota Medical Board is averaging 60-120 days for licensure from the submission date of application to the Medical Board to the issuance of the Minnesota Medical License for Domestic Graduates. International graduates might take longer due to additional licensing requirements.\r\n"
+facebookdesc: 'The Minnesota Medical Board is averaging 60-120 days for licensure from the submission date of application to the Medical Board to the issuance of the Minnesota Medical License for Domestic Graduates. International graduates might take longer due to additional licensing requirements.'
 facebookimg: /home/medlicense-social-card.jpg
 ---
 

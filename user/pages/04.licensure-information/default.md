@@ -6,29 +6,18 @@ sidebar:
     -
         route: /_partials/_state-licensure-requirements
 enablefeatureboxes: false
-googletitle: 'Licensure Information'
-googledesc: 'The State Medical License process is time consuming and arduous. Your time is too valuable to be spent on completing forms, licking envelopes, sending emails, and making phones calls over and over again. That is why we exist.'
+googletitle: 'State Medical Board Licensure Information'
+googledesc: 'The State Medical Board License process is time consuming and arduous. Your time is too valuable to be spent on managing the licensing process. That is why we exist.'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Licensure Information | MedLicense.com'
 twitterdescription: 'The State Medical License process is time consuming and arduous. Your time is too valuable to be spent on completing forms, licking envelopes, sending emails, and making phones calls over and over again. That is why we exist.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Licensure Information | MedLicense.com'
 facebookdesc: 'The State Medical License process is time consuming and arduous. Your time is too valuable to be spent on completing forms, licking envelopes, sending emails, and making phones calls over and over again. That is why we exist.'

@@ -10,26 +10,15 @@ sidebar:
     -
         route: /_partials/_wise-words
 enablefeatureboxes: false
-googletitle: 'State Licensure Requirements'
-googledesc: 'With MedLicense.com''s Physician License Service there are no worries or headaches. The online form will take 15 minutes to fill out and then you will receive the signature forms within 5 business days.'
+googletitle: 'State Medical Board License Requirements'
+googledesc: 'State Medical Board License requirements listed by State, USMLE, PGT requirements for Physicians and Doctors for Licensing with any State Medical Board'
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 content:
     items:

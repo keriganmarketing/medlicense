@@ -9,29 +9,18 @@ abms: 'Yes'
 step3: '4-step 2 & 3'
 usmle: '10'
 visible: false
-googletitle: 'Louisiana Licensure Requirements'
-googledesc: 'MedLicense.com is averaging 3-5 months with the Louisiana Medical Board for the issuance of a Louisiana Medical License. Whether you are a USA graduate or a graduate of a Foreign Medical School, our process can move this arduous process through within a time period that will meet your needs.'
+googletitle: 'Louisiana Medical Board License Service'
+googledesc: 'Louisiana Medical License Services for Physicians seeking to expedite the State Board Licensure process who will be applying to the Louisiana Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Louisiana Licensure Requirements'
 twitterdescription: 'MedLicense.com is averaging 3-5 months with the Louisiana Medical Board for the issuance of a Louisiana Medical License. Whether you are a USA graduate or a graduate of a Foreign Medical School, our process can move this arduous process through within a time period that will meet your needs.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Louisiana Licensure Requirements'
 facebookdesc: 'MedLicense.com is averaging 3-5 months with the Louisiana Medical Board for the issuance of a Louisiana Medical License. Whether you are a USA graduate or a graduate of a Foreign Medical School, our process can move this arduous process through within a time period that will meet your needs.'

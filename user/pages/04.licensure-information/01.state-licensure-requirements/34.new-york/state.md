@@ -9,29 +9,18 @@ abms: 'No'
 step3: None
 usmle: None
 visible: false
-googletitle: 'New York Licensure Requirements'
-googledesc: 'The New York Medical Board License Service is averaging 45 to 90 days for the issuance of a New York Medical License for Domestic Graduates. The busiest time of the year for New York and other Medical Boards is from May to August. The New York Medical Board does not require a Physical Interview.'
+googletitle: 'New York Medical Board License Service'
+googledesc: 'New York Medical Board License Services for Doctors seeking an expedited, fast licensure process while applying to the New York Physician Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'New York Licensure Requirements'
 twitterdescription: 'The New York Medical Board License Service is averaging 45 to 90 days for the issuance of a New York Medical License for Domestic Graduates. The busiest time of the year for New York and other Medical Boards is from May to August. The New York Medical Board does not require a Physical Interview.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'New York Licensure Requirements'
 facebookdesc: 'The New York Medical Board License Service is averaging 45 to 90 days for the issuance of a New York Medical License for Domestic Graduates. The busiest time of the year for New York and other Medical Boards is from May to August. The New York Medical Board does not require a Physical Interview.'

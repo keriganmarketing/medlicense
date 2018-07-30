@@ -9,29 +9,18 @@ abms: 'Yes'
 step3: '3 (10 total attempts)'
 usmle: '7'
 visible: false
-googletitle: 'Alabama Licensure Requirements'
-googledesc: 'MedLicense.com''s Alabama Medical License Service is averaging 2 1/2 to 4 1/2 months. The ALBME is one of a handful of State Boards which offers a Telemedicine License. The purpose of the Telemedicine License is really to allow older, more experienced Physicians avoid the SPEX examination.'
+googletitle: 'Alabama Medical License Service'
+googledesc: 'Alabama Board Medical License Board Service with the ABME for Medical and Osteopathic Physicians seeking a License with the Alabama State Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Alabama Licensure Requirements'
 twitterdescription: 'MedLicense.com''s Alabama Medical License Service is averaging 2 1/2 to 4 1/2 months. The ALBME is one of a handful of State Boards which offers a Telemedicine License. The purpose of the Telemedicine License is really to allow older, more experienced Physicians avoid the SPEX examination.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Alabama Licensure Requirements'
 facebookdesc: 'MedLicense.com''s Alabama Medical License Service is averaging 2 1/2 to 4 1/2 months. The ALBME is one of a handful of State Boards which offers a Telemedicine License. The purpose of the Telemedicine License is really to allow older, more experienced Physicians avoid the SPEX examination.'

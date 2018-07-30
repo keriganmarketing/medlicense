@@ -9,28 +9,17 @@ abms: 'Yes - Waiver if 150 cme hrs 3 yrs'
 step3: '4 attempts per step'
 usmle: '10'
 visible: false
-googletitle: 'South Carolina Licensure Requirements'
-googledesc: 'South Carolina licensure is averaging 3 to 5 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to issuance by the Physician South Carolina Medical Board. The South Carolina Medical Board has mandated use of FCVS, which can add time to the process.'
+googletitle: 'South Carolina Medical Board License Service'
+googledesc: 'South Carolina Medical License Services for Physicians seeking to expedite the Board License process when applying to the South Carolina Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittertitle: 'South Carolina Licensure Requirements'
 twitterdescription: 'South Carolina licensure is averaging 3 to 5 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to issuance by the Physician South Carolina Medical Board. The South Carolina Medical Board has mandated use of FCVS, which can add time to the process.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'South Carolina Licensure Requirements'
 facebookdesc: 'South Carolina licensure is averaging 3 to 5 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to issuance by the Physician South Carolina Medical Board. The South Carolina Medical Board has mandated use of FCVS, which can add time to the process.'

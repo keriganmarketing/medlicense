@@ -1,5 +1,5 @@
 ---
-title: 'International Physician Licensing'
+title: 'International Physician seeking Licensure in the USA'
 sidebar:
     -
         route: /_partials/_three-easy-steps
@@ -7,29 +7,18 @@ sidebar:
         route: /_partials/_state-licensure-requirements
 enablefeatureboxes: false
 visible: true
-googletitle: 'International Physician Licensing'
-googledesc: 'Follow this simple, step-by-step guide to acquiring your international physician license and learn more about how medlicense.com can help you with all of your medical licensing needs.'
+googletitle: 'International Physicians seeking a Medical License'
+googledesc: 'Physician Medical Licensing information for IMG International Foreign Physicians seeking a medical licensing service to apply for a USA License'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'International Physician Licensing'
 twitterdescription: 'Follow this simple, step-by-step guide to acquiring your international physician license and learn more about how medlicense.com can help you with all of your medical licensing needs.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'International Physician Licensing'
 facebookdesc: 'Follow this simple, step-by-step guide to acquiring your international physician license and learn more about how medlicense.com can help you with all of your medical licensing needs.'

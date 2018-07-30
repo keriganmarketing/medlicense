@@ -9,32 +9,21 @@ abms: 'No'
 step3: None
 usmle: '7'
 visible: false
-googletitle: 'Hawaii Licensure Requirements'
-googledesc: 'The Hawaii Physician License typically takes 1 1/2 to 4 months to issue and tends to be strict concerning  Educational, Training, and Examination Requirements. The Hawaii Med Board does not recognize LMCC Examination. All work history and employment for the past 5 years is required to be verified. '
+googletitle: 'Hawaii Medical Board License Service'
+googledesc: 'Hawaii Medical License Service for Physicians seeking to expedite the State Licensure process who will be applying to the Hawaii Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Hawaii Licensure Requirements'
-twitterdescription: "The Hawaii Physician License typically takes 1 1/2 to 4 months to issue and tends to be strict concerning  Educational, Training, and Examination Requirements. The Hawaii Med Board does not recognize LMCC Examination. All work history and employment for the past 5 years is required to be verified. \r\n"
+twitterdescription: 'The Hawaii Physician License typically takes 1 1/2 to 4 months to issue and tends to be strict concerning  Educational, Training, and Examination Requirements. The Hawaii Med Board does not recognize LMCC Examination. All work history and employment for the past 5 years is required to be verified.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Hawaii Licensure Requirements'
-facebookdesc: "The Hawaii Physician License typically takes 1 1/2 to 4 months to issue and tends to be strict concerning  Educational, Training, and Examination Requirements. The Hawaii Med Board does not recognize LMCC Examination. All work history and employment for the past 5 years is required to be verified. \r\n"
+facebookdesc: 'The Hawaii Physician License typically takes 1 1/2 to 4 months to issue and tends to be strict concerning  Educational, Training, and Examination Requirements. The Hawaii Med Board does not recognize LMCC Examination. All work history and employment for the past 5 years is required to be verified.'
 facebookimg: /home/medlicense-social-card.jpg
 ---
 

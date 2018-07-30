@@ -9,29 +9,18 @@ abms: 'No'
 step3: '2 attempts per step'
 usmle: '7 or 10 (MD/PhD'
 visible: false
-googletitle: 'Alaska Licensure Requirements'
-googledesc: 'The Alaska Medical License Service averages 3 to 6 months for a Medical License and offers a temporary physician license, made available upon the acknowledgement that the application is complete, which will allow the Physician to practice until the Full Board meets to issue the AK License.'
+googletitle: 'Alaska Medical Board License Service'
+googledesc: 'Alaska Medical License Service for Physicians who need an expedited board application licensure process and are seeking a Medical Licensing Company'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Alaska Licensure Requirements'
 twitterdescription: 'The Alaska Medical License Service averages 3 to 6 months for a Medical License and offers a temporary physician license, made available upon the acknowledgement that the application is complete, which will allow the Physician to practice until the Full Board meets to issue the AK License.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Alaska Licensure Requirements'
 facebookdesc: 'The Alaska Medical License Service averages 3 to 6 months for a Medical License and offers a temporary physician license, made available upon the acknowledgement that the application is complete, which will allow the Physician to practice until the Full Board meets to issue the AK License.'

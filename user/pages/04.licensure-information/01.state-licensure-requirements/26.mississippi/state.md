@@ -9,29 +9,18 @@ abms: 'Yes'
 step3: '3'
 usmle: '7'
 visible: false
-googletitle: 'Mississippi Licensure Requirements'
-googledesc: 'Mississippi Medical Board licensure is averaging 2 to 5 months for the issuance of a Mississippi Medical License from the submission of the application to the Medical Board to the issuance of the Physician Mississippi Medical Board. Our firm has licensed Physicians in Mississippi since April 2000.'
+googletitle: 'Mississippi Medical Board License Services'
+googledesc: 'Mississippi Medical License Services for Physicians seeking to expedite the Board Licensure process who will be applying to the Mississippi Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Mississippi Licensure Requirements'
 twitterdescription: 'Mississippi Medical Board licensure is averaging 2 to 5 months for the issuance of a Mississippi Medical License from the submission of the application to the Medical Board to the issuance of the Physician Mississippi Medical Board. Our firm has licensed Physicians in Mississippi since April 2000.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Mississippi Licensure Requirements'
 facebookdesc: 'Mississippi Medical Board licensure is averaging 2 to 5 months for the issuance of a Mississippi Medical License from the submission of the application to the Medical Board to the issuance of the Physician Mississippi Medical Board. Our firm has licensed Physicians in Mississippi since April 2000.'

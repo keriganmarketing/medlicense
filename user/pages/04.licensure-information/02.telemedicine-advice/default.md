@@ -11,29 +11,18 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 visible: true
-googletitle: 'Telemedicine Advice'
-googledesc: 'Learn about the process of applying for a telemedicine license and find out how medlicense.com can assist you in completing your Telemedicine Licensing process.'
+googletitle: 'Telemedicine Advice for Physicians'
+googledesc: 'Telemedicine State Medical Board Licensure Advice for Physicians and Doctors seeking to practice Telemedicine with multiple State Medical Boards'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Telemedicine Advice | MedLicense.com'
 twitterdescription: 'Learn about the process of applying for a telemedicine license and find out how medlicense.com can assist you in completing your Telemedicine Licensing process.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Telemedicine Advice | MedLicense.com'
 facebookdesc: 'Learn about the process of applying for a telemedicine license and find out how medlicense.com can assist you in completing your Telemedicine Licensing process.'

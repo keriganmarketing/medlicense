@@ -9,32 +9,21 @@ abms: 'No'
 step3: '3 attempts per step'
 usmle: '10'
 visible: false
-googletitle: 'Oklahoma Licensure Requirements'
-googledesc: 'Oklahoma Medical licensure is averaging 2 1/2 to 3 1/2 months for  Oklahoma Medical License for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Oklahoma Medical Board.'
+googletitle: 'Oklahoma Medical Board License Service'
+googledesc: 'Oklahoma Medical Licensing Services for Physicians who desire an expedited licensure process when applying to the Oklahoma Medical Board for a license'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Oklahoma Licensure Requirements'
-twitterdescription: 'Oklahoma Medical licensure is averaging 2 1/2 to 3 1/2 months for  Oklahoma Medical License for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Oklahoma Medical Board. '
+twitterdescription: 'Oklahoma Medical licensure is averaging 2 1/2 to 3 1/2 months for  Oklahoma Medical License for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Oklahoma Medical Board.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Oklahoma Licensure Requirements'
-facebookdesc: 'Oklahoma Medical licensure is averaging 2 1/2 to 3 1/2 months for  Oklahoma Medical License for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Oklahoma Medical Board. '
+facebookdesc: 'Oklahoma Medical licensure is averaging 2 1/2 to 3 1/2 months for  Oklahoma Medical License for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Oklahoma Medical Board.'
 ---
 
 <p>With the Oklahoma Medical Board, MedLicense.com is averaging 2 1/2 to 3 1/2 months for the issuance of a Oklahoma Medical License for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Oklahoma Medical Board. Our firm has licensed Physicians in Oklahoma since April 2000. In an average year, MedLicense.com will handle between 35 to 45 Oklahoma Medical License Applications. We understand the process and what needs to be completed to have your application finalized. Once the files are deemed complete by the Oklahoma Medical Board the Oklahoma Medical License is issued. The Oklahoma Medical Board does not require a Physical Interview.</p>

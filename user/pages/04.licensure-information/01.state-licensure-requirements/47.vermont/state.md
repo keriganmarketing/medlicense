@@ -9,29 +9,18 @@ abms: 'No'
 step3: '3'
 usmle: '7'
 visible: false
-googletitle: 'Vermont Licensure Requirements'
-googledesc: 'The Vermont Medical Board has a typical process. Most of the physician''s timeline is verified by the Vermont Medical Board and they processes applications quickly. Licensure usually takes 2 1/2 to 3 1/2 months for most Physicians.'
+googletitle: 'Vermont Medical Board License Service'
+googledesc: 'Vermont Medical License Services for Physicians seeking a Licensing Company to  expedite the application process with the Vermont Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Vermont Licensure Requirements'
 twitterdescription: 'The Vermont Medical Board has a typical process. Most of the physician''s timeline is verified by the Vermont Medical Board and they processes applications quickly. Licensure usually takes 2 1/2 to 3 1/2 months for most Physicians.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Vermont Licensure Requirements'
 facebookdesc: 'The Vermont Medical Board has a typical process. Most of the physician''s timeline is verified by the Vermont Medical Board and they processes applications quickly. Licensure usually takes 2 1/2 to 3 1/2 months for most Physicians.'

@@ -9,32 +9,21 @@ abms: 'No'
 step3: None
 usmle: None
 visible: false
-googletitle: 'Florida Licensure Requirements'
-googledesc: 'The Medical Board of Florida averages 2 to 3 1/2 months from the application submission to issuance. The FL Med Board has changed the examination requirements for Physicians and now allows Unlimited on Attempts and Unlimited on the number of years to pass all 3 Steps of the USMLE. '
+googletitle: 'Florida Medical Board License Service'
+googledesc: 'Florida Medical Board License Service for Physicians seeking to expedite the State Board Licensure process who will be applying to the Florida Medical Board.'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Florida Licensure Requirements'
-twitterdescription: 'The Medical Board of Florida averages 2 to 3 1/2 months from the application submission to issuance. The FL Med Board has changed the examination requirements for Physicians and now allows Unlimited on Attempts and Unlimited on the number of years to pass all 3 Steps of the USMLE. '
+twitterdescription: 'The Medical Board of Florida averages 2 to 3 1/2 months from the application submission to issuance. The FL Med Board has changed the examination requirements for Physicians and now allows Unlimited on Attempts and Unlimited on the number of years to pass all 3 Steps of the USMLE.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Florida Licensure Requirements'
-facebookdesc: 'The Medical Board of Florida averages 2 to 3 1/2 months from the application submission to issuance. The FL Med Board has changed the examination requirements for Physicians and now allows Unlimited on Attempts and Unlimited on the number of years to pass all 3 Steps of the USMLE. '
+facebookdesc: 'The Medical Board of Florida averages 2 to 3 1/2 months from the application submission to issuance. The FL Med Board has changed the examination requirements for Physicians and now allows Unlimited on Attempts and Unlimited on the number of years to pass all 3 Steps of the USMLE.'
 ---
 
 <p>How long is Florida taking MedLicense.com? MedLicense.com is averaging 60 - 110 Days (from the application submission to issuance) You have probably heard horror stories concerning the Medical Board of Florida. Some are true. Our firm has licensed Physicians in Florida since April 2000. In an average year, MedLicense.com will handle between 120 to 150 FL License Applications. We understand the process and what needs to be completed to have your application finalized. Our experience with FL is such that we can push the process through and even see licensure at the 45 day threshold if the FBI Background Checks allow. USA Graduate or a Graduate of a Foreign Medical School will benefit from our FL Med License Service. MedLicense.com can move this arduous process through within a time period that will meet you needs. Your involvement in the process is kept to a minimum. The fee for our services is a one time payment of $599 (practicing) or $489 (in training) per State Process. Our packet is shipped to you after a 5-10 min consultation. Sign, notarize, and proof your application packet and then return it to MedLicense.com with the requested copies, photos, and addendums. Then MedLicense.com will forward the completed packet to the Florida Medical Board. Then the verification process and the required follow up with the third parties begins. Within 2 to 3.5 months, the license will typically be issued.</p>

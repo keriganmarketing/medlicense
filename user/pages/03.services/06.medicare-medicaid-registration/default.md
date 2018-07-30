@@ -9,28 +9,17 @@ sidebar:
         route: /_partials/_state-medical-board-links
 enablefeatureboxes: false
 visible: true
-googletitle: 'Medicare / Medicaid Registration'
-googledesc: 'We make your Medicare/Medicaid credentials straightforward and reduce the time it takes to complete your Medicare/Medicaid Credentialing Process. To start, simply complete our form, forward us your CV, and then await for your licensure packet to arrive in 3-5 business days.'
+googletitle: 'Medicare Credentialing Services for Physicians '
+googledesc: 'Physician Medicare Credentialing Services for Doctors seeking to credential with the Federal Medicare or State Medicaid Programs in any of the Fifty States'
 twitterenable: true
 twittercardoptions: summary
 twittertitle: 'Medicare / Medicaid Registration'
 twitterdescription: 'We make your Medicare/Medicaid credentials straightforward and reduce the time it takes to complete your Medicare/Medicaid Credentialing Process. To start, simply complete our form, forward us your CV, and then await for your licensure packet to arrive in 3-5 business days.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Medicare / Medicaid Registration'
 facebookdesc: 'We make your Medicare/Medicaid credentials straightforward and reduce the time it takes to complete your Medicare/Medicaid Credentialing Process. To start, simply complete our form, forward us your CV, and then await for your licensure packet to arrive in 3-5 business days.'

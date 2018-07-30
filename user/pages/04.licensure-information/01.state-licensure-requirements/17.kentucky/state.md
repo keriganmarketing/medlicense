@@ -9,29 +9,18 @@ abms: 'No'
 step3: '4 per step'
 usmle: None
 visible: false
-googletitle: 'Kentucky Licensure Requirements'
-googledesc: 'MedLicense.com is averaging 3-5 months with the Kentucky Medical Board for the issuance of a Kentucky Medical License. Kentucky is one of the more lengthy medical licensure processes in the US and our experience is such that we can push the process through and see licensure at the 60 - 150 day mark.'
+googletitle: 'Kentucky Medical Board License Services'
+googledesc: 'Kentucky Medical License Services for Physicians seeking a Licensing Company to expedite the medical licensure process for the Kentucky Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Kentucky Licensure Requirements'
 twitterdescription: 'MedLicense.com is averaging 3-5 months with the Kentucky Medical Board for the issuance of a Kentucky Medical License. Kentucky is one of the more lengthy medical licensure processes in the US and our experience is such that we can push the process through and see licensure at the 60 - 150 day mark.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Kentucky Licensure Requirements'
 facebookdesc: 'MedLicense.com is averaging 3-5 months with the Kentucky Medical Board for the issuance of a Kentucky Medical License. Kentucky is one of the more lengthy medical licensure processes in the US and our experience is such that we can push the process through and see licensure at the 60 - 150 day mark.'

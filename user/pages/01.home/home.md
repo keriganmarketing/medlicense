@@ -25,38 +25,27 @@ belowsidebar:
 process:
     twig: true
     markdown: false
-googletitle: 'MedLicense.com | Medical Licensure in all 50 states'
-googledesc: 'We''re the nation''s premier Physician Licensing Company. Over 39,000 Physicians have utilized MedLicense.com''s Medical License Service to obtain their State Medical Board Licenses since 2001.'
+googletitle: 'Expedited State Medical Licensing Services'
+googledesc: 'We''re the nation''s premier Expedited Physician Licensing Company. Over 61,000 State Medical Board Licenses  have been issued through MedLicense.com since 2001.'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'MedLicense.com | Expedited Medical License Service'
-twitterdescription: 'We''re the nation''s premier Physician Licensing Company. Over 39,000 Physicians have utilized MedLicense.com''s Medical License Service to obtain their State Medical Board Licenses since 2001.'
+twitterdescription: 'We''re the nation''s premier Physician Licensing Company. Over 61,000 Physicians have utilized MedLicense.com''s Medical License Service to obtain their State Medical Board Licenses since 2001.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'MedLicense.com | Expedited Medical License Service'
-facebookdesc: 'We''re the nation''s premier Physician Licensing Company. Over 39,000 Physicians have utilized MedLicense.com''s Medical License Service to obtain their State Medical Board Licenses since 2001.'
+facebookdesc: 'We''re the nation''s premier Physician Licensing Company. Over 61,000 Physicians have utilized MedLicense.com''s Medical License Service to obtain their State Medical Board Licenses since 2001.'
 facebookauthor: 'https://www.facebook.com/MedLicense/'
 facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <h1 id="mcetoc_1cec8a5l50">Expedited Medical License Service</h1>
-<p>MedLicense.com&trade; is the nation's premier Physician Licensing Company. Over 39,000 Physicians have utilized MedLicense.com's Medical License Service to obtain their State Medical Board Licenses since 2001. In 2016, MedLicense.com licensed 2% of all Physicians licensed in the 50 States. MedLicense.com is the Recognized Industry Leader in Physician Licensing. There is only One MedLicense.com. MedLicense.com licenses Physicians in all 50 States. Simply fill out our form and we will handle the rest. The licensure process is time consuming and requires knowledge of each State Med Boards' regulatory process. Whether you are applying for a medical license in Florida, New York, California, Georgia, or all the states in between, MedLicense.com can expedite your medical license process by applying our knowledge of the licensure requirements and aggressively following up with all State Board Applications.</p>
+<p>MedLicense.com&trade; is the nation's premier Physician Licensing Company. Over 61,000 Physicians have utilized MedLicense.com's Medical License Service to obtain their State Medical Board Licenses since 2001. In 2016, MedLicense.com licensed 2% of all Physicians licensed in the 50 States. MedLicense.com is the Recognized Industry Leader in Physician Licensing. There is only One MedLicense.com. MedLicense.com licenses Physicians in all 50 States. Simply fill out our form and we will handle the rest. The licensure process is time consuming and requires knowledge of each State Med Boards' regulatory process. Whether you are applying for a medical license in Florida, New York, California, Georgia, or all the states in between, MedLicense.com can expedite your medical license process by applying our knowledge of the licensure requirements and aggressively following up with all State Board Applications.</p>
 <p><a class="btn btn-secondary" href="../../pricing">Purchase Licensing Services <em class="fa fa-sm fa-play" aria-hidden="true">&nbsp;</em></a></p>
 <h3 id="mcetoc_1cec8a5l51">Our Process: How does our Medical License Service work?</h3>
 <ol>
@@ -70,7 +59,7 @@ facebookimg: /home/medlicense-social-card.jpg
 </ol>
 <p><a class="btn btn-secondary" href="../../pricing">Sign up today! <em class="fa fa-sm fa-play" aria-hidden="true">&nbsp;</em></a></p>
 <h3 id="mcetoc_1cec8a5l52">Average Licensing Time</h3>
-<p>Physician's using our Medical Licensing Service are experiencing Licensing times between&nbsp;60 days to&nbsp;105 days&nbsp;for most applications.&nbsp; This is measured from the date of the submission of the application to the issuance. Licensure can exceed the 115 day mark depending on the State and the Physician's background. Please contact us to for a consultation to determine a more accurate licensure time estimate.&nbsp;&nbsp;</p>
+<p>Physician's using our Medical Licensing Service are experiencing Licensing times between&nbsp;60 days to&nbsp;105 days&nbsp;for most applications.&nbsp; This is measured from the date of the submission of the application to the issuance. Licensure can exceed the 115 day mark depending on the State and the Physician's background. Please contact us to for a consultation to determine a more accurate licensure time estimate.</p>
 <div class="table-responsive">
 <table class="table">
 <tbody>

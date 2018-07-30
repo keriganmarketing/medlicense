@@ -25,6 +25,9 @@ parameters:
   -
     name: paste_data_images
     value: '1'
+  -
+    name: height
+    value: '420'
 menubar: false
 menu:
   -

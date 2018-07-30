@@ -9,29 +9,18 @@ abms: 'No'
 step3: '6'
 usmle: '10'
 visible: false
-googletitle: 'West Virginia Medical Board License Requirements'
-googledesc: 'The West Virginia Medical Board has a typical process. The West Virginia Medical Board does NOT verify employment or privileges and it takes them 2 to 3 weeks to process applications after receipt. Licensure usually takes 2 1/2 to 3 1/2 months for most Physicians.'
+googletitle: 'West Virginia Medical Board License Service'
+googledesc: 'West Virginia Medical License Services for Physicians seeking to expedite the licensure process who will be applying to the West Virginia Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'West Virginia Medical Board License Requirements'
 twitterdescription: 'The West Virginia Medical Board has a typical process. The West Virginia Medical Board does NOT verify employment or privileges and it takes them 2 to 3 weeks to process applications after receipt. Licensure usually takes 2 1/2 to 3 1/2 months for most Physicians.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'West Virginia Medical Board License Requirements'
 facebookdesc: 'The West Virginia Medical Board has a typical process. The West Virginia Medical Board does NOT verify employment or privileges and it takes them 2 to 3 weeks to process applications after receipt. Licensure usually takes 2 1/2 to 3 1/2 months for most Physicians.'

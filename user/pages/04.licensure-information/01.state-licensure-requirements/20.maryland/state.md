@@ -9,29 +9,18 @@ abms: 'Yes - Exempt if Board Certified'
 step3: '4'
 usmle: '10'
 visible: false
-googletitle: 'Maryland Licensure Requirements'
-googledesc: 'Maryland Medical Board licensure is averaging 2.5-3.5 months for the issuance of a Maryland Medical License from submission of application. Our firm has licensed Physicians in Maryland since April 2000 and in an average year, MedLicense.com will handle between 25 to 35 Maryland License Applications.'
+googletitle: 'Maryland Medical Board License Service'
+googledesc: 'Maryland Medical License Services for Physicians seeking to expedite the State Board Licensure process who will be applying to the Maryland Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Maryland Licensure Requirements'
 twitterdescription: 'Maryland Medical Board licensure is averaging 2.5-3.5 months for the issuance of a Maryland Medical License from submission of application. Our firm has licensed Physicians in Maryland since April 2000 and in an average year, MedLicense.com will handle between 25 to 35 Maryland License Applications.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Maryland Licensure Requirements'
 facebookdesc: 'Maryland Medical Board licensure is averaging 2.5-3.5 months for the issuance of a Maryland Medical License from submission of application. Our firm has licensed Physicians in Maryland since April 2000 and in an average year, MedLicense.com will handle between 25 to 35 Maryland License Applications.'

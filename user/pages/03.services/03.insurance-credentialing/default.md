@@ -9,32 +9,21 @@ sidebar:
         route: /_partials/_state-medical-board-links
 enablefeatureboxes: false
 visible: true
-googletitle: 'Insurance Credentialing'
-googledesc: "We make receiving your insurance credentials straightforward and reduce the time it takes to complete your Insurance Credentialing Process. To initiate the process, simply complete our form, forward us your CV, and then await for your licensure packet to arrive in 3 to 5 business days.\r\n"
+googletitle: 'Physician Insurance Credentialing Services'
+googledesc: 'Physician Insurance Credentialing Services for Doctors seeking to credential with all Insurance Companies and Health Plans and in any of the 50 States'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Insurance Credentialing | MedLicense.com'
-twitterdescription: "We make receiving your insurance credentials straightforward and reduce the time it takes to complete your Insurance Credentialing Process. To initiate the process, simply complete our form, forward us your CV, and then await for your licensure packet to arrive in 3 to 5 business days.\r\n"
+twitterdescription: 'We make receiving your insurance credentials straightforward and reduce the time it takes to complete your Insurance Credentialing Process. To initiate the process, simply complete our form, forward us your CV, and then await for your licensure packet to arrive in 3 to 5 business days.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Insurance Credentialing | MedLicense.com'
-facebookdesc: "We make receiving your insurance credentials straightforward and reduce the time it takes to complete your Insurance Credentialing Process. To initiate the process, simply complete our form, forward us your CV, and then await for your licensure packet to arrive in 3 to 5 business days.\r\n"
+facebookdesc: 'We make receiving your insurance credentials straightforward and reduce the time it takes to complete your Insurance Credentialing Process. To initiate the process, simply complete our form, forward us your CV, and then await for your licensure packet to arrive in 3 to 5 business days.'
 facebookimg: /home/medlicense-social-card.jpg
 ---
 

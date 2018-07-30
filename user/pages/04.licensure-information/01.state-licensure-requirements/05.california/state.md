@@ -9,29 +9,18 @@ abms: 'Yes - Exempt if NBME or ABMS'
 step3: '4'
 usmle: '10'
 visible: false
-googletitle: 'California Licensure Requirements'
-googledesc: 'The California Medical Board averages 2 to 5 months for issuance of a California Medical License. The Med Board of CA requires each Physician submit a set of Fingerprint cards or travel to California to complete the LiveScan process. For expediency, MedLicense.com recommends the LiveScan process.'
+googletitle: 'California Medical Board License Service'
+googledesc: 'California Medical License Service for Doctors and Physicians seeking an Expedited Medical License with the Medical Board of California'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'California Licensure Requirements'
 twitterdescription: 'The California Medical Board averages 2 to 5 months for issuance of a California Medical License. The Med Board of CA requires each Physician submit a set of Fingerprint cards or travel to California to complete the LiveScan process. For expediency, MedLicense.com recommends the LiveScan process.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'California Licensure Requirements'
 facebookdesc: 'The California Medical Board averages 2 to 5 months for issuance of a California Medical License. The Med Board of CA requires each Physician submit a set of Fingerprint cards or travel to California to complete the LiveScan process. For expediency, MedLicense.com recommends the LiveScan process.'

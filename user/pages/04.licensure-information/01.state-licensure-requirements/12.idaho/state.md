@@ -9,32 +9,21 @@ abms: 'No'
 step3: '2 per step'
 usmle: '7 or 10 (MD/PhD)'
 visible: false
-googletitle: 'Idaho Licensure Requirements'
-googledesc: "The Idaho Medical Board processes applications in 60 to 120 days from the date that the application is filed with no mandatory board appearance. The ID Med Board does not grant waivers to their posted Examination and educational requirements.\r\n"
+googletitle: 'Idaho Medical Board License Service'
+googledesc: 'Idaho Medical License Service for Physicians seeking to have an expedited application process with the Idaho Medical Board through MedLicense.com'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Idaho Licensure Requirements'
-twitterdescription: "The Idaho Medical Board processes applications in 60 to 120 days from the date that the application is filed with no mandatory board appearance. The ID Med Board does not grant waivers to their posted Examination and educational requirements.\r\n"
+twitterdescription: 'The Idaho Medical Board processes applications in 60 to 120 days from the date that the application is filed with no mandatory board appearance. The ID Med Board does not grant waivers to their posted Examination and educational requirements.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Idaho Licensure Requirements'
-facebookdesc: "The Idaho Medical Board processes applications in 60 to 120 days from the date that the application is filed with no mandatory board appearance. The ID Med Board does not grant waivers to their posted Examination and educational requirements.\r\n"
+facebookdesc: 'The Idaho Medical Board processes applications in 60 to 120 days from the date that the application is filed with no mandatory board appearance. The ID Med Board does not grant waivers to their posted Examination and educational requirements.'
 facebookimg: /home/medlicense-social-card.jpg
 ---
 

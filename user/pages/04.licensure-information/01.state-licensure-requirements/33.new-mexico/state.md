@@ -9,29 +9,18 @@ abms: 'No'
 step3: '6'
 usmle: '7 or 10 (MD/PhD)'
 visible: false
-googletitle: 'New Mexico Licensure Requirements'
-googledesc: 'The New Mexico Medical Board is averaging 2 to 3 1/2 months for the issuance of a New Mexico Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the New Mexico Medical Board.'
+googletitle: 'New Mexico Medical Board License Service'
+googledesc: 'New Mexico Medical License Services for Physicians seeking to expedite the Board Licensure process who will be applying to the New Mexico Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'New Mexico Licensure Requirements'
 twitterdescription: 'The New Mexico Medical Board is averaging 2 to 3 1/2 months for the issuance of a New Mexico Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the New Mexico Medical Board.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'New Mexico Licensure Requirements'
 facebookdesc: 'The New Mexico Medical Board is averaging 2 to 3 1/2 months for the issuance of a New Mexico Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the New Mexico Medical Board.'

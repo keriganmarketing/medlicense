@@ -7,31 +7,20 @@ sidebar:
         route: /_partials/_state-licensure-requirements
 enablefeatureboxes: false
 date: '11/10/2010 11:46 am'
-googletitle: 'Mail Loss: the #1 Issue that Delays Medical Licensure'
+googletitle: 'Mail Loss: the #1 Issue Delaying Medical Licensure'
 googledesc: 'Learn how to ensure your Medical License Application doesn''t get lost in the mail. This step-by-step guide with help you get some peace of mind during this process.'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
-twittertitle: 'Mail Loss: the #1 Issue that Delays Medical Licensure'
+twittertitle: 'Mail Loss: the #1 Issue Delaying Medical Licensure'
 twitterdescription: 'Learn how to ensure your Medical License Application doesn''t get lost in the mail. This step-by-step guide with help you get some peace of mind during this process.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
-facebooktitle: 'Mail Loss: the #1 Issue that Delays Medical Licensure'
+facebooktitle: 'Mail Loss: the #1 Issue Delaying Medical Licensure'
 facebookdesc: 'Learn how to ensure your Medical License Application doesn''t get lost in the mail. This step-by-step guide with help you get some peace of mind during this process.'
 facebookimg: /home/medlicense-social-card.jpg
 ---

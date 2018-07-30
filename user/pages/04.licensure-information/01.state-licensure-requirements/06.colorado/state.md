@@ -9,29 +9,18 @@ abms: 'No'
 step3: None
 usmle: '7 or 10 (MD/PhD)'
 visible: false
-googletitle: 'Colorado Licensure Requirements'
-googledesc: 'The Colorado Medical License Service averages 2 to 4 months for the issuance of the License and can be expedited if a physician qualifies for the Expedited License. The CO Medical Board utilizes the California Black List concerning approved/unapproved Scho'
+googletitle: 'Colorado Medical Board License Service'
+googledesc: 'Colorado Medical License Service for Medical and Osteopathic Doctors seeking a Medical Board License with the Colorado State Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Colorado Licensure Requirements'
 twitterdescription: 'The Colorado Medical License Service averages 2 to 4 months for the issuance of the License and can be expedited if a physician qualifies for the Expedited License. The CO Medical Board utilizes the California Black List concerning approved/unapproved Scho'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Colorado Licensure Requirements'
 facebookdesc: 'The Colorado Medical License Service averages 2 to 4 months for the issuance of the License and can be expedited if a physician qualifies for the Expedited License. The CO Medical Board utilizes the California Black List concerning approved/unapproved Scho'

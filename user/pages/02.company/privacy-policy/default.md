@@ -18,21 +18,10 @@ twittercardoptions: summary
 twittertitle: 'Privacy Policy | MedLicense.com'
 twitterdescription: 'This privacy policy discloses the privacy practices for medlicense.com. This privacy policy applies solely to information collected by this web site.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Privacy Policy | MedLicense.com'
 facebookdesc: 'This privacy policy discloses the privacy practices for medlicense.com. This privacy policy applies solely to information collected by this web site.'

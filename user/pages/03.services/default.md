@@ -10,31 +10,20 @@ sidebar:
     -
         route: /_partials/_wise-words
 enablefeatureboxes: false
-googletitle: 'Services | Professional Medical Licensure | MedLicense.com'
-googledesc: 'We make receiving your state medical license straightforward and reduce the time it takes to complete your Medical License Application. To initiate the process, simply complete our form, forward to MedLicense.com your CV, and then await for your licensure packet to arrive in 3 to 5 business days.'
+googletitle: 'Expedited Medical Board Licensing Services'
+googledesc: 'Expedited Physician License Service for Physicians seeking assistance applying for a Medical License with any of the 50 State Medical Boards'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
-twittertitle: 'Services | Professional Medical Licensure | MedLicense.com'
+twittertitle: 'Services | Professional Medical Licensure'
 twitterdescription: 'We make receiving your state medical license straightforward and reduce the time it takes to complete your Medical License Application. To initiate the process, simply complete our form, forward to MedLicense.com your CV, and then await for your licensure packet to arrive in 3 to 5 business days.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
-facebooktitle: 'Services | Professional Medical Licensure | MedLicense.com'
+facebooktitle: 'Services | Professional Medical Licensure'
 facebookdesc: 'We make receiving your state medical license straightforward and reduce the time it takes to complete your Medical License Application. To initiate the process, simply complete our form, forward to MedLicense.com your CV, and then await for your licensure packet to arrive in 3 to 5 business days.'
 facebookimg: /home/medlicense-social-card.jpg
 ---

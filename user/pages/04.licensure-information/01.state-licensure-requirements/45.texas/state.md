@@ -9,29 +9,18 @@ abms: 'Yes'
 step3: '3 attempts per step'
 usmle: '7'
 visible: false
-googletitle: 'Texas Licensure Requirements'
-googledesc: 'Texas licensure is averaging 3 to 5 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Texas Medical Board. Our firm has licensed Physicians in Texas since April 2000.'
+googletitle: 'Texas Medical Board License Service'
+googledesc: 'Texas Medical Board Licensing Services for Physicians seeking assistance with expediting the licensure process when they apply to the Texas Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Texas Licensure Requirements'
 twitterdescription: 'Texas licensure is averaging 3 to 5 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Texas Medical Board. Our firm has licensed Physicians in Texas since April 2000.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Texas Licensure Requirements'
 facebookdesc: 'Texas licensure is averaging 3 to 5 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Texas Medical Board. Our firm has licensed Physicians in Texas since April 2000.'

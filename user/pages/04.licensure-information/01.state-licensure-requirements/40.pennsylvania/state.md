@@ -9,29 +9,18 @@ abms: 'No'
 step3: ' None'
 usmle: None
 visible: false
-googletitle: 'Pennsylvania Licensure Requirements'
-googledesc: 'Pennsylvania medical licensure is averaging 2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Pennsylvania Medical Board.'
+googletitle: 'Pennsylvania Medical Board License Service'
+googledesc: 'Pennsylvania Medical License Services for Physicians seeking to expedite the Board License process who will be applying to the Pennsylvania Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Pennsylvania Licensure Requirements'
 twitterdescription: 'Pennsylvania medical licensure is averaging 2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Pennsylvania Medical Board.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Pennsylvania Licensure Requirements'
 facebookdesc: 'Pennsylvania medical licensure is averaging 2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Pennsylvania Medical Board.'

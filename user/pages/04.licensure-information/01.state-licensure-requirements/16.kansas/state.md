@@ -9,32 +9,21 @@ abms: 'No'
 step3: 3+
 usmle: '10'
 visible: false
-googletitle: 'Kansas Licensure Requirements'
-googledesc: 'With the Kansas Medical Board, MedLicense.com is averaging 2 to 3 1/2 months for the issuance of a Kansas Medical License from the submission of the application to the Medical Board to the issuance of the Physician Kansas Medical License. Our firm has licensed Physicians in Kansas since April 2000. '
+googletitle: 'Kansas Medical Board License Service'
+googledesc: 'Kansas Medical License Services for Physicians seeking to expedite the State Medical Board Licensure process with the Kansas Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Kansas Licensure Requirements'
-twitterdescription: 'With the Kansas Medical Board, MedLicense.com is averaging 2 to 3 1/2 months for the issuance of a Kansas Medical License from the submission of the application to the Medical Board to the issuance of the Physician Kansas Medical License. Our firm has licensed Physicians in Kansas since April 2000. '
+twitterdescription: 'With the Kansas Medical Board, MedLicense.com is averaging 2 to 3 1/2 months for the issuance of a Kansas Medical License from the submission of the application to the Medical Board to the issuance of the Physician Kansas Medical License. Our firm has licensed Physicians in Kansas since April 2000.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Kansas Licensure Requirements'
-facebookdesc: 'With the Kansas Medical Board, MedLicense.com is averaging 2 to 3 1/2 months for the issuance of a Kansas Medical License from the submission of the application to the Medical Board to the issuance of the Physician Kansas Medical License. Our firm has licensed Physicians in Kansas since April 2000. '
+facebookdesc: 'With the Kansas Medical Board, MedLicense.com is averaging 2 to 3 1/2 months for the issuance of a Kansas Medical License from the submission of the application to the Medical Board to the issuance of the Physician Kansas Medical License. Our firm has licensed Physicians in Kansas since April 2000.'
 ---
 
 <p>With the Kansas Medical Board, MedLicense.com is averaging 2 to 3 1/2 months for the issuance of a Kansas Medical License from the submission of the application to the Medical Board to the issuance of the Physician Kansas Medical License. Our firm has licensed Physicians in Kansas since April 2000. In an average year, MedLicense.com will handle between 20 to 30 Kansas License Applications. We understand the process and what needs to be completed to have your application finalized. MedLicense.com knows when and how to submit the Applications and in what order to help insure that the Kansas Medical Board doesn't lose verifications. Our experience with Kansas is such that we can push the process through and even see licensure at the 60-115 day mark Once the files are deemed complete by the Kansas Medical Board, the Kansas Medical License is typically issued within a week. The Kansas Medical Board is not a difficult board to deal with if problems exist with the application. When the Kansas Medical License Application is complete, a Board Appearance is usually not required.</p>

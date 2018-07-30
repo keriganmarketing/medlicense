@@ -11,29 +11,18 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 visible: true
-googletitle: 'Telemed Nurse Licensing'
-googledesc: 'Once our short order form is completed and a copy of each Nurse''s CV is provided, we will orginiate a licensure packet for each Nurse / each State. The packet will then be forwarded to the Nurse in question or the enrollment will be arranged by a visit from a MedLicense.com Licensure Professional.'
+googletitle: 'Non-Compact Telenursing Nurse Licenses'
+googledesc: 'Telenursing Licensing Services for Registered Nurses (RN)  seeking to apply for multiple Non-Compact Nursing Licenses to practice Tele-Nursing'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Telemed Nurse Licensing | MedLicense.com'
 twitterdescription: 'Once our short order form is completed and a copy of each Nurse''s CV is provided, we will orginiate a licensure packet for each Nurse / each State. The packet will then be forwarded to the Nurse in question or the enrollment will be arranged by a visit from a MedLicense.com Licensure Professional.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Telemed Nurse Licensing'
 facebookdesc: 'Once our short order form is completed and a copy of each Nurse''s CV is provided, we will orginiate a licensure packet for each Nurse / each State. The packet will then be forwarded to the Nurse in question or the enrollment will be arranged by a visit from a MedLicense.com Licensure Professional.'

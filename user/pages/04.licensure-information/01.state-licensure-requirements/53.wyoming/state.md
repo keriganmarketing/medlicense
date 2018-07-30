@@ -9,29 +9,18 @@ abms: 'No'
 step3: '7 total USMLE attempts'
 usmle: '7'
 visible: false
-googletitle: 'Wyoming Medical Board License Requirements'
-googledesc: 'The Wyoming Medical Board has a typical process. The Wyoming Medical Board does not verify employment and privileges and it takes them 1 to 2 weeks to process applications after receipt. Licensure usually takes 2 1/2 to 4 months for most Physicians.'
+googletitle: 'Wyoming Medical Board License Service'
+googledesc: 'Wyoming Medical License Services for Physicians seeking to expedite the State Board Licensure process who will be applying to the Wyoming Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Wyoming Medical Board License Requirements'
 twitterdescription: 'The Wyoming Medical Board has a typical process. The Wyoming Medical Board does not verify employment and privileges and it takes them 1 to 2 weeks to process applications after receipt. Licensure usually takes 2 1/2 to 4 months for most Physicians.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Wyoming Medical Board License Requirements'
 facebookdesc: 'The Wyoming Medical Board has a typical process. The Wyoming Medical Board does not verify employment and privileges and it takes them 1 to 2 weeks to process applications after receipt. Licensure usually takes 2 1/2 to 4 months for most Physicians.'

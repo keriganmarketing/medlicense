@@ -9,32 +9,21 @@ abms: NA
 step3: '3  *Waiver required if more than 3'
 usmle: '7'
 visible: false
-googletitle: 'Maine Licensure Requirements'
-googledesc: "Maine Medical Board licensure is averaging 3 to 8 months for the issuance of a Maine Medical License from the submission of the application. We understand the process and what needs to be completed to have your application finalized. The Maine Medical Board does not require a Physical Interview. \r\n"
+googletitle: 'Maine Medical Board License Service'
+googledesc: 'Maine Medical License Services for Doctors seeking to apply to the Board for a Physician License while experiencing an expedited process'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Maine Licensure Requirements'
-twitterdescription: "Maine Medical Board licensure is averaging 3 to 8 months for the issuance of a Maine Medical License from the submission of the application. We understand the process and what needs to be completed to have your application finalized. The Maine Medical Board does not require a Physical Interview. \r\n"
+twitterdescription: 'Maine Medical Board licensure is averaging 3 to 8 months for the issuance of a Maine Medical License from the submission of the application. We understand the process and what needs to be completed to have your application finalized. The Maine Medical Board does not require a Physical Interview.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Maine Licensure Requirements'
-facebookdesc: "Maine Medical Board licensure is averaging 3 to 8 months for the issuance of a Maine Medical License from the submission of the application. We understand the process and what needs to be completed to have your application finalized. The Maine Medical Board does not require a Physical Interview. \r\n"
+facebookdesc: 'Maine Medical Board licensure is averaging 3 to 8 months for the issuance of a Maine Medical License from the submission of the application. We understand the process and what needs to be completed to have your application finalized. The Maine Medical Board does not require a Physical Interview.'
 facebookimg: /home/medlicense-social-card.jpg
 ---
 

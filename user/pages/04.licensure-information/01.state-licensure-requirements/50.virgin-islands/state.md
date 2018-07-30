@@ -9,29 +9,18 @@ abms: 'No'
 step3: none
 usmle: 10+
 visible: false
-googletitle: 'Virgin Islands Licensure Requirements'
-googledesc: 'The Virgin Islands Medical Board does not have a typical process. Most of the physician''s timeline is verified by the Virgin Islands Medical Board. Licensure times range from 6 1/2 to 18 months for the Virgin Islands Medical License for most Physicians.'
+googletitle: 'Virgin Islands Medical License Service'
+googledesc: 'Virgin Islands Medical License Services for Physicians seeking to expedite the filing of a medical license applying with the Virgin Islands Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Virgin Islands Licensure Requirements'
 twitterdescription: 'The Virgin Islands Medical Board does not have a typical process. Most of the physician''s timeline is verified by the Virgin Islands Medical Board. Licensure times range from 6 1/2 to 18 months for the Virgin Islands Medical License for most Physicians.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Virgin Islands Licensure Requirements'
 facebookdesc: 'The Virgin Islands Medical Board does not have a typical process. Most of the physician''s timeline is verified by the Virgin Islands Medical Board. Licensure times range from 6 1/2 to 18 months for the Virgin Islands Medical License for most Physicians.'

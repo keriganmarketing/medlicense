@@ -9,29 +9,18 @@ abms: 'No'
 step3: '3'
 usmle: '7 or 9 (Md/PhD)'
 visible: false
-googletitle: 'Georgia Licensure Requirements'
-googledesc: 'The Georgia Medical Board is experiencing extended licensure time frames, averaging 4 to 8 months. However, Georgia has a streamlined process and verifies the Physician''s Core Credentials. There is not a Mandatory Board Appearance Requirement. Fingerprint Background checks are not required.'
+googletitle: 'Georgia Medical Board License Service'
+googledesc: 'Georgia Medical License Service for Physicians seeking to expedite the State Licensure process who will be applying to the Georgia Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Georgia Licensure Requirements'
 twitterdescription: 'The Georgia Medical Board is experiencing extended licensure time frames, averaging 4 to 8 months. However, Georgia has a streamlined process and verifies the Physician''s Core Credentials. There is not a Mandatory Board Appearance Requirement. Fingerprint Background checks are not required.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Georgia Licensure Requirements'
 facebookdesc: 'The Georgia Medical Board is experiencing extended licensure time frames, averaging 4 to 8 months. However, Georgia has a streamlined process and verifies the Physician''s Core Credentials. There is not a Mandatory Board Appearance Requirement. Fingerprint Background checks are not required.'

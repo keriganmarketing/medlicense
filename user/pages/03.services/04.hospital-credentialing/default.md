@@ -9,29 +9,18 @@ sidebar:
         route: /_partials/_state-medical-board-links
 enablefeatureboxes: false
 visible: true
-googletitle: 'Hospital Credentialing'
-googledesc: 'We make receiving your hospital credentials straightforward and reduce the time it takes to complete your Hospital Credentialing Process. To initiate the process, simply complete our form, forward us your CV, and then await for your licensure packet to arrive in 3 to 5 business days.'
+googletitle: 'Physician Hospital Credentialing Services'
+googledesc: 'Physician Hospital Credentialing Services for Doctors seeking  Privileges with any Hospital within any State of the Fifty States of the USA'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Hospital Credentialing | MedLicense.com'
 twitterdescription: 'We make receiving your hospital credentials straightforward and reduce the time it takes to complete your Hospital Credentialing Process. To initiate the process, simply complete our form, forward us your CV, and then await for your licensure packet to arrive in 3 to 5 business days.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Hospital Credentialing | MedLicense.com'
 facebookdesc: 'We make receiving your hospital credentials straightforward and reduce the time it takes to complete your Hospital Credentialing Process. To initiate the process, simply complete our form, forward us your CV, and then await for your licensure packet to arrive in 3 to 5 business days.'

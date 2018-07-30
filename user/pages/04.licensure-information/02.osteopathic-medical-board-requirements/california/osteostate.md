@@ -6,29 +6,18 @@ contactinformation: "<p>1300 National Drive, Suite 150<br />Sacramento, CA 95834
 aoapgt: '1 year AOA PGT'
 required: 'AOA or AMA PGT Required'
 enabled: true
-googletitle: 'California Osteopathic Licensure Requirements'
-googledesc: 'The California Osteopathic Medical License issues within 2 to 3 1/2 months for most physicians. The California Osteopathic Medical License requires that each Physician submit a set of Fingerprint cards or travel to CA to participate in the LiveScan process. Livescan is preferable but not required.'
+googletitle: 'California Osteopathic Medical License'
+googledesc: 'California Osteopathic Medical License Service for Doctors seeking an Expedited Licensure Process with the California Osteopathic Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'California Osteopathic Licensure Requirements'
 twitterdescription: 'The California Osteopathic Medical License issues within 2 to 3 1/2 months for most physicians. The California Osteopathic Medical License requires that each Physician submit a set of Fingerprint cards or travel to CA to participate in the LiveScan process. Livescan is preferable but not required.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'California Osteopathic Licensure Requirements'
 facebookdesc: 'The California Osteopathic Medical License issues within 2 to 3 1/2 months for most physicians. The California Osteopathic Medical License requires that each Physician submit a set of Fingerprint cards or travel to CA to participate in the LiveScan process. Livescan is preferable but not required.'

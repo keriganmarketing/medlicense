@@ -9,29 +9,18 @@ abms: 'No'
 step3: '6-step 1&2  3-step 3  *3 yrs of approved PGT required if outside of attempt limits'
 usmle: '10 (no year limit if Board Certified)'
 visible: false
-googletitle: 'Iowa Licensure Requirements'
-googledesc: 'The Iowa Medical Board is averaging 2 to 3 1/2 months for the issuance of an Iowa Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the Iowa Medical Board.'
+googletitle: 'Iowa Medical Board License Services'
+googledesc: 'Iowa Medical License Services for Physicians who are seeking a Medical Licensing Company to professional manage and expedite the Iowa Application process'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Iowa Licensure Requirements'
 twitterdescription: 'The Iowa Medical Board is averaging 2 to 3 1/2 months for the issuance of an Iowa Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the Iowa Medical Board.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Iowa Licensure Requirements'
 facebookdesc: 'The Iowa Medical Board is averaging 2 to 3 1/2 months for the issuance of an Iowa Medical License. MedLicense.com knows when and how to submit the Applications and in what order, and  we can push the process through once the files are deemed complete by the Iowa Medical Board.'

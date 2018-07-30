@@ -9,32 +9,21 @@ abms: Np
 step3: '3'
 usmle: none
 visible: false
-googletitle: 'New Hampshire Licensure Requirements'
-googledesc: "New Hampshire Medical Board licensure is averaging 2 - 5 1/2 months for the issuance of a New Hampshire Medical License from submission of application to the Medical Board to issuance of the Physician New Hampshire Medical Board. Our firm has licensed Physicians in New Hampshire since April 2000.  \r\n"
+googletitle: 'New Hampshire Medical Board License Service'
+googledesc: 'New Hampshire Medical License Services for Physicians seeking to expedite the Licensure process who will be applying to the New Hampshire Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'New Hampshire Licensure Requirements'
-twitterdescription: "New Hampshire Medical Board licensure is averaging 2 - 5 1/2 months for the issuance of a New Hampshire Medical License from submission of application to the Medical Board to issuance of the Physician New Hampshire Medical Board. Our firm has licensed Physicians in New Hampshire since April 2000.  \r\n"
+twitterdescription: 'New Hampshire Medical Board licensure is averaging 2 - 5 1/2 months for the issuance of a New Hampshire Medical License from submission of application to the Medical Board to issuance of the Physician New Hampshire Medical Board. Our firm has licensed Physicians in New Hampshire since April 2000.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'New Hampshire Licensure Requirements'
-facebookdesc: "New Hampshire Medical Board licensure is averaging 2 - 5 1/2 months for the issuance of a New Hampshire Medical License from submission of application to the Medical Board to issuance of the Physician New Hampshire Medical Board. Our firm has licensed Physicians in New Hampshire since April 2000.  \r\n"
+facebookdesc: 'New Hampshire Medical Board licensure is averaging 2 - 5 1/2 months for the issuance of a New Hampshire Medical License from submission of application to the Medical Board to issuance of the Physician New Hampshire Medical Board. Our firm has licensed Physicians in New Hampshire since April 2000.'
 facebookimg: /home/medlicense-social-card.jpg
 ---
 

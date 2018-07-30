@@ -9,29 +9,18 @@ abms: 'No'
 step3: '3'
 usmle: '7 (waived if licensed in 3 States)'
 visible: false
-googletitle: 'Tennessee Licensure Requirements'
-googledesc: 'Tennessee licensure is averaging 2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Tennessee Medical Board. The Tennessee Medical Board requires fingerprints, which can lengthen the licensure process.'
+googletitle: 'Tennessee Medical Board License Service'
+googledesc: 'Tennessee Medical Board Licensing Services for Physicians seeking to expedite and simplify the  Application Process for the State of Tennessee'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Tennessee Licensure Requirements'
 twitterdescription: 'Tennessee licensure is averaging 2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Tennessee Medical Board. The Tennessee Medical Board requires fingerprints, which can lengthen the licensure process.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Tennessee Licensure Requirements'
 facebookdesc: 'Tennessee licensure is averaging 2 to 3 1/2 months for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician Tennessee Medical Board. The Tennessee Medical Board requires fingerprints, which can lengthen the licensure process.'

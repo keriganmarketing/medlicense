@@ -11,29 +11,18 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 visible: true
-googletitle: 'Telemedicine Licensing'
-googledesc: 'We make the path to receiving your Telemedicine license straightforward and reduce the time it takes to complete your Telemedicine License Process. To start, simply complete our form, forward to MedLicense.com your CV, and then await for your licensure packet to arrive in 3-5 business days.'
+googletitle: 'Telemedicine License Services for Physicians'
+googledesc: 'Telemedicine License Services for Physicians  who will be filing State Medical Board applications with multiple Medical Boards to achieve an expedited process'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Telemedicine Licensing | MedLicense.com'
 twitterdescription: 'We make the path to receiving your Telemedicine license straightforward and reduce the time it takes to complete your Telemedicine License Process. To start, simply complete our form, forward to MedLicense.com your CV, and then await for your licensure packet to arrive in 3-5 business days.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Telemedicine Licensing | MedLicense.com'
 facebookdesc: 'We make the path to receiving your Telemedicine license straightforward and reduce the time it takes to complete your Telemedicine License Process. To start, simply complete our form, forward to MedLicense.com your CV, and then await for your licensure packet to arrive in 3-5 business days.'

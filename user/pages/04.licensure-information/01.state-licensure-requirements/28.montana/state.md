@@ -9,28 +9,17 @@ abms: 'No'
 step3: '3'
 usmle: '7'
 visible: false
-googletitle: 'Montana Licensure Requirements'
-googledesc: 'With the Montana Medical Board, MedLicense.com is averaging 2 to 3.5 months for the issuance of a Montana Medical License. We''ve licensed Physicians in Montana, since April 2000, and can help you through the process whether you are a USA Graduate or a Graduate of a Foreign Medical School.'
+googletitle: 'Montana Medical Board License Service'
+googledesc: 'Montana Medical License Services for Physicians seeking to expedite the State Licensure process who will be applying to the Montana Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittertitle: 'Montana Licensure Requirements'
 twitterdescription: 'With the Montana Medical Board, MedLicense.com is averaging 2 to 3.5 months for the issuance of a Montana Medical License. We''ve licensed Physicians in Montana, since April 2000, and can help you through the process whether you are a USA Graduate or a Graduate of a Foreign Medical School.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Montana Licensure Requirements'
 facebookdesc: 'With the Montana Medical Board, MedLicense.com is averaging 2 to 3.5 months for the issuance of a Montana Medical License. We''ve licensed Physicians in Montana, since April 2000, and can help you through the process whether you are a USA Graduate or a Graduate of a Foreign Medical School.'

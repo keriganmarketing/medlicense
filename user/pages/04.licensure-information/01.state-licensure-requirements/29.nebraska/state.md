@@ -9,32 +9,21 @@ abms: 'No'
 step3: '4 (each step)'
 usmle: '10'
 visible: false
-googletitle: 'Nebraska Licensure Requirements'
-googledesc: 'MedLicense.com is averaging 2 - 3.5 months for the issuance of a Nebraska Medical License from submission of application. Our firm has licensed Physicians in Nebraska,  since 2000, and the fee for our services is a one time payment of $569 (if practicing) or $469 (if in training) per State Process. '
+googletitle: 'Nebraska Medical Board License Service'
+googledesc: 'Nebraska Medical License Services for Physicians seeking to expedite the State Board Licensure process who will be applying to the Nebraska Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Nebraska Licensure Requirements'
-twitterdescription: 'MedLicense.com is averaging 2 - 3.5 months for the issuance of a Nebraska Medical License from submission of application. Our firm has licensed Physicians in Nebraska,  since 2000, and the fee for our services is a one time payment of $569 (if practicing) or $469 (if in training) per State Process. '
+twitterdescription: 'MedLicense.com is averaging 2 - 3.5 months for the issuance of a Nebraska Medical License from submission of application. Our firm has licensed Physicians in Nebraska,  since 2000, and the fee for our services is a one time payment of $569 (if practicing) or $469 (if in training) per State Process.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Nebraska Licensure Requirements'
-facebookdesc: 'MedLicense.com is averaging 2 - 3.5 months for the issuance of a Nebraska Medical License from submission of application. Our firm has licensed Physicians in Nebraska,  since 2000, and the fee for our services is a one time payment of $569 (if practicing) or $469 (if in training) per State Process. '
+facebookdesc: 'MedLicense.com is averaging 2 - 3.5 months for the issuance of a Nebraska Medical License from submission of application. Our firm has licensed Physicians in Nebraska,  since 2000, and the fee for our services is a one time payment of $569 (if practicing) or $469 (if in training) per State Process.'
 facebookimg: /home/medlicense-social-card.jpg
 ---
 

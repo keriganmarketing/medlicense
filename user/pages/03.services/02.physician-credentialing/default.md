@@ -11,29 +11,18 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 visible: true
-googletitle: 'Physician Credentialing'
-googledesc: 'Do you have physicians which need to be credentialed efficiently and quickly? Our program is proven. We can make an over whelming obstacle into an opporturnity for your company.'
+googletitle: 'Physician Credentialing Verification Services'
+googledesc: 'Physician Credentialing Verification Services CVO for Hospitals, Physician Groups,and  Insurance Companies who credential healthcare practittioners'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Physician Credentialing | MedLicense.com'
 twitterdescription: 'Do you have physicians which need to be credentialed efficiently and quickly? Our program is proven. We can make an over whelming obstacle into an opporturnity for your company.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Physician Credentialing | MedLicense.com'
 facebookdesc: 'Do you have physicians which need to be credentialed efficiently and quickly? Our program is proven. We can make an over whelming obstacle into an opporturnity for your company.'

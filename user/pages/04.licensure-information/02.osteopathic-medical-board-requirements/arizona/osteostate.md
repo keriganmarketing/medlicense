@@ -7,28 +7,17 @@ aoapgt: '1 year AOA/AMA PGT'
 required: 'AOA or AMA PGT Required'
 enabled: true
 visible: false
-googletitle: 'Arizona Osteopathic Licensure Requirements'
-googledesc: 'The Arizona Osteopathic Medical Board has a streamlined, quick process averaging 60 to 110 days for the issuance of a Arizona Osteopathic Medical License. The applications typically are approved internally and do not require a meeting to issue the license.'
+googletitle: 'Arizona Osteopathic Medical License Service'
+googledesc: 'Arizona Osteopathic Medical License Service for Physicians applying for an State Osteopathic License with the Arizona Osteopathic Medical Licensing Board'
 twitterenable: true
 twittercardoptions: summary
 twittertitle: 'Arizona Osteopathic Licensure Requirements'
 twitterdescription: 'The Arizona Osteopathic Medical Board has a streamlined, quick process averaging 60 to 110 days for the issuance of a Arizona Osteopathic Medical License. The applications typically are approved internally and do not require a meeting to issue the license.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Arizona Osteopathic Licensure Requirements'
 facebookdesc: 'The Arizona Osteopathic Medical Board has a streamlined, quick process averaging 60 to 110 days for the issuance of a Arizona Osteopathic Medical License. The applications typically are approved internally and do not require a meeting to issue the license.'

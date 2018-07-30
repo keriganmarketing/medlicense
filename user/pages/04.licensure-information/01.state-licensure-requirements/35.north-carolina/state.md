@@ -9,32 +9,21 @@ abms: 'Yes - Exempt-150 CME Hrs 3yrs'
 step3: '3 attempts per step'
 usmle: '7 or 10 (MD/PhD)'
 visible: false
-googletitle: 'North Carolina Licensure Requirements'
-googledesc: "North Carolina ranks as one of the more difficult State Medical Boards. However, licensure is averaging 45 to 90 days for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician North Carolina Medical Board. \r\n"
+googletitle: 'North Carolina Medical Board License Service'
+googledesc: 'North Carolina Medical License Services for Physicians who need an expedited process when applying to the North Carolina Board for a State Medical License'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'North Carolina Licensure Requirements'
-twitterdescription: "North Carolina ranks as one of the more difficult State Medical Boards. However, licensure is averaging 45 to 90 days for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician North Carolina Medical Board. \r\n"
+twitterdescription: 'North Carolina ranks as one of the more difficult State Medical Boards. However, licensure is averaging 45 to 90 days for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician North Carolina Medical Board.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'North Carolina Licensure Requirements'
-facebookdesc: "North Carolina ranks as one of the more difficult State Medical Boards. However, licensure is averaging 45 to 90 days for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician North Carolina Medical Board. \r\n"
+facebookdesc: 'North Carolina ranks as one of the more difficult State Medical Boards. However, licensure is averaging 45 to 90 days for Domestic Graduates from the submission of the application to the Medical Board to the issuance of the Physician North Carolina Medical Board.'
 facebookimg: /home/medlicense-social-card.jpg
 ---
 

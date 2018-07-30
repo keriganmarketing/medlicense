@@ -9,29 +9,18 @@ abms: 'Yes'
 step3: '6'
 usmle: 7+
 visible: false
-googletitle: 'Massachusetts Licensure Requirements'
-googledesc: 'MedLicense.com has licensed physicians in Massachusetts, since 2000, and handles 25-35 Massachusetts Medical License Applications each year. We understand the process of what needs to be completed. MedLicense.com is averaging 3.5-12 months for the issuance of a Massachusetts Medical License.'
+googletitle: 'Massachusetts Medical Board  License Service'
+googledesc: 'Massachusetts Medical License Services for Physicians seeking to expedite the Licensure process who will be applying to the Massachusetts Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Massachusetts Licensure Requirements'
 twitterdescription: 'MedLicense.com has licensed physicians in Massachusetts, since 2000, and handles 25-35 Massachusetts Medical License Applications each year. We understand the process of what needs to be completed. MedLicense.com is averaging 3.5-12 months for the issuance of a Massachusetts Medical License.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Massachusetts Licensure Requirements'
 facebookdesc: 'MedLicense.com has licensed physicians in Massachusetts, since 2000, and handles 25-35 Massachusetts Medical License Applications each year. We understand the process of what needs to be completed. MedLicense.com is averaging 3.5-12 months for the issuance of a Massachusetts Medical License.'

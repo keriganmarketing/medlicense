@@ -9,29 +9,18 @@ abms: 'No'
 step3: 3+
 usmle: '10'
 visible: false
-googletitle: 'Wisconsin Medical Board License Requirements'
-googledesc: 'The Wisconsin Medical Board has a typical process. The Wisconsin Medical Board does verify employment and privileges and it takes thethem 2 to 4 weeks to process applications after receipt. Licensure usually takes 2 1/2 to 4 months for most Physicians.'
+googletitle: 'Wisconsin Medical Board License Service'
+googledesc: 'Wisconsin Medical Board License Services for Physicians who are seeking an expedited process which requires little involvement of the Physician'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Wisconsin Medical Board License Requirements'
 twitterdescription: 'The Wisconsin Medical Board has a typical process. The Wisconsin Medical Board does verify employment and privileges and it takes thethem 2 to 4 weeks to process applications after receipt. Licensure usually takes 2 1/2 to 4 months for most Physicians.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Wisconsin Medical Board License Requirements'
 facebookdesc: 'The Wisconsin Medical Board has a typical process. The Wisconsin Medical Board does verify employment and privileges and it takes thethem 2 to 4 weeks to process applications after receipt. Licensure usually takes 2 1/2 to 4 months for most Physicians.'

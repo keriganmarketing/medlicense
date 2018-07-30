@@ -7,29 +7,18 @@ sidebar:
         route: /_partials/_state-licensure-requirements
 enablefeatureboxes: false
 visible: true
-googletitle: 'Military Licensing'
-googledesc: 'MedLicense.com provides special pricing for Active Military Physicians. Our normal rate is $569.00 for the First State. Our rate for Active Military Physicians is only $429.00 per state.'
+googletitle: 'Military Medical Licensing - Special Pricing'
+googledesc: 'Active Duty Military Physicians receive significant discounts with MedLicense.com for their Sacrificial Service to our Country'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Military Licensing | MedLicense.com'
 twitterdescription: 'MedLicense.com provides special pricing for Active Military Physicians. Our normal rate is $569.00 for the First State. Our rate for Active Military Physicians is only $429.00 per state.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Military Licensing | MedLicense.com'
 facebookdesc: 'MedLicense.com provides special pricing for Active Military Physicians. Our normal rate is $569.00 for the First State. Our rate for Active Military Physicians is only $429.00 per state.'

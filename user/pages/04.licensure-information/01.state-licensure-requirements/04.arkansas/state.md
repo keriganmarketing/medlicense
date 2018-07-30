@@ -9,29 +9,18 @@ abms: 'No'
 step3: '3 attempts per step'
 usmle: '7 or 10 (MD/PhD)'
 visible: false
-googletitle: 'Arkansas Licensure Requirements'
-googledesc: 'The Arkansas Medical License Service averages 3 to 6 months for licensure. Under some circumstances the AR Medical Board may issue a temporary license. The AR Medical Board has an extensive verification process but can issue licenses without requiring the application to go before a meeting.'
+googletitle: 'Arkansas Medical Board License Service'
+googledesc: 'Arkansas Medical License Service for Medical and Osteopathic Physicians seeking a Medical or Osteopathic License with the Arkansas State Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Arkansas Licensure Requirements'
 twitterdescription: 'The Arkansas Medical License Service averages 3 to 6 months for licensure. Under some circumstances the AR Medical Board may issue a temporary license. The AR Medical Board has an extensive verification process but can issue licenses without requiring the application to go before a meeting.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Arkansas Licensure Requirements'
 facebookdesc: 'The Arkansas Medical License Service averages 3 to 6 months for licensure. Under some circumstances the AR Medical Board may issue a temporary license. The AR Medical Board has an extensive verification process but can issue licenses without requiring the application to go before a meeting.'

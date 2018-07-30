@@ -9,29 +9,18 @@ abms: 'No'
 step3: None
 usmle: '7'
 visible: false
-googletitle: 'Connecticut Licensure Requirements'
-googledesc: 'Connecticut''s process is efficient with licensing times varying between 60 to 90 days depending on whether a Physician is a Domestic or Foreign Med School Graduate.The Staff is extremely helpful and Physicians who have negative issues are given a fair review and hearing of the facts.'
+googletitle: 'Connecticut Medical Board License Service'
+googledesc: 'Connecticut Medical License Service for Medical and Osteopathic Doctors seeking a Medical or Osteopathic License with the Connecticut Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Connecticut Licensure Requirements'
 twitterdescription: 'Connecticut''s process is efficient with licensing times varying between 60 to 90 days depending on whether a Physician is a Domestic or Foreign Med School Graduate.The Staff is extremely helpful and Physicians who have negative issues are given a fair review and hearing of the facts.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Connecticut Licensure Requirements'
 facebookdesc: 'Connecticut''s process is efficient with licensing times varying between 60 to 90 days depending on whether a Physician is a Domestic or Foreign Med School Graduate.The Staff is extremely helpful and Physicians who have negative issues are given a fair review and hearing of the facts.'

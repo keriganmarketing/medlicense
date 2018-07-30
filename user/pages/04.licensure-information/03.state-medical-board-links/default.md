@@ -7,6 +7,16 @@ sidebar:
         route: /_partials/_state-licensure-requirements
 enablefeatureboxes: false
 visible: true
+googletitle: 'State Medical Board Contact Information'
+googledesc: 'A complete State Medical Board Directory Info for Physicians seeking to expedite the Licensure process'
+twitterenable: true
+twittercardoptions: summary
+articleenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+facebookenable: true
 ---
 
 <ul>

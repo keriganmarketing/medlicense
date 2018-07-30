@@ -8,6 +8,16 @@ sidebar:
     -
         route: /_partials/_wise-words
 enablefeatureboxes: false
+googletitle: 'Price Points for Medical License Services'
+googledesc: 'State Medical Board License Service and Price List for Licensing and Credentialing Physicians Doctors, Nurses, Nurse Practitioners, and Physician Assistants.'
+twitterenable: true
+twittercardoptions: summary
+articleenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+facebookenable: true
 ---
 
 <div class="table-responsive">
