@@ -8,7 +8,7 @@ sidebar:
 enablefeatureboxes: false
 visible: true
 googletitle: 'International Physicians seeking a Medical License'
-googledesc: 'Physician Medical Licensing information for IMG International Foreign Physicians seeking a medical licensing service to apply for a USA License'
+googledesc: 'Physician Medical Licensing information for IMG International Foreign Physicians seeking a medical license service to apply for a USA License'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg

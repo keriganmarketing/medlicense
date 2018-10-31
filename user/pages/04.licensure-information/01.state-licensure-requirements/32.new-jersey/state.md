@@ -10,7 +10,7 @@ step3: '5'
 usmle: '7'
 visible: false
 googletitle: 'New Jersey Medical Board License Service'
-googledesc: 'New Jersey Medical License Services for Physicians who are seeking to expedite and file a Medical License Application with the New Jersey Medical Board'
+googledesc: 'New Jersey Medical License Service for Physicians who are seeking to expedite and file a Medical License Application with the New Jersey Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg

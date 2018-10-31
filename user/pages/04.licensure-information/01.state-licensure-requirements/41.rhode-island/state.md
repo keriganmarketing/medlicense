@@ -10,7 +10,7 @@ step3: '3 attempts per step'
 usmle: '7'
 visible: false
 googletitle: 'Rhode Island Medical Board  License Service'
-googledesc: 'Rhode Island Medical License Services for Physicians who are seeking a Medical Licensing Company to assist with the expediting of the application process'
+googledesc: 'Rhode Island Medical License Service for Physicians who are seeking a Medical Licensing Company to assist with the expediting of the application process'
 twitterenable: true
 twittercardoptions: summary
 twittertitle: 'Rhode Island Licensure Requirements'

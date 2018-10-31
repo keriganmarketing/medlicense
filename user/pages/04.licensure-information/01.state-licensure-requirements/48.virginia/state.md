@@ -10,7 +10,7 @@ step3: None
 usmle: 10+
 visible: false
 googletitle: 'Virginia Medical Board License Service'
-googledesc: 'Virginia Medical License Services for Physicians seeking to expedite the State Board Licensure process who will be applying to the Virginia Medical Board'
+googledesc: 'Virginia Medical License Services for Physicians seeking to expedite the State Board Licensure process who will be applying to the VA Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg

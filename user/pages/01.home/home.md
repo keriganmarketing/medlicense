@@ -44,7 +44,7 @@ facebookauthor: 'https://www.facebook.com/MedLicense/'
 facebookimg: /home/medlicense-social-card.jpg
 ---
 
-<h1 id="mcetoc_1cec8a5l50">Expedited Medical License Service</h1>
+<h1 id="mcetoc_1cec8a5l50">Expedited State Medical Licensing</h1>
 <p>MedLicense.com&trade; is the nation's premier Physician Licensing Company. Over 61,000 Physicians have utilized MedLicense.com's Medical License Service to obtain their State Medical Board Licenses since 2001. In 2016, MedLicense.com licensed 2% of all Physicians licensed in the 50 States. MedLicense.com is the Recognized Industry Leader in Physician Licensing. There is only One MedLicense.com. MedLicense.com licenses Physicians in all 50 States. Simply fill out our form and we will handle the rest. The licensure process is time consuming and requires knowledge of each State Med Boards' regulatory process. Whether you are applying for a medical license in Florida, New York, California, Georgia, or all the states in between, MedLicense.com can expedite your medical license process by applying our knowledge of the licensure requirements and aggressively following up with all State Board Applications.</p>
 <p><a class="btn btn-secondary" href="../../pricing">Purchase Licensing Services <em class="fa fa-sm fa-play" aria-hidden="true">&nbsp;</em></a></p>
 <h3 id="mcetoc_1cec8a5l51">Our Process: How does our Medical License Service work?</h3>

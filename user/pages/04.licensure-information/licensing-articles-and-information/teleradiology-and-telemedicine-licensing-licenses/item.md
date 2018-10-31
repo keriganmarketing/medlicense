@@ -8,28 +8,17 @@ sidebar:
 enablefeatureboxes: false
 date: '05/20/2011 11:49 am'
 googletitle: 'Teleradiology and Telemedicine Licensing'
-googledesc: "Our experience is unmatched in the field of Teleradiology and Telemedicine. Radiologist and Locum Tenens Specialist have utilized our services to obtain licenses in all 50 States. It is not uncommon for us to provide nationwide licensure to a Teleradiologist setting up Teleradiology practices.\r\n"
+googledesc: 'Our experience is unmatched in the field of Teleradiology and Telemedicine. Radiologist and Locum Tenens Specialist have utilized our services to obtain licenses in all 50 States. It is not uncommon for us to provide nationwide licensure to a Teleradiologist setting up Teleradiology practices.'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Teleradiology and Telemedicine Licensing'
-twitterdescription: "Our experience is unmatched in the field of Teleradiology and Telemedicine. Radiologist and Locum Tenens Specialist have utilized our services to obtain licenses in all 50 States. It is not uncommon for us to provide nationwide licensure to a Teleradiologist setting up Teleradiology practices.\r\n"
+twitterdescription: 'Our experience is unmatched in the field of Teleradiology and Telemedicine. Radiologist and Locum Tenens Specialist have utilized our services to obtain licenses in all 50 States. It is not uncommon for us to provide nationwide licensure to a Teleradiologist setting up Teleradiology practices.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Teleradiology and Telemedicine Licensing'
 facebookdesc: 'Our experience is unmatched in the field of Teleradiology and Telemedicine. Radiologist and Locum Tenens Specialist have utilized our services to obtain licenses in all 50 States. It is not uncommon for us to provide nationwide licensure to a Teleradiologist setting up Teleradiology practices.'

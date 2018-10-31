@@ -7,8 +7,8 @@ aoapgt: '1 year AOA/AMA PGT'
 required: 'AOA or AMA PGT Required'
 enabled: true
 visible: false
-googletitle: 'Arizona Osteopathic Medical License Service'
-googledesc: 'Arizona Osteopathic Medical License Service for Physicians applying for an State Osteopathic License with the Arizona Osteopathic Medical Licensing Board'
+googletitle: 'Arizona Osteopathic Board License Service'
+googledesc: 'Arizona Osteopathic Medical License Service for Physicians applying for an State Osteopathic License with the Arizona Osteopathic Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittertitle: 'Arizona Osteopathic Licensure Requirements'

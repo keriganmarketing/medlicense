@@ -11,29 +11,18 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 date: '08/14/2017 11:56 am'
-googletitle: 'Medical Board Attorneys'
-googledesc: 'MedLicense.com has a short list of attorneys who are recognized in their State as a leader in their field  State Medical Board Licensing Issues.'
+googletitle: 'MedLicense Approved Medical Board Attorneys'
+googledesc: 'MedLicense.com  approved licensure attorneys who are recognized in their State as a leader in their field  State Medical Board Licensing Issues.'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Medical Board Attorneys'
 twitterdescription: 'MedLicense.com has a short list of attorneys who are recognized in their State as a leader in their field  State Medical Board Licensing Issues.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Medical Board Attorneys'
 facebookdesc: 'MedLicense.com has a short list of attorneys who are recognized in their State as a leader in their field  State Medical Board Licensing Issues.'

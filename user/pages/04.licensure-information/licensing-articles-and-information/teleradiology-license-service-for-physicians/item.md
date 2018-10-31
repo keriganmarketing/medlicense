@@ -1,5 +1,5 @@
 ---
-title: 'Teleradiology License Service for Physicians'
+title: 'Teleradiology Licensing Information  for Physicians'
 sidebar:
     -
         route: /_partials/_three-easy-steps
@@ -11,7 +11,7 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 date: '04/11/2018 11:51 am'
-googletitle: 'Teleradiology License Service for Physicians'
+googletitle: 'Nation Wide Teleradiology License Info  '
 googledesc: 'Physician''s practicing Teleradiology need to protect themselves by obtaining a Full Medical License or Teleradiology license in each State where they will be accepting Teleradiology Contracts. The cost is minimal compared to the risk of not being licensed.'
 twitterenable: true
 twittercardoptions: summary
@@ -19,21 +19,10 @@ twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Teleradiology License Service for Physicians'
 twitterdescription: 'Physician''s practicing Teleradiology need to protect themselves by obtaining a Full Medical License or Teleradiology license in each State where they will be accepting Teleradiology Contracts. The cost is minimal compared to the risk of not being licensed.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Teleradiology License Service for Physicians'
 facebookdesc: 'Physician''s practicing Teleradiology need to protect themselves by obtaining a Full Medical License or Teleradiology license in each State where they will be accepting Teleradiology Contracts. The cost is minimal compared to the risk of not being licensed.'

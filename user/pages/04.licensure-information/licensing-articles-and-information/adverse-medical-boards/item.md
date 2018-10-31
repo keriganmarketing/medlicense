@@ -11,29 +11,18 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 date: '10/04/2017 11:55 am'
-googletitle: 'Adverse Medical Boards'
-googledesc: 'We have obtained statistics from 2002 which provides the number of Medical Board Disciplinary Actions taken against their Physicians by State. The tables are meant to provide a general overview of how AntiDoctor each State Medical Board may or may not be.'
+googletitle: 'Adverse State Medical Boards'
+googledesc: 'Statistics from 2002 which provides the number of Medical Board Disciplinary Actions taken against their Physicians by State. The tables are meant to provide a general overview of how AntiDoctor each State Medical Board may or may not be.'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
 twittertitle: 'Adverse Medical Boards'
 twitterdescription: 'We have obtained statistics from 2002 which provides the number of Medical Board Disciplinary Actions taken against their Physicians by State. The tables are meant to provide a general overview of how AntiDoctor each State Medical Board may or may not be.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 facebooktitle: 'Adverse Medical Boards'
 facebookdesc: 'We have obtained statistics from 2002 which provides the number of Medical Board Disciplinary Actions taken against their Physicians by State. The tables are meant to provide a general overview of how AntiDoctor each State Medical Board may or may not be.'

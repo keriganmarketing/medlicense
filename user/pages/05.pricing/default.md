@@ -134,10 +134,23 @@ facebookenable: true
 <td>$959</td>
 </tr>
 <tr>
-<td>Corporate Nurse (RN) Licensing Service</td>
+<td>
+<table style="width: 22px;">
+<tbody>
+<tr>
+<td style="width: 10px;">&nbsp;</td>
+<td style="width: 12px;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
 <td>&nbsp;</td>
-<td>$389</td>
+<td>&nbsp;</td>
 </tr>
 </tbody>
 </table>
 </div>
+<p>Price points posted above are the MedLicense.com service fee only.&nbsp;</p>
+<p>All Fees charged by the State Medical Board, Institutions, and 3rd Parties are paid by the Physician.</p>
+<p>Refund Policy: &nbsp; Refunds are provided at 100% until the Licensure Packet is delivered to the Physician. 50% once the packet is delivered up to 30 days after receipt by the Physician. 50% refunds are provided once the completed packet is returned to MedLicense.com for destruction.&nbsp;</p>

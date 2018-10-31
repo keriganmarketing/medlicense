@@ -7,7 +7,7 @@ sidebar:
         route: /_partials/_state-licensure-requirements
 enablefeatureboxes: false
 googletitle: 'Contact Information'
-googledesc: 'Contact information for MedLicense.com the recognized National Leader in Expedited State Medical Board Licensing for Physicians seeking a Medical License'
+googledesc: 'Contact information - MedLicense.com the recognized National Leader in Expedited State Medical Board Licensing for Physicians seeking a Medical License'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
@@ -24,7 +24,9 @@ facebookdesc: 'MedLicense.com provides Medical Licensing services for Doctors an
 facebookimg: /home/medlicense-social-card.jpg
 ---
 
-<p>653 West 23rd Street, Suite 189<br />Panama City, FL 32405</p>
+<p>1639 Bradley Park Drive</p>
+<p>Suite 500, Box 357</p>
+<p>Columbus, GA 31904</p>
 <p>Phone: (770) 456-5932<br />Fax: (770) 217-9937</p>
 <p>Email: <a href="mailto:info@medlicense.com">info@medlicense.com</a></p>
 <h3 id="mcetoc_1cebrimqs0">Office Hours</h3>

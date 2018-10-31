@@ -10,8 +10,8 @@ sidebar:
     -
         route: /_partials/_wise-words
 enablefeatureboxes: false
-googletitle: 'State Medical Board License Requirements'
-googledesc: 'State Medical Board License requirements listed by State, USMLE, PGT requirements for Physicians and Doctors for Licensing with any State Medical Board'
+googletitle: 'State Medical Board Licensing Requirements'
+googledesc: 'State Medical Board License requirements by State, USMLE, PGT requirements for Physicians and Doctors for Licensing with any State Medical Board'
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false

@@ -10,7 +10,7 @@ step3: '3'
 usmle: '7'
 visible: false
 googletitle: 'Montana Medical Board License Service'
-googledesc: 'Montana Medical License Services for Physicians seeking to expedite the State Licensure process who will be applying to the Montana Medical Board'
+googledesc: 'Montana Medical License Services for Physicians seeking an expedited  State Licensure process when they apply to the Montana Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittertitle: 'Montana Licensure Requirements'

@@ -11,8 +11,8 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 visible: true
-googletitle: 'Physician Credentialing Verification Services'
-googledesc: 'Physician Credentialing Verification Services CVO for Hospitals, Physician Groups,and  Insurance Companies who credential healthcare practittioners'
+googletitle: 'Physician Credentialing Verification Service'
+googledesc: 'Physician Credentialing Verification Services (CVO) for Hospitals, Physician Groups,and Insurance Companies who credential healthcare practittioners'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg

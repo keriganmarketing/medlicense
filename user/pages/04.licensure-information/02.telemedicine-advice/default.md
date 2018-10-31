@@ -11,8 +11,8 @@ sidebar:
         route: /_partials/_wise-words
 enablefeatureboxes: false
 visible: true
-googletitle: 'Telemedicine Advice for Physicians'
-googledesc: 'Telemedicine State Medical Board Licensure Advice for Physicians and Doctors seeking to practice Telemedicine with multiple State Medical Boards'
+googletitle: 'Telemedicine Licensing Advice for Physicians'
+googledesc: 'Telemedicine State Medical Board  Licensure Advice for Physicians seeking to practice Telemedicine with multiple State Medical Boards'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg

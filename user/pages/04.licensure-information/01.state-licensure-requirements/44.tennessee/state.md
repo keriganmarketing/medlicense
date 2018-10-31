@@ -10,7 +10,7 @@ step3: '3'
 usmle: '7 (waived if licensed in 3 States)'
 visible: false
 googletitle: 'Tennessee Medical Board License Service'
-googledesc: 'Tennessee Medical Board Licensing Services for Physicians seeking to expedite and simplify the  Application Process for the State of Tennessee'
+googledesc: 'Tennessee Medical Board Licensing Service for Physicians seeking to expedite and simplify the  Application Process for the State of Tennessee'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg

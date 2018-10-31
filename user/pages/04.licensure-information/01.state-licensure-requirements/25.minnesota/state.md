@@ -10,7 +10,7 @@ step3: '3 (if not licensed)  4 (if licensed and board certified)'
 usmle: 'Step 3 must be passed within 5 years of Step 2 or before the end of the residency training'
 visible: false
 googletitle: 'Minnesota Medical Board License Service'
-googledesc: 'Minnesota Medical Licensing Services for Physicians seeking to expedite the State Licensure process who will be applying to the Minnesota Medical Board'
+googledesc: 'Minnesota Medical Licensing Service for Physicians seeking to expedite the State Licensure process who will be applying to the Minnesota Medical Board'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /home/medlicense-social-card.jpg
