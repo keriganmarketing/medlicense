@@ -28,6 +28,6 @@ facebookimg: /home/medlicense-social-card.jpg
 ---
 
 <p>The Vermont Medical Board has a typical process. Most of the physician's timeline is verified by the Vermont Medical Board. The Board processes application quickly. After submitting the Vermont Medical License Application, the Vermont Medical Board will process and notify the physician of the deficiencies necessary to complete the application within a couple of weeks. The Vermont Medical Board provides access to the licensure analysts. This allows for the verifying of receipt of the required verifications which must be received by the Vermont Medical Board. The staff is helpful and pleasant to work with. Mail loss typically is not a problem with the Vermont Medical Board. This also assists in providing for an expedited process.</p>
-<p>MedLicense.com is experiencing licensure times of 2 1/2 to 3 1/2 months for the Vermont Medical License for most Physicians.</p>
+<p>MedLicense.com is experiencing licensure times of 2 1/2 to 4 1/2 months for the Vermont Medical License for most Physicians.</p>
 <h2 id="mcetoc_1ce9me1q60">Additional Vermont Medical Board Licensing Information:</h2>
 <p>Vermont is requires a personal interview. Unlike other State Medical Boards, the interview can be conducted by Video Conference through the Internet. The application with Vermont is exhaustive and can take some time to work through. The Board is not an adverse Medical Board (The MD Board). The Osteopathic Vermont Board is adverse and tends to obsess over non-issues whereas the MD Medical Board does not.</p>

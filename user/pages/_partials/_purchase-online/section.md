@@ -1,6 +1,16 @@
 ---
 title: 'Purchase Online'
 media_order: creditcardmedlicense.jpg
+sidebar:
+    -
+        route: /_partials/_three-easy-steps
+    -
+        route: /_partials/_state-licensure-requirements
+    -
+        route: /_partials/_state-medical-board-links
+    -
+        route: /_partials/_wise-words
+enablefeatureboxes: false
 ---
 
 <p><a class="btn btn-secondary" href="https://www.secure-access.net/~medlicense/maaform/ccmaaform.html" target="_blank" rel="noopener">Continue to Purchase Form</a></p>

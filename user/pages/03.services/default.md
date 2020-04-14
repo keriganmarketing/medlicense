@@ -2,7 +2,7 @@
 title: Services
 sidebar:
     -
-        route: /_partials/_three-easy-steps
+        route: /_partials/_purchase-online
     -
         route: /_partials/_state-licensure-requirements
     -

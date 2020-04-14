@@ -20,6 +20,7 @@ orga:
     ratingValue: 2.5
 orgaratingenabled: false
 facebookenable: true
+facebookdesc: 'State Medical Board Licensing Requirements - All 50 States'
 content:
     items:
         - '@self.children'

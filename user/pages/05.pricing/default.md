@@ -26,57 +26,57 @@ facebookenable: true
 <tr>
 <td>State Medical License Service</td>
 <td>&nbsp;</td>
-<td>$599</td>
+<td>$649</td>
 </tr>
 <tr>
-<td>State Medical License Servicefor Residents</td>
+<td>State Medical License Service for Residents</td>
 <td>&nbsp;</td>
-<td>$489</td>
+<td>$499</td>
 </tr>
 <tr>
 <td>State Medical License Service for Military</td>
 <td>&nbsp;</td>
-<td>$469</td>
+<td>$499</td>
 </tr>
 <tr>
 <td>Multiple State Board Licensing</td>
 <td>1st State</td>
-<td>$599</td>
+<td>$649</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>2nd State</td>
-<td>$569</td>
+<td>$609</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>3rd State</td>
-<td>$539</td>
+<td>$579</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>4th State</td>
-<td>$509</td>
+<td>$539</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>Each Thereafter</td>
-<td>$469</td>
+<td>$499</td>
 </tr>
 <tr>
 <td>5 or More States Ordered at Once</td>
 <td>(per State)</td>
-<td>$469</td>
+<td>$499</td>
 </tr>
 <tr>
 <td>10 or More States Ordered at Once</td>
 <td>(per State)</td>
-<td>$449</td>
+<td>$469</td>
 </tr>
 <tr>
 <td>20 or More States Ordered at Once</td>
 <td>(per State)</td>
-<td>$429</td>
+<td>$449</td>
 </tr>
 <tr>
 <td>Puerto Rico Medical Board License Service</td>
@@ -86,7 +86,7 @@ facebookenable: true
 <tr>
 <td>Hospital Privilege Credentialing</td>
 <td>(per hospital)</td>
-<td>$429</td>
+<td>$469</td>
 </tr>
 <tr>
 <td>Insurance Credentialing (practitioner)</td>
@@ -130,6 +130,16 @@ facebookenable: true
 </tr>
 <tr>
 <td>Corporate Nurse Practitioner (APRN) Licensing Service</td>
+<td>&nbsp;</td>
+<td>$649</td>
+</tr>
+<tr>
+<td>RN Nurse Licensing Service (per State)</td>
+<td>&nbsp;</td>
+<td>$349</td>
+</tr>
+<tr>
+<td>Physician's with Suspensions/Revocations (per State)</td>
 <td>&nbsp;</td>
 <td>$959</td>
 </tr>
